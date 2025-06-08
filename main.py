@@ -19,15 +19,8 @@ def fetch_episode_transcript(episode_number):
         
         if response.status_code == 404:
             print(f"Episode {episode_number} not found (404).")
-            
-            # Try next to see if hit max episode
-            url = f"{BASE_URL}{episode_number+1}"
-            response = requests.get(url, headers=headers)
-            if response.status_code == 404:
-                print(f"Episode {episode_number+1} also not found (404). Likely surpassed latest episode.")
-                return None
-            elif response.status_code == 200:
-                print(f"Episode {episode_number+1} found. Continuing search.")
+            return None
+
         response.raise_for_status()
 
     except Exception as e:
@@ -67,6 +60,22 @@ def fetch_episode_transcript(episode_number):
 
     return '\n'.join(transcript)
 
+def check_for_latest_episode(episode_number):
+    # Try next to see if hit max episode
+    url = f"{BASE_URL}{episode_number+1}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    
+    response = requests.get(url, headers=headers)
+    
+    if response.status_code == 404:
+        print(f"Episode {episode_number+1} not found (404). Likely surpassed latest episode.")
+        return True
+    elif response.status_code == 200:
+        print(f"Episode {episode_number+1} found. Continuing search.")
+        return False
+
 def main():
     # Read the existing file to determine which episodes are already present
     existing_episodes = set()
@@ -94,8 +103,8 @@ def main():
                 f.write(f"## Episode {episode_number}\n")
                 f.write(f"{transcript}\n\n")
                 episode_number += 1
-            else:
-                print(f"Stopping search after episode {episode_number - 1}.")
+            elif check_for_latest_episode(episode_number):
+                print(f"No more episodes found after {episode_number - 1}.")
                 break
 
             # Be polite to the server
