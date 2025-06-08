@@ -56,18 +56,31 @@ def fetch_episode_transcript(episode_number):
 
 
 def main():
-    with open(OUTPUT_FILE, 'r+', encoding='utf-8') as f:
-        f.write("# Rational Reminder Episodes\n\n")
+    # Read the existing file to determine which episodes are already present
+    existing_episodes = set()
+    try:
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+            for line in f:
+                match = re.match(r"## Episode (\d+)", line)
+                if match:
+                    existing_episodes.add(int(match.group(1)))
+        print(f"Existing episodes: {existing_episodes}")
+    except FileNotFoundError:
+        print(f"{OUTPUT_FILE} not found. A new file will be created.")
 
-        for episode_number in range(1, 361):
+    # Create an array of episode numbers that don't exist in the file
+    missing_episodes = [ep for ep in range(1, 361) if ep not in existing_episodes]
+    print(f"Missing episodes: {missing_episodes}")
+
+    with open(OUTPUT_FILE, 'a+', encoding='utf-8') as f:
+        # Write the header if the file is empty
+        f.seek(0)
+        if not f.read().strip():
+            f.write("# Rational Reminder Episodes\n\n")
+
+        for episode_number in missing_episodes:
             transcript = fetch_episode_transcript(episode_number)
             if transcript:
-                # Check if the episode header already exists in the file
-                f.seek(0)  # Move to the beginning of the file
-                if f"## Episode {episode_number}\n" in f.read():
-                    print(f"Episode {episode_number} already exists in the file. Skipping.")
-                    continue
-
                 # Write the episode header and transcript
                 f.write(f"## Episode {episode_number}\n")
                 f.write(f"{transcript}\n\n")
@@ -78,7 +91,6 @@ def main():
             time.sleep(sleep_time)
 
     print(f"\nDone! Transcripts saved to {OUTPUT_FILE}")
-
 
 if __name__ == "__main__":
     main()
