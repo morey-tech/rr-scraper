@@ -102,11 +102,11 @@ def main():
                 # Write the episode header and transcript
                 f.write(f"## Episode {episode_number}\n")
                 f.write(f"{transcript}\n\n")
-                episode_number += 1
             elif check_for_latest_episode(episode_number):
                 print(f"No more episodes found after {episode_number - 1}.")
                 break
 
+            episode_number += 1
             # Be polite to the server
             sleep_time = random.uniform(0.2, 3.5)  # Random delay between 200ms and 3.5s
             print(f"Sleeping for {sleep_time:.2f} seconds...")
