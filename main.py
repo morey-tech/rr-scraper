@@ -16,7 +16,20 @@ def fetch_episode_transcript(episode_number):
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         }
         response = requests.get(url, headers=headers)
+        
+        if response.status_code == 404:
+            print(f"Episode {episode_number} not found (404).")
+            
+            # Try next to see if hit max episode
+            url = f"{BASE_URL}{episode_number+1}"
+            response = requests.get(url, headers=headers)
+            if response.status_code == 404:
+                print(f"Episode {episode_number+1} also not found (404). Likely surpassed latest episode.")
+                return None
+            elif response.status_code == 200:
+                print(f"Episode {episode_number+1} found. Continuing search.")
         response.raise_for_status()
+
     except Exception as e:
         print(f"Failed to fetch episode {episode_number}: {e}")
         return None
@@ -54,7 +67,6 @@ def fetch_episode_transcript(episode_number):
 
     return '\n'.join(transcript)
 
-
 def main():
     # Read the existing file to determine which episodes are already present
     existing_episodes = set()
@@ -68,23 +80,24 @@ def main():
     except FileNotFoundError:
         print(f"{OUTPUT_FILE} not found. A new file will be created.")
 
-    # Create an array of episode numbers that don't exist in the file
-    missing_episodes = [ep for ep in range(1, 361) if ep not in existing_episodes]
-    print(f"Missing episodes: {missing_episodes}")
-
     with open(OUTPUT_FILE, 'a+', encoding='utf-8') as f:
         # Write the header if the file is empty
         f.seek(0)
         if not f.read().strip():
             f.write("# Rational Reminder Episodes\n\n")
 
-        for episode_number in missing_episodes:
+        episode_number = max(existing_episodes, default=0) + 1
+        while True:
             transcript = fetch_episode_transcript(episode_number)
             if transcript:
                 # Write the episode header and transcript
                 f.write(f"## Episode {episode_number}\n")
                 f.write(f"{transcript}\n\n")
-            
+                episode_number += 1
+            else:
+                print(f"Stopping search after episode {episode_number - 1}.")
+                break
+
             # Be polite to the server
             sleep_time = random.uniform(0.2, 3.5)  # Random delay between 200ms and 3.5s
             print(f"Sleeping for {sleep_time:.2f} seconds...")
