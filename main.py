@@ -56,12 +56,19 @@ def fetch_episode_transcript(episode_number):
 
 
 def main():
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    with open(OUTPUT_FILE, 'r+', encoding='utf-8') as f:
         f.write("# Rational Reminder Episodes\n\n")
 
         for episode_number in range(1, 361):
             transcript = fetch_episode_transcript(episode_number)
             if transcript:
+                # Check if the episode header already exists in the file
+                f.seek(0)  # Move to the beginning of the file
+                if f"## Episode {episode_number}\n" in f.read():
+                    print(f"Episode {episode_number} already exists in the file. Skipping.")
+                    continue
+
+                # Write the episode header and transcript
                 f.write(f"## Episode {episode_number}\n")
                 f.write(f"{transcript}\n\n")
             
