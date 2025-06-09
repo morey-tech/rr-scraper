@@ -1,3 +1,4 @@
+import os
 import random
 import requests
 from bs4 import BeautifulSoup
@@ -5,7 +6,8 @@ import time
 import re
 
 BASE_URL = "https://rationalreminder.ca/podcast/"
-OUTPUT_FILE = "rational_reminder_transcripts.md"
+OUTPUT_FOLDER = "transcripts"
+OUTPUT_FILE = f"{OUTPUT_FOLDER}/all.md"
 
 def fetch_episode_transcript(episode_number):
     url = f"{BASE_URL}{episode_number}"
@@ -76,9 +78,54 @@ def check_for_latest_episode(episode_number):
         print(f"Episode {episode_number+1} found. Continuing search.")
         return False
 
+def split_transcripts():
+    try:
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except FileNotFoundError:
+        print(f"Input file '{OUTPUT_FILE}' not found.")
+        return
+
+    # Split the content into episodes using the "## Episode N" header as a delimiter
+    episodes = re.split(r"(## Episode \d+)", content)
+    
+    # The first element may be empty or unrelated content, so we skip it
+    episodes = episodes[1:]
+
+    # Process episodes in pairs: header and content
+    for i in range(0, len(episodes), 2):
+        if i + 1 >= len(episodes):
+            break
+        header = episodes[i].strip()
+        body = episodes[i + 1].strip()
+
+        # Extract the episode number from the header
+        match = re.match(r"## Episode (\d+)", header)
+        if not match:
+            print(f"Skipping malformed header: {header}")
+            continue
+
+        episode_number = match.group(1)
+        output_file = os.path.join(OUTPUT_FOLDER, f"episode_{episode_number}.md")
+
+
+        if os.path.exists(output_file):
+            continue
+
+        # Write the episode content to a separate file
+        with open(output_file, 'w', encoding='utf-8') as out_f:
+            out_f.write(f"{header}\n\n{body}")
+
+        print(f"Saved Episode {episode_number} to {output_file}")
+
 def main():
     # Read the existing file to determine which episodes are already present
     existing_episodes = set()
+
+    # Ensure the output folder exists
+    if not os.path.exists(OUTPUT_FOLDER):
+        os.makedirs(OUTPUT_FOLDER)
+    
     try:
         with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
             for line in f:
@@ -113,6 +160,7 @@ def main():
             time.sleep(sleep_time)
 
     print(f"\nDone! Transcripts saved to {OUTPUT_FILE}")
+    split_transcripts()
 
 if __name__ == "__main__":
     main()
