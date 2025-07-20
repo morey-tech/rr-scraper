@@ -79,6 +79,13 @@ def check_for_latest_episode(episode_number):
         return False
 
 def split_transcripts():
+    # Define the subdirectory for groups of 20 episodes
+    group_output_folder = os.path.join(OUTPUT_FOLDER, "groups_of_20")
+
+    # Ensure the output folder exists
+    if not os.path.exists(group_output_folder):
+        os.makedirs(group_output_folder)
+
     try:
         with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -111,7 +118,7 @@ def split_transcripts():
         start_episode_padded = str(start_episode).zfill(5)
         end_episode_padded = str(end_episode).zfill(5)
 
-        output_file = os.path.join(OUTPUT_FOLDER, f"episodes_{start_episode_padded}_to_{end_episode_padded}.md")
+        output_file = os.path.join(group_output_folder, f"episodes_{start_episode_padded}_to_{end_episode_padded}.md")
 
         with open(output_file, 'w', encoding='utf-8') as out_f:
             out_f.write("\n\n".join(chunk))
