@@ -92,31 +92,31 @@ def split_transcripts():
     # The first element may be empty or unrelated content, so we skip it
     episodes = episodes[1:]
 
-    # Process episodes in pairs: header and content
+    # Combine headers and bodies into pairs
+    episode_pairs = []
     for i in range(0, len(episodes), 2):
         if i + 1 >= len(episodes):
             break
         header = episodes[i].strip()
         body = episodes[i + 1].strip()
+        episode_pairs.append(f"{header}\n\n{body}")
 
-        # Extract the episode number from the header
-        match = re.match(r"## Episode (\d+)", header)
-        if not match:
-            print(f"Skipping malformed header: {header}")
-            continue
+    # Write episodes into files, 20 episodes per file
+    for i in range(0, len(episode_pairs), 20):
+        chunk = episode_pairs[i:i + 20]
+        start_episode = (i // 20) * 20 + 1
+        end_episode = start_episode + len(chunk) - 1
 
-        episode_number = match.group(1)
-        output_file = os.path.join(OUTPUT_FOLDER, f"episode_{episode_number}.md")
+        # Zero-pad the episode numbers to 5 digits
+        start_episode_padded = str(start_episode).zfill(5)
+        end_episode_padded = str(end_episode).zfill(5)
 
+        output_file = os.path.join(OUTPUT_FOLDER, f"episodes_{start_episode_padded}_to_{end_episode_padded}.md")
 
-        if os.path.exists(output_file):
-            continue
-
-        # Write the episode content to a separate file
         with open(output_file, 'w', encoding='utf-8') as out_f:
-            out_f.write(f"{header}\n\n{body}")
+            out_f.write("\n\n".join(chunk))
 
-        print(f"Saved Episode {episode_number} to {output_file}")
+        print(f"Saved episodes {start_episode} to {end_episode} in {output_file}")
 
 def main():
     # Read the existing file to determine which episodes are already present
