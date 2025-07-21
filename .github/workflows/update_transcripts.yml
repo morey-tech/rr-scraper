@@ -41,8 +41,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
+            if [ -f /tmp/downloaded_episodes.txt ]; then
+              downloaded_episodes=$(cat /tmp/downloaded_episodes.txt)
+              commit_message="chore: Update transcripts with episode(s) $downloaded_episodes"
+            else
+              commit_message="chore: Update transcripts"
+            fi
             git add transcripts/
-            git commit -m "chore: Update transcripts"
+            git commit -m "$commit_message"
             git push
           else
             echo "No changes to commit."

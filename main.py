@@ -143,6 +143,10 @@ def main():
     except FileNotFoundError:
         print(f"{OUTPUT_FILE} not found. A new file will be created.")
 
+    # Track episodes downloaded in the current run
+    downloaded_episodes_file = "/tmp/downloaded_episodes.txt"
+    downloaded_episodes = []  # Store episode numbers in a list
+
     with open(OUTPUT_FILE, 'a+', encoding='utf-8') as f:
         # Write the header if the file is empty
         f.seek(0)
@@ -156,6 +160,8 @@ def main():
                 # Write the episode header and transcript
                 f.write(f"## Episode {episode_number}\n")
                 f.write(f"{transcript}\n\n")
+                # Add the downloaded episode to the list
+                downloaded_episodes.append(str(episode_number))
             elif check_for_latest_episode(episode_number):
                 print(f"No more episodes found after {episode_number - 1}.")
                 break
@@ -166,7 +172,12 @@ def main():
             print(f"Sleeping for {sleep_time:.2f} seconds...")
             time.sleep(sleep_time)
 
+    # Write the downloaded episodes to the temporary file as a comma-separated list
+    with open(downloaded_episodes_file, 'w', encoding='utf-8') as tmp_file:
+        tmp_file.write(", ".join(downloaded_episodes))
+
     print(f"\nDone! Transcripts saved to {OUTPUT_FILE}")
+    print(f"Episodes downloaded during this run are logged in {downloaded_episodes_file}")
     split_transcripts()
 
 if __name__ == "__main__":
