@@ -86,6 +86,15 @@ def split_transcripts():
     if not os.path.exists(group_output_folder):
         os.makedirs(group_output_folder)
 
+    # Clean up old group files before regenerating
+    print("Cleaning up old episode group files...")
+    if os.path.exists(group_output_folder):
+        for old_file in os.listdir(group_output_folder):
+            if old_file.startswith("episodes_") and old_file.endswith(".md"):
+                old_file_path = os.path.join(group_output_folder, old_file)
+                os.remove(old_file_path)
+                print(f"Removed old file: {old_file}")
+
     try:
         with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
             content = f.read()
