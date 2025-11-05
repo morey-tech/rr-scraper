@@ -120,8 +120,17 @@ def split_transcripts():
     # Write episodes into files, 20 episodes per file
     for i in range(0, len(episode_pairs), 20):
         chunk = episode_pairs[i:i + 20]
-        start_episode = (i // 20) * 20 + 1
-        end_episode = start_episode + len(chunk) - 1
+
+        # Extract actual episode numbers from the first and last episode in the chunk
+        first_episode_match = re.search(r'## Episode (\d+)', chunk[0])
+        last_episode_match = re.search(r'## Episode (\d+)', chunk[-1])
+
+        if not first_episode_match or not last_episode_match:
+            print(f"Warning: Could not extract episode numbers from chunk starting at index {i}")
+            continue
+
+        start_episode = int(first_episode_match.group(1))
+        end_episode = int(last_episode_match.group(1))
 
         # Zero-pad the episode numbers to 5 digits
         start_episode_padded = str(start_episode).zfill(5)
