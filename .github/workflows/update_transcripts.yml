@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: '3.12.x'
 
+      - name: Test transcript storage and migration
+        run: python3 -m unittest discover -p 'test_*.py' -v
+
       # Install dependencies
       - name: Install dependencies
         run: |
@@ -40,14 +43,14 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain)" ]; then
-            if [ -f /tmp/downloaded_episodes.txt ]; then
+          git add transcripts/
+          if ! git diff --cached --quiet -- transcripts/; then
+            if [ -s /tmp/downloaded_episodes.txt ]; then
               downloaded_episodes=$(cat /tmp/downloaded_episodes.txt)
               commit_message="chore: Update transcripts with episode(s) $downloaded_episodes"
             else
               commit_message="chore: Update transcripts"
             fi
-            git add transcripts/
             git commit -m "$commit_message"
             git push
           else
