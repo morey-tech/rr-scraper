@@ -215,7 +215,6 @@ Ben Felix: Common Sense Investing on YouTube so you can check us out there too. 
 
 Cameron Passmore: It's a wrap.
 
-
 ## Episode 2
 Ben Felix: This is The Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
 
@@ -468,7 +467,6 @@ Cameron Passmore: No, that's good.
 Ben Felix: All right.
 
 Cameron Passmore: Talk to you this week.
-
 
 ## Episode 3
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. 
@@ -752,7 +750,6 @@ Ben Felix: The same thing between stocks and bonds, same thing. It's exactly the
 Cameron Passmore: No, that's a pretty good list I think for week three, I believe.
 
 Ben Felix: This is episode number three. We'll back next week.
-
 
 ## Episode 4
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -1038,7 +1035,6 @@ Ben Felix: Yeah. FSCO does a report, Financial Services Commission of Ontario, t
 Cameron Passmore: So that's a wrap for this week. Anybody has suggestions, send us a note. Either put it in the comments down below or drop us a note directly. 
 
 Cameron Passmore: Terrific.
-
 
 ## Episode 5
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.                  
@@ -1354,7 +1350,6 @@ Cameron Passmore: Basically letting capitalism work for you. You can do it so ea
 Ben Felix: That's it. We'll be back next week.
 
 Cameron Passmore: You bet.
-
 
 ## Episode 6
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -1706,7 +1701,6 @@ Cameron Passmore: Anything else on your mind this week?
 Ben Felix: No, that's it.
 
 Cameron Passmore: Talk to everyone next week.
-
 
 ## Episode 7
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -2093,7 +2087,6 @@ Ben Felix: Yeah, please. Please rate us. Rate us on your podcast app. Shoot us a
 
 Cameron Passmore: See you next week.
 
-
 ## Episode 8
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
 
@@ -2445,7 +2438,6 @@ Cameron Passmore: No, that's good for number eight.
 
 Ben Felix: All right. That's it. See you next time.
 
-
 ## Episode 9
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
 
@@ -2746,7 +2738,6 @@ Cameron Passmore: Thanks for joining us. It was a great, great time.
 Carson Brown: Oh, my pleasure. This was great.
 
 Cameron Passmore: Thanks, Carson.
-
 
 ## Episode 10
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. 
@@ -3121,8 +3112,7 @@ Ben Felix: Nope. 
 
 Cameron Passmore: All right. See everybody next week. 
 
-Ben Felix: All right. That's it. 
-
+Ben Felix: All right. That's it.
 
 ## Episode 11
 So, before we jump into our main discussion, I want to quickly revisit something that I said on the podcast last week. I said that DIY investors are solely responsible for buying A-class mutual funds in their online brokerage accounts and they shouldn't be complaining about having not realized that they were paying this trailing commission to their broker. I basically made the buyer beware argument, and Rob you and I went back and forth about this on Twitter later that day, actually, after we recorded, but before the episode came out. So, I don't want to debate that with you on the podcast, but maybe you can just share your thinking.
@@ -3272,7 +3262,6 @@ I think it can be sensible. It's no different than having my own strategy with t
 Yeah. So, most of our clients, and especially clients since these one fund portfolios have been in existence, their entire portfolio, obviously across different accounts, but their entire portfolio will be in one of the dimensional fund advisor's one fund solutions. Right. So, we're big advocates of that. And like what you said, it allows you to focus on all of the non-portfolio stuff, which is arguably more important, especially when you've got a portfolio that is optimized, regardless of how many funds it contains, or how many funds it is.
 
 No, that makes sense. I mean, there's so many other things to focus on and your investments all in one vehicle, a broadly diversified vehicle, that's low cost, to absolutely makes sense and focus on the bigger picture.
-
 
 ## Episode 12
 So a couple of weeks ago we had Carson join us in our weekly discussion and shared his thoughts on long-term planning. With Doug in town today from Toronto, I thought it'd be great opportunity for you to share your story because I find your story fascinating, how you decided seven years ago to really hone in and focus on your ability to retire and to be able to be financially independent.
@@ -3474,7 +3463,6 @@ Don't believe that you know it all, because you don't and don't be afraid to rea
 Wow. That was unscripted. That's awesome. Anything else you want to add, Doug?
 
 No, just thanks for having me. I really enjoyed it.
-
 
 ## Episode 13
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -3845,7 +3833,6 @@ Cameron Passmore: That's it, talk to you next week from Chicago.
 
 Ben Felix: All right, talk to you later.
 
-
 ## Episode 14
 We were just laughing before we started recording this that I actually found the article that triggered you to reach out to me back in 2002. This is the beginning of the ETF revolution and we had three or four years into transitioning from the old mutual fund world into the index type world. And there's an article in the Ottawa Citizen. And you said you knew it was on Sunday and sure enough was Sunday of 2002 in March.
 
@@ -4044,7 +4031,6 @@ It's a great question. Do I view risk differently? Absolutely. 100%. It has scar
 Do you have any final thoughts, Martin?
 
 All I would say to people is if you're listening to this and you're trying to figure out how you get your own personal situation in order, as I said, job one, make sure you're controlling your expenses as best you possibly can. It's the one thing that is totally within your control that can have a meaningful impact on your retirement. And then has your guest said a few years ago, invest the money in getting good advice. At the end of the day, there's professionals that don't understand the market. So go find yourself a good professional that does understand the market and don't be afraid to pay for that advice. It will pay back in spades over time
-
 
 ## Episode 15
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -4445,7 +4431,6 @@ Brenda Bartlett: Yeah. Thanks for inviting me.
 
 Ben Felix: All right. That's it.
 
-
 ## Episode 16
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
 
@@ -4763,7 +4748,6 @@ Cameron Passmore: For now. All right. We'll be back next week.
 
 Ben Felix: Yeah. That's it.
 
-
 ## Episode 17
 So you have a varied and really interesting background. So I was hoping to off, you could give our listeners a bit of a high level overview of your career and the path that you've taken to where you are today.
 
@@ -4894,6 +4878,7 @@ So that statement that you just made, Dan, actually ties in perfectly to the las
 Well, there are a lot of stories. Let me come up with just a couple. I think to show you, I'm trying to proselytize how important it is to show a genuine interest in other people. And one of the ways you can tremendously impact the other people's feelings of self-worth is by showing that they are worthy of your undivided attention. So I've had many occasions, social occasions where I've spoken to people, asked them nice open-ended questions, they've responded with maybe an hour uninterrupted litany of issues relating to their life. And then I said nothing about myself and they asked nothing. And then they would write me and say to me what a wonderful conversation that was, and what an interesting person I am, even though they knew nothing about me. But it shows the impact you can have by following this basic neuroscience.
 
 I've had some wins amongst the losses. When I was representing investors, I was successful in the minority of cases of getting money back that, that but for that intervention, those people would have been greeters at Walmart. So that's very rewarding. What I do currently is probably the most rewarding, because I speak to hundreds of advisors at a time, on a scale when they each take away what I've said and go out and do it, and then write may how it's affected them. I feel like I'm having more of an impact.
+
 ## Episode 18
 So Mark, we've been working together on marketing initiatives for PWL for quite few years now. And we've done lots of interviews together.
 
@@ -5068,7 +5053,6 @@ Yeah. I guess it's a little bit of that. Look, my life is wonderful. I couldn't 
 And what more can I do? And so you're always setting your sights on the next objective and the next goal. And so in that sense, I'm always trying to figure out, okay, it's not enough what I've done so far. It's not enough to have raised a little bit of money for United Way and the Ottawa Hospital. How do I take that to another level? How can I change more people's lives? I had a chance to meet, as I mentioned, I've become involved in the refugee issue in Ottawa, helping refugees, the challenges they face, and I met a guy named Jim Estill, who lives in Southwestern Ontario. And he has personally sponsored something 78 refugee families that have come to Canada, and he's done a bunch of other things to make their path easier as well. And so I'm always thinking, how can I do something more?
 
 How can I mobilize other people? My thought process now is very much is around the idea that if I were the mayor of Ottawa, what would I do to fix problems in our community? And I'm not the mayor of Ottawa and I probably never will be. But that doesn't mean I can't do those things that I would do if I were the mayor. And if I were a billionaire, what would I do to try to solve problems in our society? I'm not a billionaire and I probably never will be, but that doesn't mean I can't do many of the things that I would set out to do if I were a billionaire. I just have to find other ways of funding those things, but I can still do those things. So I'm very much focused on what the next task is going to be in a lot of different areas.
-
 
 ## Episode 19
 I'd like to start by asking you about decision-making, which is one of the things that you're really well known for. Can you briefly explain what mental models are and why they're important? 
@@ -5293,8 +5277,7 @@ Yeah, I would say Marcus Aurelius Meditations is one that I picked up in univers
 
 Maybe it's above my level. Maybe it's something that's way more niche or esoteric than I thought it would be, and then I can come back to it. But what I do get out of rereading books when I reread is a deepening fluency in the subject. If you understand, if you read a book the first time and you understand the arc of the story, the second time you read it, you're going to pay attention to different details. You're going to pay attention to different facts, different arguments, because you already know where it's going and now you're layering that stuff on. 
 
-You have a skeleton of the book, but now you're layering that on to the skeleton. That enables you in and of itself just to retain more and understand deeper in terms of where the nuances are. I think that that's super important, but we're so focused on reading the wrong things these days that I think we lose track. 
-
+You have a skeleton of the book, but now you're layering that on to the skeleton. That enables you in and of itself just to retain more and understand deeper in terms of where the nuances are. I think that that's super important, but we're so focused on reading the wrong things these days that I think we lose track.
 
 ## Episode 20
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. This is the 20th episode of the Rational Reminder and Cameron and I, I know we've mentioned in past episodes, we were planning on playing around with the format of the show a little bit.
@@ -5653,7 +5636,6 @@ Cameron Passmore: Thanks for listening.
 
 Ben Felix: That's it.
 
-
 ## Episode 21
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
 
@@ -5873,7 +5855,6 @@ Cameron Passmore: That's it.
 
 Ben Felix: That's it.
 
-
 ## Episode 22
 Daniel, you've been a great friend of our team and myself now going back, I think, at least seven years and seven years ago, you were the one that invited me to give some financial advice, seminars and one-on-one meetings to a few of your employees of Shopify, which frankly ended up being very transformational for both me and for our team and for our whole company. So for that, we're very grateful. It's also safe to say that you had a huge impact on Ottawa and Shopify's had a huge impact on the country as well. Now you're from Germany.
 
@@ -6006,7 +5987,6 @@ And I told the guys, "Look, I flew in here economy because I didn't want to pay 
 Are there any downsides?
 
 Oh, for sure, yeah. There are downsides. I mean, I don't want to get into all the downsides, but one is, now we're thinking about a family. And when you think about family and think about, well, I would like to have kids one day, what kind of impact does money have to your kids and what are the strategies that they can employ so you don't raise them spoiled brats.
-
 
 ## Episode 23
 So, you built an insurance practice in a, I would say a very unique way especially for the time period when you did it, where your model was strictly over the phone and online. Can you tell us a little bit about why you think that approach to insurance was so successful?
@@ -6178,7 +6158,6 @@ People that are on Reddit, particularly in that Subreddit? Actually let me just 
 Well, you'll be glad to know I'm well under 40 then I guess, right?
 
 Yes, me too. So it's really a microcosm. The people that are on that Subreddit are very financially literate, very financially astute. Most of the stuff we've discussed it today, they're already very familiar with. So I don't think it represents what most Canadians are looking like. I think most Canadians have the same problems we had 20, 30 years ago in the industry. You just got to be careful you're buying the right type of insurance and the right amount and the Subreddit, Personal Finance Canada on Reddit I don't think reflects that, they're very knowledgeable in generally speaking.
-
 
 ## Episode 24
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. Today we went a little long, sorry about that.
@@ -6571,7 +6550,6 @@ Cameron Passmore: I think that's good for this week. We've factored people up.
 
 Ben Felix: All right.
 
-
 ## Episode 25
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
 
@@ -6845,8 +6823,7 @@ Ben Felix: It doesn't make sense, in a capitalist society, anyway.
 
 Cameron Passmore: Anyways, that's good for this week.
 
-Ben Felix: All right, so everyone enjoy your holidays. And I hope you enjoyed the episodes that we have coming up and we will be back with new material in the new year. 
-
+Ben Felix: All right, so everyone enjoy your holidays. And I hope you enjoyed the episodes that we have coming up and we will be back with new material in the new year.
 
 ## Episode 26
 I first heard you speak, it has to be two or three years ago at a conference that we were both at and you talked about the impact that your financial adviser had on you and it was a very moving presentation, and I could feel how it did impact you. Can you talk about that event?
@@ -7067,7 +7044,6 @@ So all I could do is kind of white knuckle it and hold onto it because I was so 
 
 So you could say that looking back at it, the fear was justified but the fear was also because I didn’t have a plan and I think the thing that if I could go back and talk to my earlier self I would say, “Don’t feel badly that you don’t have a plan. Someone has to tell you what that plan is. You don’t have to come up with that yourself. Just because you’ve been good at one thing doesn’t mean you’re going to be good at this other thing and there are people to help and there are people who won’t help. There are people who might not have your best interest in mind, but you can find the ones that do and they can help.”
 
-
 ## Episode 27
 Robin, I don’t know how many of our listeners will know who you are, can you briefly describe with yourself and what you do?
 
@@ -7225,8 +7201,7 @@ Well first, I would just like to congratulate you on the excellent content that 
 
 I actually had the privilege the other day speaking to a lady called Stephanie Griffiths who used to work on Bay Street as an active fund manager and she just came to the realization that actually - although in fact her own fund was fairly successful, she couldn’t tell whether it was frankly, simply just luck or skill that had produced that modest out performance over the years and she’s now written a book called Sit Still and Prosper which has just come out. 
 
-Which basically encourages people to invest in pretty much the PWL way if you like, keep their cost down, diversify and yeah, sit still do nothing, prosper. And I am just really encouraged by the noises coming out of Canada at the moment and let us just hope that in the coming years Canadian investors, will be better serve and they have been by the big banks over the last 30 years or so. 
-
+Which basically encourages people to invest in pretty much the PWL way if you like, keep their cost down, diversify and yeah, sit still do nothing, prosper. And I am just really encouraged by the noises coming out of Canada at the moment and let us just hope that in the coming years Canadian investors, will be better serve and they have been by the big banks over the last 30 years or so.
 
 ## Episode 28
 I know I already said this but we’re very excited to talk to you, Brad. We talk about Dimensional a lot on the podcast, so this is a great opportunity for us and for our listeners. Brad, you joined Dimensional in 2002. I’d say it’s safe to say that you were ahead of the curve in terms of investment philosophy. 
@@ -7487,8 +7462,7 @@ The acronym is PERMA and it stands for Positive Emotion, so what we feel. Which 
 
 There is a lot of research into being in flow and how that makes us feel better, happier or increase our wellbeing. The R stands for Relationships or having authentic connections with other people whether it’s your community, your church, your workplace, just your social life that sort of thing, having authentic connections with other people will increase your wellbeing. M is for Meaning and Purpose, so belonging to or serving something you believe to be bigger than yourself. 
 
-And then the last thing, A is for Achievement because we want to accomplish something, we want to win. We want to master things simply for the sake of achievement and if you can focus on those five things, on increasing your PERMA, forget about the stuff, so to speak, you will increase your wellbeing. So that’s been a huge mind shift for me personally. 
-
+And then the last thing, A is for Achievement because we want to accomplish something, we want to win. We want to master things simply for the sake of achievement and if you can focus on those five things, on increasing your PERMA, forget about the stuff, so to speak, you will increase your wellbeing. So that’s been a huge mind shift for me personally.
 
 ## Episode 29
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.  Just Cameron and Ben Solo episode today.
@@ -7857,8 +7831,7 @@ Ben Felix: It’s true. We have been thinking about getting somebody on to talk 
 
 Cameron Passmore: All right, talk later. 
 
-Ben Felix: All right, that’s it. 
-
+Ben Felix: All right, that’s it.
 
 ## Episode 30
 We have a handful of questions for you, related to your most recent book called Your Complete Guide to a Successful and Secure Retirement and then after that we’ll have some questions related to your other work over the years. 
@@ -8071,7 +8044,6 @@ And they are all financially secure and chosen careers that they would enjoy and
 
 So I define success by those things, my family and my kids and maybe most importantly, the biggest sign of success is that I actually have a conference room in Ottawa with my name on it.
 
-
 ## Episode 31
 I’m sure our listeners have heard of BlackRock and probably iShares as well but I don’t know if they would understand the scope of the company and the size of the company. Can you give us a quick overview of BlackRock’s scope and size?
 
@@ -8258,7 +8230,6 @@ So I am going to go with two if you don’t mind. You know, the first is that in
 But then what I would add to that is there is incredible value in having a sound financial plan and not focusing completely on product selection decisions or even portfolio construction decisions but making sure that your overall financial plan and your savings and behavior are really set for what you’re trying to achieve and you know, working with advisers or portfolio managers is a really valuable way to put that plan together and then to make sure that you’re sticking to it. 
 
 You know, there’s lots of ways to kind of sweat the details of product selection or portfolio construction but you’re really kind of missing the most important thing if you’re not getting your own financial plan and align with your goals. We definitely encourage everybody to make sure that they’ve completed that step before launching into the index versus active or you know, Vanguard and BlackRock. Keeping sort of big picture in mind.
-
 
 ## Episode 32
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. I just want to say.
@@ -8639,8 +8610,7 @@ Cameron Passmore: Okay, well I’ll wait for that. Anything else on your mind? 
 
 Ben Felix: No I think I am good. 
 
-Cameron Passmore: All right that is it for this week. 
-
+Cameron Passmore: All right that is it for this week.
 
 ## Episode 33
 I’ve been looking forward to this for years, I followed you for years, I’ve seen you at a Dimensional Conference in the past and I think it’s safe for us to say that you’re one off the founding fathers of bringing low cost index investing mainstream and I’m really curious, what made you so passionate about spreading this message?
@@ -8820,7 +8790,6 @@ I just want to continue to be part of the conversation and that was a quote that
 I believe that keeping things simple, explaining things so that people can understand them, taking complex ideas and breaking them down into easy bits and letting people comprehend it is important. There’s a quote that I won’t take credit for but I use it all the time. The truth must be repeated over and over again because lives are constantly being told around it.
 
 I am just going to continue to repeat the truth over and over again and that’s my contribution.
-
 
 ## Episode 34
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. 
@@ -9113,7 +9082,6 @@ Cameron Passmore: All right. That's it for this week.
 
 Ben Felix: Yeah. That’s it.
 
-
 ## Episode 35
 When I mention retirement, a lot of people that I talk to these days, immediately respond by saying that they don’t see themselves retiring or they don’t ever want to retire. Do you think that the perception of retirement is changing?
 
@@ -9305,8 +9273,7 @@ About how some hedge fund manager had tons and tons of money and he was telling 
 
 So I think if you have enough money that’s findependency, it is knowing when you have enough money. If you have enough of a satisfying main relationship, family relationships, second tier, third tier, you realize as you go out triple through the community or church and you’re at a rotary club and whatever else is in your life, that to me is success and it is not measured, beyond a certain amount of money I mean what is it, who needs more than I don’t know –  
 
-Let us not get into how much you need or you have but it doesn’t have to be as much as some of these political people. Again, hollering Shell to Starbucks. It’s hard to believe that at 65 year old who’s worth billions wants to put up with all of this crap and run for president but apparently that is what people do and that tells you that money alone is not enough. 
-
+Let us not get into how much you need or you have but it doesn’t have to be as much as some of these political people. Again, hollering Shell to Starbucks. It’s hard to believe that at 65 year old who’s worth billions wants to put up with all of this crap and run for president but apparently that is what people do and that tells you that money alone is not enough.
 
 ## Episode 36
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. Welcome to episode 34 of the Rational Reminder podcast.
@@ -9687,8 +9654,7 @@ Cameron Passmore: Per year.
 
 Ben Felix: Annualized. That is right but that’s what you’d expect because you’re adding in independent risk factors. Anyway, so the paper introducing these portfolios and way more data on why people should be thinking about small cap in value is going to be up on our website soon but other than that, I think that’s it for today. Anything else? 
 
-Cameron Passmore: No great info. 
-
+Cameron Passmore: No great info.
 
 ## Episode 37
 Before we jump into the questions, can you just give us a little bit of your background and what you do within your business?
@@ -9884,7 +9850,6 @@ It’s actually super interesting because for Cameron and I, the stuff that we d
 Yes, exactly. That’s how I define it to people that you know, planners, advisors, portfolio managers, it’s all a long runway. A big picture plan with lots of pieces involved that can get fairly technical. My job is to help with the day to day stuff.
 
 Like you say, we can have such a profound difference just by doing an online grocery store shop instead of going in.
-
 
 ## Episode 38
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. 
@@ -10289,9 +10254,6 @@ Ben Felix: All right, anything else? 
 
 Cameron Passmore: No that was good, interesting.
 
- 
-
-
 ## Episode 39
 The first thing I want to ask you Rob is what is the most common question that you get from readers? I mean, you must get a ton of questions.
 
@@ -10555,8 +10517,7 @@ So what you do is so interesting and that you had an impact on many people for s
 
 I define success by writing for an audience of people who tell me that I am helping them and it happens all the time. I mean my wife and I were on vacation in St. Johns a couple of years ago and a guy came up to me at the St. Johns Regatta and he said, “You know what? You really helped me. I saved so much by moving my mutual funds out of a particular company that had helped me put my kids through university.” 
 
-And were with friends and they were just going, “Oh I like that,” anyway, I was just thinking, “Wow that really makes me feel great. You know I helped this guy.” And I have people stop me on the street to tell me stuff like that and I was with my wife in some mall in Ottawa and a guy came up to me and said, “You know I just want to say thanks,” when that is happening, I feel successful. 
-
+And were with friends and they were just going, “Oh I like that,” anyway, I was just thinking, “Wow that really makes me feel great. You know I helped this guy.” And I have people stop me on the street to tell me stuff like that and I was with my wife in some mall in Ottawa and a guy came up to me and said, “You know I just want to say thanks,” when that is happening, I feel successful.
 
 ## Episode 40
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. Today, I’m going to say that we went on a factor rant, but everyone’s going to be thinking, “Well, isn’t that every episode?”
@@ -11019,8 +10980,7 @@ Ben Felix: All right. So, I think that’s it.
 
 Cameron Passmore: Good for this week. 
 
-Ben Felix: That is it for this episode. 
-
+Ben Felix: That is it for this episode.
 
 ## Episode 41
 You launched the first online portfolio manager or robo-advisor, as they’re often called in Canada, well before a lot of the other players came. How did you know that there was an opportunity there?
@@ -11195,8 +11155,7 @@ So I measure success in a couple of ways. I measure, am I excited to get out of 
 
 Will I be proud of how I spent my time? Am I spending it effectively? Will it motivate the people around me to be their best? Will we have people from Nest Wealth that go on to start businesses that change the country down the road? 
 
-Those are all things that become important as you begin to think about these things in a more macro light. So yeah, look I get it. I really want to be successful with this one to a degree that money is there but I want to do it in a way that the ride is as fun as the outcome and the people around me get as much out of it as I do.  
-
+Those are all things that become important as you begin to think about these things in a more macro light. So yeah, look I get it. I really want to be successful with this one to a degree that money is there but I want to do it in a way that the ride is as fun as the outcome and the people around me get as much out of it as I do.
 
 ## Episode 42
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. So today we tried a new format which I thought was pretty good. We talked about two current topics, portfolio management topic, a financial planning topic and the worst advice that we heard last week. So I, I felt good having structure actually. 
@@ -11695,7 +11654,6 @@ Ben Felix: And if you're watching, I mean, let us know how we look, I guess. And
 
 Cameron Passmore: Of the just us. I think that I like the new us format. I thought it was good. We'll see. We'll see what the listeners think though. Feel free to let us know.
 
-
 ## Episode 43
 My first question, as you know we use Dimensional funds with all of our clients. I'm curious, how would you describe Dimensional funds?
 
@@ -12072,7 +12030,6 @@ That is the million dollar question, right? Yeah, for me I think it's family. I 
 I would say the same thing with people say, “Well, as CEO or did you do this, or did you get this award in basketball?” I was like, “None of that ever really mattered to me.” It was really more about the process and the pursuit of doing something well.” 
 
 The purpose part is the part that if I feel if you can hit whatever your purpose is and there's all kinds of purposes out there in life, if you can do that and you can do it in a consistent way and have people say, “That person made a good impact on that,” that's total success.
-
 
 ## Episode 44
 Ben Felix: This I the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. 
@@ -12529,7 +12486,6 @@ Ben Felix: Yeah, it would be good episode. It was a good episode.
 
 Cameron Passmore: It's very good.
 
-
 ## Episode 45
 You are a wealth psychologist. Can you describe what you do and for who? 
 
@@ -12732,7 +12688,6 @@ And so in my work with people, I just am constantly asking them whether it's ind
 All of those conversations involve that trifecta of time and energy and money. And I think one of the things that really great advisors do is help their clients make better trade offs among those, among those points, based on their knowledge of what, of what matters to the client. 
 
 So that if the client says, you know, "I'd really like to to live in a bigger house. So I'm thinking of moving to the suburbs, but I know that's going to mean two and a half hours of commuting a day and I just can't figure out what to do." A really good advisor can help, can sit down with them and help them walk through that decision and consider alternatives and that advisor is really to be counted as a great asset in that person's life, if she or he can do that for the client.
-
 
 ## Episode 46
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -13167,7 +13122,6 @@ Ben Felix:  Yeah, that's a really good episode.
 
 Cameron Passmore: Yeah, it was great. Anyways, have a good week.
 
-
 ## Episode 47
 So, can we start by you describing your background, how you got into car business and basically what you do?
 
@@ -13430,7 +13384,6 @@ So last question for you Brad, how do you define success? 
 Having the flexibility to do what I want when I want is a big thing for me. I look back to almost eleven years ago. My kids, my son is 14, my daughter is 12. My son was just little when I look back at the first probably five years of my business here where I probably didn’t see them all that often or as much as I should have. That was an eye opener and I always envisioned myself having the flexibility and the opportunity to spend more time with them later in life. 
 
 To be able to do the things they want to do as well as the things I want to do. I think this business has fortunately given me the opportunity to be able to do those things. Yeah, as far as defining success that is just at the end of the day I just like I have eluded to before, just be able to go home at the end of a long day, enjoy, spend time with my family and this business has allowed me to do that, which I am very appreciative for.
-
 
 ## Episode 48
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. 
@@ -13917,8 +13870,7 @@ Cameron Passmore: Super interesting model. Love it. Anything else? 
 
 Ben Felix: No. I think that’s good for this week.
 
-Cameron Passmore: Be back with another guest next week. 
-
+Cameron Passmore: Be back with another guest next week.
 
 ## Episode 49
 Jaime, you’re with Horizons who I’m sure a lot of our listeners are aware of, but can you tell us a little bit about Horizons?
@@ -14192,7 +14144,6 @@ Yeah, exactly. Cool, well I don’t have any other questions Jaime. Is there any
 No, I don’t think so. I have been just going back to you talking about the thematic. That would be the last part over the era of our innovation. Looking at this from our leverage ETF’s to the first beings who are true active to where we are passive trying to offer some value to clients to doing this thing a slightly different way to the thematic now. The other thing that we have done not just thematic is partnered with some firms that do very specific. 
 
 So, we are partnered with Forstrong and they do a global macro ETF of ETF’s. Or we’ve got a Risk Parity ETF. So there’s all sorts of interesting side projects that we have going, but really our core business is the active and passive and we are excited to see where things go and keen to see some resolution to this budgetary issue.
-
 
 ## Episode 50
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -14611,7 +14562,6 @@ Ben Felix: No, that's good for me.
 
 Cameron Passmore: That's a wrap.
 
-
 ## Episode 51
 Happy to have you join us. I’ve followed your work for many years and appreciate all that you’ve done for so long and our first question for you is, on your website, you refer to yourself as an advocate for consumer rights. Can you tell us what does that mean to you?
 
@@ -14845,8 +14795,7 @@ And then in the Star in the last few years I’ve been doing a lot more on tryin
 
 Even though I am not working full time for the Star anymore. Because it is so hard for the average person to reach large companies. And with FAIR, it is so hard for the average person to take an investment complaint to a company and expect the company to do anything about it. 
 
-So it is always an imbalance and if some problems are resolved there’s always new ones coming along. The use of technology now allows new problems that we haven’t really addressed before. Though it is a never ending fight. It is never going to be finished but at least we can see some progress along the way.  
-
+So it is always an imbalance and if some problems are resolved there’s always new ones coming along. The use of technology now allows new problems that we haven’t really addressed before. Though it is a never ending fight. It is never going to be finished but at least we can see some progress along the way.
 
 ## Episode 52
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -15277,8 +15226,7 @@ Cameron Passmore: Anyways, fascinating topic, lots of work to do there. Anything
 
 Ben Felix: No, I think that’s good. We didn’t have a worst advice but I think that that PBO report on the CPPIB that was pretty bad advice because they are basically their basically saying, “Look, active management works,” which I wouldn’t call that good advice. 
 
-Cameron Passmore: All right, see you next week. 
-
+Cameron Passmore: All right, see you next week.
 
 ## Episode 53
 Super stoked to have you live in studio here, known you for a long time. You’re in the process of completing a DBA and you are quantifying the value of financial advice. You have to tell us more about what you’re up to. What is that? 
@@ -15582,7 +15530,6 @@ I would say no to a lot of opportunities and as I started to get a little bit be
 What do you do in the other days? When you are not working. 
 
 Well when I am not working just relax, travel a lot. One of my favorite things to do is that when it is sunny outside just having the freedom and the flexibility to – well not anymore because my motorcycle was stolen but to hop on my motorcycle and go for a nice ride and find a coffee shop way out in the middle of nowhere and just watch the world go by. Simple things like that, yeah were great but some more of that.
-
 
 ## Episode 54
 We’re thrilled to have you because you’re nearing your retirement. This is a lucky get for us.
@@ -15893,8 +15840,7 @@ When the commodities game figured that out and so on and so we expanded very rap
 
 What it reminded me of when I came to S&P, the equity research group used to publish these middle one page reports on each and every stock and they had three huge sets of volumes, New York, AMEX and OTC. AMEX that means the American Stock Exchange. They were called tear sheets but they were called S&P and I think right after I joined S&P I went out to theater one night there was a play called “Other People’s Money” and the villain in the thing who is trying to buy out six companies yells, “Give me the S&P” he wanted the tear sheet. 
 
-Nowadays, the S&P means the 500 so that is sort of the evolution that’s what happened to all the stock pickers too I think. 
-
+Nowadays, the S&P means the 500 so that is sort of the evolution that’s what happened to all the stock pickers too I think.
 
 ## Episode 55
 We are super excited to have you on. I’ve read your stuff for years and I appreciate all the work that you’ve done in this space for – it’s got to be 20 plus years.
@@ -16124,9 +16070,6 @@ That is a tough one. I think as much as I would like to say that I don’t care 
 With that said it is important for me to do good work. I mean that is the primary thing I try to do every day to not only give smart advice on the website, in my books and interviews like this but also to do it in an ethical way where I feel like people can’t second guess my modus and say, “You are just doing that to make a bark. Ah, you are just trying to ship sales some shoddy product.” You know if you look at how I ran my website, I actually this year moved it to a donation model. 
 
 So these site is largely supported by donations and people can choose whether or not they want to support the work that I do and it’s been gratifying. People actually are happy to send me checks even though they could continue to read the site for free and that has actually been really pleasing to me.
-
- 
-
 
 ## Episode 56
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We’re hosted by me, Benjamin Felix, and Cameron Passmore.  
@@ -16601,8 +16544,7 @@ Ben Felix: So, two of these guys – I mean, both of them have pretty big follow
 
 It’s like, “No!” There is a statistically reliable way to do things. If your is retirement, statistically, reliable retirement outcome, there is a right way, or at least a most reliable way to do this. It’s not like, “No! Do whatever you like. Do whatever you feel comfortable with.” No! I mean, that’s now how I view it. Sure. If other people want to do it, they’re comfortable with it, but they should be doing that with the understanding that what they’re doing is not reliable. It’s kind of like the rent versus buy decision. Sure, you can buy, or you can rent. But you should be making that decision on the basis of the financial outcome being the same either case depending on the numbers. Well, everybody, Ben is back. Ben’s fired up. I’m sweating, but it’s because this room we’re in is so hot. 
 
-Cameron Passmore: All right. Thanks for listening.  
-
+Cameron Passmore: All right. Thanks for listening.
 
 ## Episode 57
 We must thank you because it’s you guys who really inspired us to do a podcast, we’ve been listening to your Masters In Business for years as well as your colleague’s Animal Spirits.
@@ -16929,8 +16871,7 @@ Yes, so thanks for this very, very much. You have a huge impact I know on me. I 
 
 That’s everybody’s favorite question. There is 700,000 books published a year and nobody knows what to read. So when you get somebody who’s intelligent and talented and competent and says, “I really like this book,” I found that again, I do everything for an audience of one. The reason that question is there is if I get a Ray Dalio or Howards Marx, tell me what you read. So my dirty secret is all the books you hear recommended on the show, I audit the tape before that’s broadcast. I order all of those books. 
 
-I have thousands and thousands of unread books at home, half of whom were recommended by the show. Jim Channos recommended World Lit Only by Fire. I never would have found that book, otherwise it’s spectacular. I had no idea how horrific the dark – I knew they were called the dark ages for a reason. It’s blacker than I imagined. It’s horrible and more corrupt and more awful than I ever would have guessed. I never would have found that book without him. 
-
+I have thousands and thousands of unread books at home, half of whom were recommended by the show. Jim Channos recommended World Lit Only by Fire. I never would have found that book, otherwise it’s spectacular. I had no idea how horrific the dark – I knew they were called the dark ages for a reason. It’s blacker than I imagined. It’s horrible and more corrupt and more awful than I ever would have guessed. I never would have found that book without him.
 
 ## Episode 58
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Bejamin Felix and Cameron Passmore.
@@ -17263,7 +17204,6 @@ Cameron Passmore: This was not an attack. It's basically saying, because of what
 
 Ben Felix: That's still an attack though. It's saying that you shouldn't index, you should do what I'm doing, because look at all the opportunities all those silly indexers are creating. Like you said, show me the data. Prove it.
 
-
 ## Episode 59
 We have at ton to cover and I think this is going to be our audience is generally on the more technical side, I think, because we talk about pretty technical stuff and they seem to like it. Today we’re kind of talking about something that people aren’t as familiar with which is annuities, pensionization in general, but that means for most people without a pension, annuities. To kind of set the stage, I think that I want to start with some questions just to get some definitions out so the people will know what we’re talking about because this is a bit of a unique space.  
 
@@ -17551,8 +17491,7 @@ So that is not available now? Like if I am 40 and I start buying and I put money
 
 Well you can do it. So I am 51 now. So what if I wanted to buy income that will start at 65? I could go out there and buy a deferred annuity that will start at 65 and then next year, I could buy a little more. It just that it is not available as a systematic thing. I would need to kind of – it is like your GIC ladder. This will be this thing that I would be synthetically creating versus a product that would say, “Okay age 50. Let’s put you in this target date fund that is then going to convert to annuity at age 65.” 
 
-So there is innovation in the US that we don’t have here but I said target date funds and that is a big one. We don’t have the same range of retirement savings products that are available elsewhere in the world and that is the main thing that hopefully will come. 
-
+So there is innovation in the US that we don’t have here but I said target date funds and that is a big one. We don’t have the same range of retirement savings products that are available elsewhere in the world and that is the main thing that hopefully will come.
 
 ## Episode 60
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felx and Cameron Passmore.
@@ -17953,7 +17892,6 @@ Ben Felix: Yeah, that's it for today.
 
 Cameron Passmore: Thanks for listening. Have a great week.
 
-
 ## Episode 61
 You started your career working with David Swensen, who was famous for managing the Yale endowment. In a recent article, you said that David Swensen plays a different game from those in public markets and Yale has much less – I think it’s less than 25% of his portfolio in public markets. Can you talk about what you learned and what lessons you learned from David that have carried you through your career?
 
@@ -18174,7 +18112,6 @@ Very cool. As you move into that potentially next stage, how do you define succe
 I'm always reminded of a dear friend of mine who I went to business school with. She tells me that on the day we graduated, I said to her, I wish her all success in the world, whatever that means to her. I don't remember saying it, but it resonated so strongly with her that she remembers. For me, the most important barometer of success is my personal happiness and fulfillment. That takes all kinds of forms and family and relationships, professional engagement.
 
 A newer one is deep authenticity and trying to be very true to myself and the people that are around me. There's always some measure of financial success, which I define as an absence of having to worry about whatever it is the future. I certainly had some success at Protégé and then life circumstances change, and so I still have much of the same worry that many people do, but it would be nice to get to a point where I didn't have to worry about that. Then the last one, the one I've been focusing more on in the last few years is ensuring a high volume of quality connection with other people.
-
 
 ## Episode 62
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -18661,7 +18598,6 @@ Ben Felix: No, I think that’s it. 
 
 Cameron Passmore: Great, thanks for listening.
 
-
 ## Episode 63
 Tell us, how did you become The Sustainable Economist? 
 
@@ -18935,8 +18871,7 @@ And then when they do get a little bit of it, it usually doesn’t extend to thi
 
 And I feel so good knowing that what I am actually investing in right now that when they, when that light bulb goes on for them that just warms my heart so much. And you know my hope is if I get a million Canadians investing intentionally — again, I don’t care what those intentions are. Invest in whatever you want but just look at it and if you can do the responsible one and still earn good returns, I think a lot of people would choose that but that’s what I would hope that this would become a default option. 
 
-Instead of going to a bank, getting sold a mutual fund, getting ripped off in fees and investing in Lord knows what companies, to have people actually make a deliberate decision and to treat themselves. If that was the default way for people to invest in Canada, I feel like everyone would be just so much better off. 
-
+Instead of going to a bank, getting sold a mutual fund, getting ripped off in fees and investing in Lord knows what companies, to have people actually make a deliberate decision and to treat themselves. If that was the default way for people to invest in Canada, I feel like everyone would be just so much better off.
 
 ## Episode 64
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Bejamin Felix and Cameron Passmore.
@@ -19477,7 +19412,6 @@ Andrea Felix: I feel much more knowledgeable now.
 
 Ben Felix: Thanks for coming.
 
-
 ## Episode 65
 Welcome to Episode 65 of the Rational Reminder Podcast. Today, we have a unique guest. When we first started the podcast, we had a few I guess, I'll back up. Lately we’ve had a lot of sort of expert financial guests when we started the podcast, we had quite a few people on who were experts in their own field and maybe they had careers in finance but were are people that we knew. 
 
@@ -19655,8 +19589,7 @@ Window into the world of Ben. As a regular listener, you know what my last quest
 
 Yeah, so for me when you guys graciously accepted me to come on, I was hoping you’d ask this question because you pretty much ask all your guests this question and to be honest from my perspective, working in a hospital every day, I realized that success is really just having good health. It is amazing that we’re all so focused on this little minute problems, MER is a point three versus a point two, how can we optimize as a location and things like that as a do-it-yourself investors. But at the end of the day, all you can hope for is good health for you and your loved ones. As Robert Downey Jr. said whilst playing Iron Man, all the money in the world never bought a second of time. 
 
-And I think I’d be remised if I didn’t say, you know as a listener, the first listener on this show, I wanted to thank both of you from all the listeners that haven’t been able to thank you. I think it’s really amazing what you guys do as an educational product and you guys are doing this out of the kindness of your heart and for free and we definitely look forward to it each week. 
-
+And I think I’d be remised if I didn’t say, you know as a listener, the first listener on this show, I wanted to thank both of you from all the listeners that haven’t been able to thank you. I think it’s really amazing what you guys do as an educational product and you guys are doing this out of the kindness of your heart and for free and we definitely look forward to it each week.
 
 ## Episode 66
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. We covered some interesting topics today. I really enjoy talking about one of them, and it's something that I'm working on or thinking about, but it’s really hard doing a video on, but it’s just in social sciences and in economics, this idea of empirical and theoretical work and how those two things coexist together. 
@@ -19911,8 +19844,7 @@ Ben Felix: I think Cliff Asness or [inaudible 00:32:57] or somebody on Finance T
 
 Cameron Passmore: That’s all I got. 
 
-Ben Felix: All right, thanks for listening. 
-
+Ben Felix: All right, thanks for listening.
 
 ## Episode 67
 Okay, you’re a professional podcaster so let’s kick it off with a question that we have for you. Smart people make a lot of dumb financial decisions, I think you would agree with that. 
@@ -20031,8 +19963,7 @@ I was just out to lunch with my friend’s daughter who just moved to New York a
 
 So you may just have touched on it a little bit but a question that we always like to finish with is for you, personally in your own life how do you define success? 
 
-I like to think about my dad. My parents dropped me off to college. I played soccer in college okay and I was recruited, and I went up to school early and my parents dropped me off in front of the coach’s office because we are going for like the first meeting. There is nobody on campus, I was super scared just to be there and I was a little teary and my father turned around and he says, “Don’t forget having fun counts too.” And so when I think about success, for me in my life it has always been about am I intellectually challenged? Am I doing something that allows me to do good and have fun and am I learning something a little bit different as I go along my journey? That’s success to me. I could have probably made a lot more money in my career had I stayed in trading longer, stayed in financial services longer. There is no doubt I would have made more money. I would never be having as much fun as I am having. I would never be as engaged as I am in the world and meeting new people like you guys and meeting people who really turned my world upside down and helped me question some of my own assumptions. So that is a long way of saying it’s good to have fun too. 
-
+I like to think about my dad. My parents dropped me off to college. I played soccer in college okay and I was recruited, and I went up to school early and my parents dropped me off in front of the coach’s office because we are going for like the first meeting. There is nobody on campus, I was super scared just to be there and I was a little teary and my father turned around and he says, “Don’t forget having fun counts too.” And so when I think about success, for me in my life it has always been about am I intellectually challenged? Am I doing something that allows me to do good and have fun and am I learning something a little bit different as I go along my journey? That’s success to me. I could have probably made a lot more money in my career had I stayed in trading longer, stayed in financial services longer. There is no doubt I would have made more money. I would never be having as much fun as I am having. I would never be as engaged as I am in the world and meeting new people like you guys and meeting people who really turned my world upside down and helped me question some of my own assumptions. So that is a long way of saying it’s good to have fun too.
 
 ## Episode 68
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. Bit of a long episode today, just Cameron and I chatting too, so sorry about the length. 
@@ -20569,8 +20500,7 @@ Cameron Passmore: Nothing is for free. Anything else?
 
 Ben Felix: That’s it. 
 
-Cameron Passmore: This is a good episode. A little bit long, we apologize. But I think there is a lot of good information and thanks for listening. 
-
+Cameron Passmore: This is a good episode. A little bit long, we apologize. But I think there is a lot of good information and thanks for listening.
 
 ## Episode 69
 So your story is fascinating, and if you could start, because I love this part, can you tell us about your experience as a stock picker? 
@@ -20713,8 +20643,7 @@ I would keep it somewhat concentrated, but kind of like with [inaudible 00:50:10
 
 This is my last question for you, Wes, and it’s one that we always ask. I think you’re super impressive, and for lots of different ways, I think your background is extremely almost eclectic. From your education to the fact you put your education on hold to serving the Marines. As I understand it, when you’re overseas, you learned Arabic, which made you very valuable when you served in Iraq. On top of that, you’re a long-distance runner, and I see online you do all kinds of crazy athletic endeavors. So given this whole set, and I know there’s a whole lot more to your story. But given the set of experiences, how do you define happiness and success in your life. 
 
-There’s kinds of two elements. One is just – I’m kind of old school in the sense I just like being with my family. So we have our – I’ve set up my whole life where like we run our office and our business like out of my house. It’s kind of like a compound just so every night I got to hang out with my family every morning. I got to hang out with my family, and I got three little kids. So I just watch them grow up. So that’s really important to me. For me, that’s being successful, like setting up a job where I actually got to hang out with my family every day as supposed to working hundred hour weeks and my kids don’t even know who I am. Then the second one is just – I mean, I’m just kind of tribal by nature. So, like, I love the Marines, because you’re hanging out basically with your friends each day and everyone’s on like a common mission. So I try to recreate that as best as I could in like civilian world. So that’s kind of what I do now at Alpha Architect. All my partners, it’s an owner-operator firm. So we’re kind of all in it to win it. We’re all friends, like both professionally and personally and we all have this kind of common mission to empowering investor’s education. So that kind of replicated my need for tribalism and hanging out with a team and being focused on a common mission. So I’m good, man! I don’t really have any other complaints. In my head, I’m successful. So that’s all I need. Just be with my family and hang out with my friends and drive towards a common goal. 
-
+There’s kinds of two elements. One is just – I’m kind of old school in the sense I just like being with my family. So we have our – I’ve set up my whole life where like we run our office and our business like out of my house. It’s kind of like a compound just so every night I got to hang out with my family every morning. I got to hang out with my family, and I got three little kids. So I just watch them grow up. So that’s really important to me. For me, that’s being successful, like setting up a job where I actually got to hang out with my family every day as supposed to working hundred hour weeks and my kids don’t even know who I am. Then the second one is just – I mean, I’m just kind of tribal by nature. So, like, I love the Marines, because you’re hanging out basically with your friends each day and everyone’s on like a common mission. So I try to recreate that as best as I could in like civilian world. So that’s kind of what I do now at Alpha Architect. All my partners, it’s an owner-operator firm. So we’re kind of all in it to win it. We’re all friends, like both professionally and personally and we all have this kind of common mission to empowering investor’s education. So that kind of replicated my need for tribalism and hanging out with a team and being focused on a common mission. So I’m good, man! I don’t really have any other complaints. In my head, I’m successful. So that’s all I need. Just be with my family and hang out with my friends and drive towards a common goal.
 
 ## Episode 70
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. We really appreciate the comments on the rationalreminder.ca site. They keep flowing in – 
@@ -21241,8 +21170,7 @@ Cameron Passmore: Not the double. No. It’s the single inverse. Anyways, after 
 
 Ben Felix: Hey, I’d say that was pretty bad advice. Nice one. 
 
-Cameron Passmore: Nice one. There we go. Thanks for listening and we’ll see everybody next week. 
-
+Cameron Passmore: Nice one. There we go. Thanks for listening and we’ll see everybody next week.
 
 ## Episode 71
 You head up the content and education work of etf.com’s parent company, CBOE global markets and you’ve created a ton of content. I’ve watched a bunch of your videos, you’ve also written a ton of great blog posts and you appear on podcasts like this. How do you think about the role of content and education in improving investor outcomes? 
@@ -21379,8 +21307,7 @@ Yeah, I think retainer-based models make a ton of sense here and you know, or yo
 
 So last question for you Dave and it is usually my favourite question. So you earlier talked about grand challenges. So in your life, do you have a grand challenge and how do you define success in your life?  
 
-Well, I mean parenting. I mean the ultimate grand challenge is in a middle aged guy is, “What kind of a father were you?”, to me, because my kids are 15 and 19 right now, both out of the house. One at boarding school, one finishing up college, and honestly, you know, jokingly my wife and I will sit around our empty nest and say, “Okay, so our son is in sophomore year so another six years and he is out of college. If we can get him out of college, we’re basically done at that point.” Like we could just expire. I have no desire to, but we can just be done and everything that we set out to do in life will have been achieved if I have two healthy self-actualized decent human beings running around in the world to replace the two of us that brought them into the world. That to me feels like the grand challenge of being a human being. Now that is a very parenting centric thing to say and if people want to yell at me for it that’s fine but in my life, there has been no greater challenge than having kids nor anything nearly as rewarding. 
-
+Well, I mean parenting. I mean the ultimate grand challenge is in a middle aged guy is, “What kind of a father were you?”, to me, because my kids are 15 and 19 right now, both out of the house. One at boarding school, one finishing up college, and honestly, you know, jokingly my wife and I will sit around our empty nest and say, “Okay, so our son is in sophomore year so another six years and he is out of college. If we can get him out of college, we’re basically done at that point.” Like we could just expire. I have no desire to, but we can just be done and everything that we set out to do in life will have been achieved if I have two healthy self-actualized decent human beings running around in the world to replace the two of us that brought them into the world. That to me feels like the grand challenge of being a human being. Now that is a very parenting centric thing to say and if people want to yell at me for it that’s fine but in my life, there has been no greater challenge than having kids nor anything nearly as rewarding.
 
 ## Episode 72
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Bejamin Felix and Cameron Passmore. I know I’ve said this before, but I say in the intro that it’s for Canadians, but I know we’re getting a lot of non-Canadian listeners. Everyone’s welcome. 
@@ -21857,8 +21784,7 @@ Cameron Passmore: Take the higher amount. Yeah. Anything else for today?
 
 Ben Felix: No. I think that's all we had. 
 
-Cameron Passmore: Great. Well, thanks for listening and thanks to all the people reaching out to us on our website and all the people that have dropped as kind notes online. Thanks for listening. 
-
+Cameron Passmore: Great. Well, thanks for listening and thanks to all the people reaching out to us on our website and all the people that have dropped as kind notes online. Thanks for listening.
 
 ## Episode 73
 Can you explain who you are and talk a little bit about your blog and why you decided to start it? 
@@ -21995,8 +21921,7 @@ Sure. I don't know their conclusions are necessarily all that different. I think
 
 So, our last question, Dr., usually ends with a question about how you define success. I know you’ve kind of threaded your life decisions through our discussion, and I'm curious. How do you define success in your own life? 
 
-Well, I mean, there's different facets. One is to I have to be doing something useful, and that can be either within my career or outside of my career with my family. I have to feel like I'm contributing in some way, and I'm constantly wanting to learn new things and new skills, so being challenged and continuing to develop like that. All of that’s tied in with building my relationship with my friends and my family and the community that I’m i n. So, when I eventually pass away, if people can remember me and laugh at all the silly things that I did, then that's probably the sign of a successful life lived. And seeing that my kids will go on and do the same thing would be the ultimate success. 
-
+Well, I mean, there's different facets. One is to I have to be doing something useful, and that can be either within my career or outside of my career with my family. I have to feel like I'm contributing in some way, and I'm constantly wanting to learn new things and new skills, so being challenged and continuing to develop like that. All of that’s tied in with building my relationship with my friends and my family and the community that I’m i n. So, when I eventually pass away, if people can remember me and laugh at all the silly things that I did, then that's probably the sign of a successful life lived. And seeing that my kids will go on and do the same thing would be the ultimate success.
 
 ## Episode 74
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. Last week, had by far our biggest week of downloads ever. Over 10,000 downloads in a week. Now, for context, in April, we had 10,000 downloads in the month. It's continuously increased after that. But in April, we were ecstatic about having 10,000 downloads in a month, and we had that many downloads in a week last week.
@@ -22601,7 +22526,6 @@ Ben Felix: Nope. I think I'm good.
 
 Cameron Passmore: Good. Well, thanks for listening, and we'll see you next week.
 
-
 ## Episode 75
 Yeah. We're so excited to have you join us. We've been following you for a long time and the mission of our podcast is to help investors with rational information. So of course, our first question to ask you is how rational are humans?
 
@@ -22726,7 +22650,6 @@ So, I define us as time spent with family. For me, wealth is all about having so
 Yeah. So Daniel, thank you very much for joining us on the podcast. This has been a really interesting interview and, and I thank you very much.
 
 Yeah. It's been my pleasure. Thanks for having me.
-
 
 ## Episode 76
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -23117,7 +23040,6 @@ Ben Felix: I think that's good.
 
 Cameron Passmore: Great. Thanks for listening.
 
-
 ## Episode 77
 Let's start off. Can you just tell us and our listeners a little bit about your practice?
 
@@ -23312,7 +23234,6 @@ And one of the other things is that, again, sort of you guys that we sort of see
 No, those are really good insights from someone who's built a practice and sold it, but also someone who's spent a lot of time with wealthy families, which, like you described, it gives us a lot of time to think about a lot of those questions. And it kind of comes back to that relationship between how you define success and how that relates to money. Mark, this has been fantastic. It was great to talk about estate planning sort of from the professional perspective, but I think one of the most interesting estate planning tips that I took away from this was the idea of making a bucket list early on in life, as opposed to waiting until you're getting closer to being dead.
 
 It's worth it anyways. It just at least gives you something to strive for.
-
 
 ## Episode 78
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. So this is our last episode for the 2019 calendar year, episode number 78. And we thought we would do a little bit of a retrospective where we look back at some of the past discussions that we had with guests throughout the year.
@@ -23621,7 +23542,6 @@ Ben Felix: But yeah, like you said, Cameron, thanks everyone for listening, and 
 
 Cameron Passmore: And Happy New Year, everybody.
 
-
 ## Episode 79
 Dimensional is known for applying theoretical models and empirical research to portfolio management. How do you think about the limitations of models when you're making investment decisions?
 
@@ -23804,7 +23724,6 @@ But in the end, all of the work that we're doing at Dimensional is to help lots 
 Marlena, this has been great. We really appreciate you coming on the podcast. Again, thank you.
 
 Thanks for having me.
-
 
 ## Episode 80
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -24655,7 +24574,6 @@ Ben Felix: ... we're good.
 
 Cameron Passmore: We had a lot to get out. So, thanks for listening.
 
-
 ## Episode 81
 We've been talking about having a lawyer on this show since the beginning. We finally have you here, so this is amazing. First question for you, what happens if someone dies in Ontario and they don't have a will?
 
@@ -24896,7 +24814,6 @@ That's a tough one. I would say I would feel that I've achieved success if I hav
 Terrific answer, Kim. Thanks very much for joining us. This has been a great time spent.
 
 Thank you very much.
-
 
 ## Episode 82
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -25477,7 +25394,6 @@ Ben Felix: Nope. Long episode. Sorry everyone. 
 
 Cameron Passmore: Great. Thanks for listening.
 
-
 ## Episode 83
 So to set the stage, can you describe the Digital Currency Group, which is the parent company of Grayscale Investments?
 
@@ -25692,7 +25608,6 @@ So with that, how do you define success in your own life given this journey you'
 Well, I think I'd be a little more successful if I had a little more work-life balance, if I'm being completely honest here. But I think how much time and energy I'm personally pouring into Grayscale has really been emphatic and has seen a lot of other folks glom on to that. 
 
 We are so excited to be building the company that we are being able to really run all over the world, educating some of the most storied investors around a nascent asset class that's often misunderstood and really taking that burden on as a team to ensure that we have digital currency be positioned best for its ultimate success by being that educational resource for the investment community and making sure that we're debunking any of those preconceived notions so that if Bitcoin and digital assets as a whole continue to thrive, they do so through the lens that people have really unpacked it and really spent the time to dig in and learn about it.
-
 
 ## Episode 84
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore. 
@@ -26427,7 +26342,6 @@ Ben Felix: This episode's over an hour. Someone once told us that they wouldn't 
 
 Cameron Passmore: All right, thanks for listening.
 
-
 ## Episode 85
 So, off the top, can you describe the experience economy?
 
@@ -26858,7 +26772,6 @@ That's the craziest thing. What's crazy is your name has been brought up to me b
 We have a lot of common friends. This has been a true treat. So Dennis, thanks very much.
 
 Right on, man. Thank you, gentlemen.
-
 
 ## Episode 86
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -27423,7 +27336,6 @@ Ben Felix: No, I think I'm good. You're good?
 
 Cameron Passmore: I'm good. Thanks for listening.
 
-
 ## Episode 87
 I'm super excited to have this conversation after seeing you present last fall at a conference that I was at, and I thought your presentation was excellent. So off the top, my question for you is how do you describe risk?
 
@@ -27632,7 +27544,6 @@ It's great topic.
 So Alison, this has been great. So happy you could join us. This has been an incredible interview and I think you've added a ton of value. So thanks for your time.
 
 Thanks for having me. It was fun.
-
 
 ## Episode 88
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -28439,7 +28350,6 @@ Ben Felix: Nope.
 
 Cameron Passmore: Thanks for listening.
 
-
 ## Episode 89
 So you've got a blog called Retirement Researcher and you've really made a name for yourself and I've read lots of your research and I've bought and read not all of your books, but some of them. You've got the specialization in retirement income research, which is something that I don't think has had as much of a scientific treatment as maybe portfolio management has over the last sort of couple of decades. Can you explain, when it comes to retirement income planning, what are the unique specific risks that retirees face that maybe other people don't face?
 
@@ -28620,7 +28530,6 @@ Yeah. I mean, thank you. And I really think for people who watch a lot of TV on 
 Makes sense. Well Wade, this has been a fascinating conversation and we really appreciate you coming on to again, bring that academic rigor that on this podcast we talk a lot about but usually in the context of portfolio management, but you're able to bring that from the perspective of retirement income planning, which brings a lot of unique insights. So we really appreciate it.
 
 Thanks. Yeah, it's been a pleasure talking with you both.
-
 
 ## Episode 90
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -29179,7 +29088,6 @@ Ben Felix: Yeah. We hope this was useful. We don't want to be like a news outlet
 
 Cameron Passmore: Yes, agreed. And thanks for listening.
 
-
 ## Episode 91
 I figure there's no one better to do this than you. Can you describe the Smith Maneuver?
 
@@ -29432,7 +29340,6 @@ Yeah, yeah. It's not just a 9:00 to 5:00, right? It's everything but a few hours
 Yeah. All right. Well, Robinson, we really appreciate you coming on the podcast. It was great.
 
 It was great to be here, guys. Appreciate it.
-
 
 ## Episode 92
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore.
@@ -29739,8 +29646,7 @@ Cameron Passmore: Moira and Dave, thank you both very much. It was a very valuab
 
 Dr. Moira Somers: Thank you. 
 
-Dave Goetsch: Thanks, guys. 
-
+Dave Goetsch: Thanks, guys.
 
 ## Episode 93
 So off the top, Cliff, can you talk about market efficiency a bit and how your perspective might be different than someone like Professor Eugene Fama who was your PhD advisor at University of Chicago?
@@ -29980,7 +29886,6 @@ Yes. And we can both gloat about being right. It'll be fun.
 Awesome. Well, thanks very much for joining us. This has been incredible interview.
 
 Oh, I've enjoyed it. Thanks guys.
-
 
 ## Episode 94
 Benjamin Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore.
@@ -30649,7 +30554,6 @@ Benjamin Felix: Nope.
 
 Cameron Passmore: All right. Thanks for listening.
 
-
 ## Episode 95
 I am personally very excited to have you because your movie, Playing with Fire, I thought was fabulous. It had an impact on me and I forced my kids to watch it. And it had a big impact on them and they are very good savers and even more so now. So off the top, Scott, can you describe what FIRE means to you?
 
@@ -30858,7 +30762,6 @@ Thank you so much for having me. I enjoyed. Like I said, I loved how you had see
 Yeah, thanks Scott. And for all our listeners, the movie is Playing with Fire and it's a real compelling movie to watch. So thanks for making it, Scott. Thanks for joining us.
 
 Thank you, Cameron.
-
 
 ## Episode 96
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. 
@@ -31199,7 +31102,6 @@ Cameron Passmore: It's been a lot of fun and man, I'd to have you back on a regu
 
 Ben Rabidoux: Always happy to chat guys.
 
-
 ## Episode 97
 We're so happy to have you join us and get a chance to introduce you to our listeners. You've written about big-name fund managers like Jim Simons, John Paulson, Steve Cohen, George Soros and Carl Icahn, to name a few. Has the experience of covering these stories affected your own personal investment philosophy?
 
@@ -31411,7 +31313,6 @@ It's a really good answer, and Greg, thanks for being willing to join us, and th
 
 Sure, it was a lot of fun. These were interesting questions that I hadn't thought about before. Have a great day.
 
-
 ## Episode 99
 So to start, can you explain to us and our listeners how you define wealth?
 
@@ -31619,7 +31520,6 @@ That's an amazing answer. Andrew's been great to get to know you a bit and intro
 
 Thanks. It was great chatting with you guys, really enjoyed it.
 
-
 ## Episode 100
 Your asset pricing models have been transformational to the field of financial economics, which as an aside makes it really cool for us to be talking to you, but anyway. Can you describe what an asset pricing model is and why having a good one matters?
 
@@ -31810,7 +31710,6 @@ Yeah. Makes a lot of sense. Professor Ken French, this has been phenomenal. And 
 Well, that's very kind of you to say. Thank you, I've enjoyed the conversation.
 
 It's been a privilege on behalf of our listeners. Thanks very much, Ken.
-
 
 ## Episode 101
 Benjamin Felix: This is The Rational Reminder podcast, a weekly reality check on, sensible investing and financial decision making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore.
@@ -32467,7 +32366,6 @@ Benjamin Felix: Nope.
 
 Cameron Passmore: All right. Thanks for listening.
 
-
 ## Episode 102
 We're happy to have you. I want to start with a question about your most recent book. At the beginning of the book, you compare money to Lord Voldemort which probably sounds like a funny comparison to a lot of people, but you explain it as feared by most and mentioned by few. What do you think it is that gives money this status?
 
@@ -32764,7 +32662,6 @@ Honestly, the Geometry of Wealth, the circle, triangle, square, that's my person
 Well, Brian, thanks so much for sharing time with us. This has been frankly a sensational interview. I'm not surprised because I absolutely love Geometry of Wealth. It's a phenomenal book. Thanks so much for joining us today.
 
 It's my pleasure. It's a great conversation, guys. Thank you so much for your time.
-
 
 ## Episode 103
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me Benjamin Felix, and Cameron Passmore.
@@ -33169,7 +33066,6 @@ Benjamin Felix: No, I think that's good.
 
 Cameron Passmore: Right. Thanks for listening.
 
-
 ## Episode 104
 We often hear about the global retirement crisis. Can you tell us, in your opinion, does Canada have a retirement crisis?
 
@@ -33444,7 +33340,6 @@ Yeah.
 I'd say, having a minimal amount of regrets later on when it's all over.
 
 Terrific.
-
 
 ## Episode 105
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore.
@@ -33899,7 +33794,6 @@ Benjamin Felix: Nope, I think that's good for this week.
 
 Cameron Passmore: As always, thanks for listening.
 
-
 ## Episode 106
 Are there any historical examples that we can compare the current situation to?
 
@@ -34150,7 +34044,6 @@ So part of what I'm doing is for them and for every other young person coming al
 Well, Jim, this has been an hour very well spent. It's been great to get a chance to meet you and hear your perspective. This has been fascinating, and again, thanks for your book. It was a great read. Thanks for your time today.
 
 Thank you for your interest and for buying the book and reading it, and mostly are obviously your contributions to an informed and positive discussion in Canada. Thank you.
-
 
 ## Episode 107
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. You're hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -34661,7 +34554,6 @@ Ben Felix: Those are easy to find.
 
 Cameron Passmore: All right. With that, thanks for listening.
 
-
 ## Episode 108
 How important do you think it is for investors to understand the theory of investing?
 
@@ -34804,7 +34696,6 @@ Exactly, exactly. I mean, I realized I was going to have to do it for myself. I 
 So that's the perfect setup for my last question, which is how do you define success in your life?
 
 Oh, that's easy. When you get to my age and your kids still want to spend time with you, then you're a success.
-
 
 ## Episode 109
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore.
@@ -35168,7 +35059,6 @@ Cameron Passmore: But you can't keep people from trading in ETFs. I guess you co
 Ben Felix: No.
 
 Cameron Passmore: All right. Well, thanks for joining us.
-
 
 ## Episode 111
 Benjamin Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -35605,7 +35495,6 @@ Benjamin Felix: No, no, I think that's good. Like I mentioned before, I think th
 
 Cameron Passmore: Seek to understand. Anyways, thanks for listening as always.
 
-
 ## Episode 112
 Can you describe how in early retirement affects the sequence of returns risk that many investors worry about?
 
@@ -35840,7 +35729,6 @@ I mean, down to the fact that the harm we can cause from bad advice, just the ac
 But what it comes down to for me is you as we said earlier, a good financial advisor at capacity has maybe 100 clients, right? It's hard to do more than that. You'll lose track of them. And so when I look at our platform, and I see 10s of thousands of advisors that come to the site every week to learn how to be better, that gets me really excited. That's a couple of football stadiums full of people that we're directly impacting every week, and because they each may have their 100 clients and we get that 100x multiplier, it's not just that we might reach 50 or 60,000 advisors in a week, it's that what we taught them could positively impact 5 million people.
 
 And I will literally try to envision 5 million people in my head, which is a lot of people, and it's kind of hard to wrap your head around. But that's actually the point. That's what gets me sort of up and excited in the morning to do the work that I do. And ultimately, I define success by the reach and impact we have in moving that needle. How many advisors are we reaching? Which is easy to measure, and how much impact are we having lifting standards and the quality of advice across the whole industry? Which is a little harder to measure in practice. But when we look at just new models we've created, with XY Planning Network, shifting in models with AdvicePay a lot of what we do in just teaching and training advisors, the sheer number of continuing education credits we give to advisors every year, which is 10s of thousands of hours of education. That's the kind of impact stuff that gets me really excited and how I look at success for the work that we do.
-
 
 ## Episode 113
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore.
@@ -36154,7 +36042,6 @@ Cameron Passmore: Anything else to add to this week's episode?
 Benjamin Felix: No. I think that's good.
 
 Cameron Passmore: I think the storm has passed here in Ottawa. My poor dog, Oscar is appeared to be calming down now. He's pretty freaked out, but he's by my side of the old show. So here we go. Thanks for listening.
-
 
 ## Episode 115
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadian, hosted by me Benjamin Felix and Cameron Passmore.
@@ -36737,7 +36624,6 @@ Ben Felix: Yeah. All right. Let's leave it there. Thanks, Tim. We really appreci
 
 Tim: Thanks so much for having me.
 
-
 ## Episode 116
 Can you share the story about how you came to set up Index Fund Advisors?
 
@@ -36990,7 +36876,6 @@ If you think about on a global scale, what they've done through educating all of
 Those of us who work probably a little too hard, probably never think we get there. When do you ever reach that level of success? It's like when you get to a certain level, then you see something else that you want and if feels like we're always on a little bit of a treadmill. I often say I should probably write the 12 step recovery program for my work habits, but we're all...
 
 You're probably in the same boat, a little bit workaholics, but I think it's required to really make a difference in this world. You basically have to outwork the others or outsmart them or some combination of the two to really make a mark.
-
 
 ## Episode 117
 Ben Felix: This is the Rational Reminder Podcast or weekly reality check on sensible investing and financial decision making for Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -37405,7 +37290,6 @@ Cameron Passmore: No, I think that's good.
 
 Ben Felix: As always thanks for listening.
 
-
 ## Episode 118
 How far back to the first documented studies of investor behavior go? 
 
@@ -37549,8 +37433,7 @@ Can you talk about how you define success in your life?
 
 The grain of success in my life, at least on a professional level is when I see students who are learning and get jobs that you never thought they would get. They are successful. For me, educating my students and seeing that over their lifetime that they maybe a little bit of what I taught them makes a difference and impacts them into the future. Realizing if they never had me as a finance professor taking a personal finance class with me they may have never go into finance. To me that's the wonderful of success, knowing that their success is my success and knowing that they're finding happiness because of me actually brings me a great deal of happiness outside of my family, outside of my friends and other relationships that I have. For me that's happiness and being able to teach and talk about money.  I discover this wonderful field called behavioral finance and if doing these type of appearances help even people in any way learn about finance in general and it increases financial literacy I've done my job. 
 
-When God says to me, "What did you do?" That's going to be my answer. "I taught people to buy low, sell high." 
-
+When God says to me, "What did you do?" That's going to be my answer. "I taught people to buy low, sell high."
 
 ## Episode 119
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -37961,7 +37844,6 @@ Ben Felix: It's pretty bad advice. Anything else to add?
 
 Cameron Passmore: No. I think people know how we'd respond to this anyways. Once again, thanks for listening.
 
-
 ## Episode 120
 How do you define a good decision?
 
@@ -38116,7 +37998,6 @@ Now, that doesn't mean that you can't decide. Because in the moment that you dec
 And what it really talks about is, when you're a subject matter expert, that you get pulled down into a trench, which is your subject matter expertise, because you have such strong models of the world and such deep belief in the models of the world that you have, that when new information comes in, you actually will pull the information down into the trench with you. In other words, you view the world through the idea of like, it's in 1970s, and you view the world through a Cold War model between Russia and America, but then the world changes. In the late '80s, all of a sudden, the world changes, so then do you start to change your models of the world, or do you just start to incorporate the information into the model that you have?
 
 And I think that you know this with investing, people end up with a particular type of mindset, whether it's like growth, or value, or trend following, or whatever, and they get very entrenched in those models. And what we want to do is actually be, Phil Tet would say more of a fox, where we can see things from all sorts of different angles and all sorts of different models in order to come up with great creative solutions. But what that means is that you need to not dig yourself such a big trench. So, the idea is that at the moment that you make the decision, you should actually have a lot of conviction in what you believe. But the conviction is that you believe that relative to the other people that you're making decisions against, that the conclusion that you're coming to is better than theirs. That doesn't mean that in an absolute sense that you believe your beliefs are the best. I hope that that makes sense.
-
 
 ## Episode 121
 Cameron Passmore: All right. You've been reading a book that you've been telling me to get. It just came in today, Technological Revolutions and Financial Capital by Carlota Perez. I've not even cracked it yet, but you've been raving about it. 
@@ -38395,7 +38276,6 @@ Ben Felix: No, I love the data point that I came across recently on ... this is 
 
 Unexpected stock returns come from estimation errors. Expected stock returns come from discount rates. Good companies might have low discount rates and therefore low expected returns. If they don't happen to have high unexpected returns, for some reason that you can't predict, then you're going to get a bad outcome, and you have a bad expected outcome from the good company. I've been thinking about our bad advice segment. We often talk about bad advice, but don't talk about why it was bad, so I wanted to throw that in at this time.
 
-
 ## Episode 122
 What are the most important retirement equations?
 
@@ -38586,7 +38466,6 @@ What are other areas of research that you're passionate about that people may no
 All right, here we go. Let's plug some more. So I've just published a book called Retirement Income Recipes in R, which is a textbook that I'm using to teach. It's a very technical book on how to use R which is a language similar to Python to do retirement income computations. Very technical, very heavy. I am done with technical stuff for a while. My current interests are financial and economic history. So I'm spending a lot of time in the 16th and 17th century, trying to understand how the financial markets that we rely on today began. What was the asset allocation of a retiree in 1650? How did somebody invest in the year 1720? Where do people get income from in the middle ages? How did they build portfolios during the plague? 
 
 And I mean the 13th and 14th century, not the current plague. So I'm fascinated right now by history, within the context of how people managed their financial affairs. How did wealthy people manage their financial affairs? I mean, people had money then. It's not like we all suddenly got money 100 years ago. They were a very, very wealthy. How did they diversify? How did they invest? What did they do? What did they do? That's where it interests me now and if you asked me, what's my next book going to be about two or three years, whenever, it's going to be asset allocation in 1697
-
 
 ## Episode 123
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore.
@@ -39003,9 +38882,6 @@ Ben Felix: Maybe that's the problem, maybe it hasn't been rewritten. I find that
 
 Cameron Passmore: Okay, thanks for listening.
 
- 
-
-
 ## Episode 124
 What is quantitative easing trying to accomplish? 
 
@@ -39216,7 +39092,6 @@ It's the latter. The way our liquidity factor behaves is that it performs well m
 How do you define success in your life? 
 
 Oh, I wish it was a simple question. But in my case, I got to start with family. I'm very fortunate to have an amazing wife and four wonderful children. So if my wife's happy and my kids end up turning into good human beings, then I'll consider myself successful. At work, I just try to have something meaningful, something insightful, something constructive to say in my research papers, in the classroom, in policy circles. I think that ideas can be powerful. So, if at some point some people find some of my ideas helpful, I'll call it success.
-
 
 ## Episode 125
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me Benjamin Felix, and Cameron Passmore.
@@ -39567,7 +39442,6 @@ Ben Felix: No, I think that's good. I think it was a relatively analytically hea
 
 Cameron Passmore: Excellent. All right, everybody. Thanks for listening.
 
-
 ## Episode 126
 Can you talk about how you decided to write that post? Like where did the motivation come from?
 
@@ -39741,8 +39615,7 @@ How do you personally define success in your life?
 
 Josh: Oh, man. I don't have a good answer for that. I just keep going. I don't even know why I'm doing half the stuff I do. I'm doing what I want most of the time. Sometimes that's not true, but most of the time it is. I'm the boss now. I could just say I don't do this anymore if I really want it to not do it, but I really like what I'm doing. I like who I'm doing it with. I like my clients. I like my coworkers. What else do you want in life? Maybe I've found success. I don't know, at the same time I'm not like, all right, I'm good. If everything stopped right here and this is like the highest pinnacle I've achieved. I don't think I'd be happy with that. Maybe I haven't found success. I don't really have a good answer for that because I really haven't figured it out, but I don't stop. 
 
-I would just stop if I didn't like it, but my situation is like not that bad. I just got to spend an hour with the three of you guys having like an amazing conversation and it's work. It's like, I'm on the clock right now. How could I be like, I'm not successful if I'm able to take an hour to do that but by the same token, I'm very restless. I feel like there's always more and that's probably going to be the death of me, but I'm not upset about it. I think, well, maybe one day we'll have this conversation in five years and I'll have a more fully formed idea of what I consider success, but I think I have both achieved it and not even come close to achieved it. Is a little bit of a push and pull each day. 
-
+I would just stop if I didn't like it, but my situation is like not that bad. I just got to spend an hour with the three of you guys having like an amazing conversation and it's work. It's like, I'm on the clock right now. How could I be like, I'm not successful if I'm able to take an hour to do that but by the same token, I'm very restless. I feel like there's always more and that's probably going to be the death of me, but I'm not upset about it. I think, well, maybe one day we'll have this conversation in five years and I'll have a more fully formed idea of what I consider success, but I think I have both achieved it and not even come close to achieved it. Is a little bit of a push and pull each day.
 
 ## Episode 127
 Cameron Passmore: We'll kick it off this week with a great interview that our friend, Ted Seides, did of our other friend, Shane Parrish. As many listeners know, Ted operates the Capital Allocators Podcast, and Ted was actually a guest of ours back in episode 61. Anyways, he interviewed Shane. Shane's based here in Ottawa, and he was also a guest with us on episode 19, and he operates the Farnam Street Blog and also the Knowledge Project Podcast. 
@@ -39969,7 +39842,6 @@ Ben Felix: We'll leave that thought provoking questions for the listeners. Anyth
 
 Cameron Passmore: That's good for this week.
 
-
 ## Episode 128
 A line you wrote in the book, The Psychology of Money, when you're talking about the field of finance and you said, "At no other field can someone with zero experience do better than someone who has spent a career studying finance." Can you talk about the implications of this statement and what that means for the average investor? 
 
@@ -40164,7 +40036,6 @@ How do you define success in your life?
 It's different for everyone, but for me success in life is, I mean, what matters to me more than anything else and I think a lot of people will relate to this of course is my wife and my kids. That's everything. I love my job, I love my career, but I feel like I'm doing it for them. Not because I'm suffering through it, but I feel like that's just everything for me. So to me it doesn't matter how much money you make, it doesn't matter what career you're in, it doesn't matter where you went to school, if you're working hard to support your family, you've checked 95% of the boxes that you can check for me.
 
 Different for everyone but that's who I really respect in life are people who are just waking up and working hard to support their families. That's my kind of person. That's what I like. So to me, that's a lot of what success is in life is working hard out of devotion and support to other people. Like even for you who are not married, who don't have kids, if you're working hard out of devotion and support to other people as well, that's success to me.
-
 
 ## Episode 129
 Cameron Passmore: This week we'll kick it off with a book that I just finished and it's a book that's been popping up everywhere in my Twitter feed so I figured, well maybe it's some sort of message to me that I should be reading it. It's called Almanac of Naval, Ravikant. Naval was an Indian American entrepreneur and investor, and he's actually the co-founder of AngelList and he's invested in, I think over 200 early-stage companies such as Uber, Foursquare and Twitter. I did not know a lot about Naval beforehand but this book is not a book about him and this is what's pretty cool. It's actually a collection of his thoughts and philosophies that he's put out on Twitter over the past decade and in podcasts interviews but what is really cool to me is that it was actually assembled by a guy named Eric Jorgensen who's a product strategist at Zaarly. Anyways, Eric was taken by all these things that Naval has put out there that he decided to assemble it into, as he described, something more permanent because he felt that the thinking of Naval was so good that deserve to be put into a durable long-term format or a book.
@@ -40406,7 +40277,6 @@ Ben Felix: There's also international diversification too, right? One of the thi
 Cameron Passmore: But no need to predict which areas of the world they're going to be near term winners.
 
 Ben Felix: Yeah. To speak to your bad advice article for sure not. We did an episode a while ago on the difference between economic success and stock market success and in that episode, we talked about how economically successful or expected to be successful countries often actually have worse stock returns. It's like value investing. The least GDP growth leads to the highest stock market returns, which is super counter-intuitive but it's an empirical reality.
-
 
 ## Episode 130
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -40791,7 +40661,6 @@ Ben Felix: No, I think that's good. We'll see everybody next year or I guess you
 
 Cameron Passmore: We have an amazing guest. The surprise guest coming up on January 7th. So with that, we wish you a good couple of weeks. We're taking next week off. So with that Happy New Year, and we'll see you on January 7th.
 
-
 ## Episode 131
 Can you talk about your background, your upbringing, and the role that played in building Dimensional over the past 40 years?
 
@@ -40987,8 +40856,7 @@ How do you define success in your life David?
 
 Well, I mean, I've had the opportunity to think about that, and revise.. Success is when you get to be my age you look back and you take pride, maybe too much pride, I don't know maybe it's false pride or ... Pride's one of the deadly sins but I feel really good about what's happened to me and I think I had some positive impact on that, and I've been able to hang around extraordinary people, I've been involved with my whole career all these great academics and great clients. So being able to hang around good people, and accomplish something, and look back ... I mean, you can see we really improved people's lives versus ... Now we didn't do all of that. I'll include the index on people in with us as well, but all this movement towards better diversification, risk controls, and lower fees, that's really helped people out. You can feel good about that. And that was kind of why I left school to begin with, is to help people out. 
 
-We don't like to talk about ourselves but I think it's I'd rather point out to people, "Look, you can have a career in finance and at the end of it all feel good about yourself." There are plenty of good examples. There are plenty of horrible examples too, but if you do things the right way you can carve out a good career for yourself in this business. 
-
+We don't like to talk about ourselves but I think it's I'd rather point out to people, "Look, you can have a career in finance and at the end of it all feel good about yourself." There are plenty of good examples. There are plenty of horrible examples too, but if you do things the right way you can carve out a good career for yourself in this business.
 
 ## Episode 132
 To start with a question that seems basic, but when you dig into it, it's really not. What is money?
@@ -41247,8 +41115,7 @@ Yeah. Well, thanks guys. I love the videos. Your channel is awesome. I've watche
 
 Oh man, you know this because I sent you the script before I recorded the video and some of our listeners know, but your book and your blog were huge in me gaining an understanding just to be able to communicate the... not even close to your level, but communicate the basics of how all this stuff, basically the QE piece works.
 
-I learned all this stuff from other people and just figuring out how it relates to the real financial system and the economy on my own, through my own experiences, and so it's been just a huge learning process for me. I love teaching people and spreading the wealth, especially because there's so much, I think misinformation and so much bias in a lot of the narratives that... especially coming from politicians and people that have a really, I think to some degree, intentionally misleading ideology about things that can be very attractive but are very, very damaging in the sense that they're not consistent with the way that things really work. That has a meaningful impact on people's living standards and the outcomes of all of our situations in the world. 
-
+I learned all this stuff from other people and just figuring out how it relates to the real financial system and the economy on my own, through my own experiences, and so it's been just a huge learning process for me. I love teaching people and spreading the wealth, especially because there's so much, I think misinformation and so much bias in a lot of the narratives that... especially coming from politicians and people that have a really, I think to some degree, intentionally misleading ideology about things that can be very attractive but are very, very damaging in the sense that they're not consistent with the way that things really work. That has a meaningful impact on people's living standards and the outcomes of all of our situations in the world.
 
 ## Episode 133
 It seems to us that the funds tracking in the S&P 500 Index have become synonymous with the broader concept of passive investing. Do you think it's sensible to call an S&P 500 Index fund a passive investment?
@@ -41482,7 +41349,6 @@ Well, stay tuned. I've got a few more projects intersecting with indices and oth
 Our last question for you, we always finish with this one. How do you define success in your life?
 
 I guess, I would say figuring out whatever it is that you want to be doing could be basically anything, but whatever that is, figure it out and then do it and do it in a way that you're proud of.
-
 
 ## Episode 134
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore.
@@ -41863,7 +41729,6 @@ Ben Felix: Nope.
 
 Cameron Passmore: All right. Thanks for listening.
 
-
 ## Episode 135
 In 1994, your analysis in Determining Withdrawal Rates Using Historical Data, I think it's safe to say changed the way people think about retirement planning. And you're finding is often quoted as the 4% rule. Can you describe what your 1994 research finding was?
 
@@ -42018,7 +41883,6 @@ Incredible. Our last question for you, Bill, which we're always curious to hear 
 That's a wonderful question for everyone, I guess. Before I go to bed each night, I've done this for a number of years, I ask myself three questions. And the first question is, today, did I learn anything new or did I create something? No. That's one question. The second question is, did I do anything to help anybody, particularly people I love, but even if for a stranger, maybe helping an old lady across the street, or helping a child understand a math problem? And the last point is, have I given proper attention to this, the mystery and wonder of the world in the universe, and being alive and being able to experience all this?
 
 If I can answer yes to all those three questions during the day, I felt I've had a successful day. And if I look back over a period of years and think about all those days, if I felt the preponderance of those days were success that I checked the box and pre spaces, those days I felt my life was a success. But that scattered my first 40 years of my life were total disaster. Not successful at all, but the last 30 years, filing binding financial planning, helping clients helps a lot, but I guess maturing and learning things about life and what's important, what's not. So I just find that three question process helps me keep in mind what's really important to me in life, and try to focus on achieving things in those areas. I think it adds up over time.
-
 
 ## Episode 136
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore. 
@@ -42383,8 +42247,7 @@ Cameron Passmore: Looked like a normal book, but when you poke into it, it bring
 
 Ben Felix: We talked about financial literacy and we had Rebecca talking about the things we can be doing to improve financial literacy. And then meanwhile, there are people selling books and books and libraries like this that exists, that are just working directly against financial literacy. It's like giving someone all of the arguments and misinformation to justify why smoking is actually good for you. 
 
-Cameron Passmore: So I guess there is social cause to what we're doing. 
-
+Cameron Passmore: So I guess there is social cause to what we're doing.
 
 ## Episode 137
 How do you think people should treat salary increases? Like you mentioned, maybe not spend all of it, but if any rules of thumb in terms of how much of a salary increase people should try to save? 
@@ -42603,8 +42466,7 @@ So I want to break our last question into two parts. The energy you bring to thi
 
 I've actually wanted to be a financial planner since I was in high school, I had my own weird little mutual fund and I was doing internships at advisory companies in high school, I did them in college. I just always liked the idea of helping people do stuff financially. I joke now, I've been climbing the ivory tower for 20 years. And so I used to do one-on-one financial advising. I enjoyed that, but I made a comment, people are crazy. And I like what I do now more because I can maybe help more people, I can help advisors, help clients make better choices. And so I don't know, my parents were both teachers, math and science. I think I got part of it from them. I've always been interested. It's weird, people will get asked, what do you want to do for a living? And I was always like, "I want to be a financial advisor." And that just always for some reason stuck with me. 
 
-The second question is a lot more complicated. I want to be a good dad, I want to be a good father. The work stuff's great and all, but I got a one-year old and as much accolades you can get from writing a cool paper and having eight people read it, seeing him smile means the biggest thing in the world. So I'd like to help people make better choices. And I love the fact that I worked for a company that's not conflicted. I can do whatever I want and help people independently figure out what they should be doing. But I don't know. At the end of the day, work stuff's awesome, but the family stuff means a lot more to me. So successful would mean raising a good family and then there's the work stuffs, the benefit, but that's a distant second or third. 
-
+The second question is a lot more complicated. I want to be a good dad, I want to be a good father. The work stuff's great and all, but I got a one-year old and as much accolades you can get from writing a cool paper and having eight people read it, seeing him smile means the biggest thing in the world. So I'd like to help people make better choices. And I love the fact that I worked for a company that's not conflicted. I can do whatever I want and help people independently figure out what they should be doing. But I don't know. At the end of the day, work stuff's awesome, but the family stuff means a lot more to me. So successful would mean raising a good family and then there's the work stuffs, the benefit, but that's a distant second or third.
 
 ## Episode 138
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -42935,7 +42797,6 @@ Cameron Passmore: Yeah, I guess if it gets 4,000% return, you're right. But don'
 
 Ben Felix: That's pretty irresponsible. As far as bad advice goes, that's pretty bad. It's one thing to say the mistake of 1% is in your portfolio, it's a whole other thing to say, "Pile in, because you're going to double your income three years before you retire." Yeah, that's something. If you're enjoying the podcast, leave us a review on iTunes. I think it helps. I think it helps with the visibility of the podcast on the podcast platforms. So, more listeners makes the community bigger and probably better. So yeah, if you're joining the podcast, leave a review on iTunes or wherever you're listening. Anyways, as always, thanks for listening.
 
-
 ## Episode 139
 Professor Ritter, what do we know about the long run returns of IPOs measured at the close of the first trading day?
 
@@ -43130,7 +42991,6 @@ Yes and no. As one of my former professors Eugene Fama has said, all models are 
 A great answer. And I get the privilege of asking the last last question, which is often the least of my favorite. How do you define success in your life?
 
 There's more than one way to define it. I don't view it as one size fits all, there's professional success, there's personal success, money isn't everything, health is probably the most important thing. One thing I would say though is looking back, or if you're younger looking forward, being able to think ahead and ask yourself, out of the people that I've interacted with in my job, in my personal life, family, friends, how many of them have walked away thinking, this person is a jerk? If you can rationally say, just about everybody considers me a nice person. I would view that as a big measure of success that's under your control.
-
 
 ## Episode 140
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We were hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -43445,7 +43305,6 @@ Ben Felix: No, I think that's good.
 
 Cameron Passmore: All right. Thanks, everybody.
 
-
 ## Episode 141
 Today's conversation is going to be a lot about wellbeing, so we thought we should kick this off with getting everyone on the same footing. Can you start by defining wellbeing?
 
@@ -43668,7 +43527,6 @@ So interesting. So our final question for you, Hal, which we always ask, looking
 Such a great question. I've been thinking about this a lot lately. How do you define success? I mean, I think there's external markers of it so you can look at how you progress through your career, and you can look at your bank account. And those are easy and quantifiable metrics, right? But I think more than that, it's having what you want. I would also add, it sounds a little cliche, wanting what you have. And I also think, lately I've been noticing that I think success means having the time and resources to be able to spend my time the way that I want to. I think about that, especially with regards to family and especially with regards to being able to be present when I'm spending that time. You know, I think for me personally, there's been times where objectively speaking things could look successful, but I'm stressed out, worried or so focused on the next thing that I have a hard time being here right now.
 
 And if there's one upshot to COVID, it's, you know, forced us to spend a lot more time at home with the kids and see sort of how quickly they've been moving through life. I guess, you know, I would hate to look back and say, I missed a lot of that because I was focused on something else. And so I think to be successful means being able to be present there. I think it's also that type of thing that you can always improve on, or at least I can.
-
 
 ## Episode 142
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We were hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -44007,7 +43865,6 @@ Cameron Passmore: We are losing money. So anyways. Everybody, thanks for listeni
 
 Ben Felix: Yeah. Thanks for listening. I know Cameron already mentioned this, but we always appreciate reviews on iTunes. It seems like every time I mention that we get a bunch more. I don't pretend to understand the iTunes algorithm, but my understanding, my limited understanding, is that the reviews do help other people find the podcast, and I think the more the podcast community grows, not just the actual online community, but also the overall listenership, I think the better it is for everyone involved. I don't really have any way to quantify that though, but it feels good. So anyway, we appreciate it.
 
-
 ## Episode 143
 This is awesome to have you. We're so grateful. To kick it off, the concept of time poverty is central to a lot of the thinking and research that you've done. To get us all on the same baseline starting point, what exactly is time poverty?
 
@@ -44232,7 +44089,6 @@ That leads to our final question. How do you define success in your life?
 I define success in a way that I often think that people in general should think about this question, and there's data to support it, is this idea that the way I'm spending time on an everyday basis is ideally how I would want to live my life. Looking back, can you say, “I spent time on the things that truly matter to me as a person, that are aligned with my personal goals and values?”
 
 I define success, for me, as spending most of my time in a way that would look like, if I could, being mapped onto the ideal way I would spend time on an everyday basis. Then if I'm getting really philosophical, then I map how my ideal time matches to how I want to say I've lived my life.
-
 
 ## Episode 144
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -44659,7 +44515,6 @@ Cameron Passmore: And I thought the hedge fund meltdown was bad advice, but we r
 
 Ben Felix: Yeah. It was like 8X leveraged using swaps. I probably wouldn't personally.
 
-
 ## Episode 145
 I think many of our listeners have actually checked out the book ahead of this conversation. So, off the top, Jen, can you tell us why you wrote this book?
 
@@ -44832,7 +44687,6 @@ Right now, there's just too much silence. So the more transparent we can be, the
 So interesting, we've learned so much about you. I still have to ask you a final question, which is how do you define success in your life?
 
 I think it is being true to who you are, being as authentic and transparent as you possibly can be. So success is living your true self, living what you value, and having the courage to take risks. I think this book is, no one has written this book, but so many people could have. And I'm realizing that because people are telling me how much they relate to it and how important it is. So, I feel proud to be shining a light on this issue. It's not about complaining, it's about saying, look, this is kind of the reality that no one's seeing. We're seeing what Hollywood sells us but we're not seeing the reality of millions of people. And we need to be talking to each other because our silence around this really does just keep the status quo in place. I'm not happy with the status quo right now. I think we need a stronger, more equal, more just society.
-
 
 ## Episode 146
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We're hosted by meet Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -45088,7 +44942,6 @@ Cameron Passmore: No, and a lockup period. There's your bad advice that weak. Le
 Ben Felix: Nope, I don't think so.
 
 Cameron Passmore: All right. Thanks for listening.
-
 
 ## Episode 147
 Paul Merriman, I must say it's a great thrill to welcome you to the Rational Reminder Podcast.
@@ -45364,7 +45217,6 @@ What rings my bell is helping people somehow improve their lives. I cannot fix a
 So I really feel blessed that I have the knowledge that I can share with others that makes me feel like I'm still adding some value. Even coming on... This is really a big thing to me to be able to talk to new people that I haven't ever talked to before.
 
 Well, Paul, this has been great to meet you, to learn more about your story. Again, I thank you for all your work over the years. It's had an impact on us, and this has been a great time with you, so thank you very much.
-
 
 ## Episode 148
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -45663,7 +45515,6 @@ Ben Felix: Nope. I think that's it.
 
 Cameron Passmore: Beautiful. As always, thanks for listening.
 
-
 ## Episode 149
 One of your landmark papers, The Other Side of Value; The Gross Profitability Premium, uncovered the relationship between profitability and stock returns. Can you talk about your findings in that paper and why they were so significant to the field of asset pricing?
 
@@ -45930,7 +45781,6 @@ But at the same time, I have to say, I think I would've gotten a lot farther fas
 It's a perfect segue to our last question, Robert. How do you success in your life?
 
 I guess I try and appreciate what I have and trust it and take care of my family and the people I love, and really important for me is staying open to new possibilities and opportunities, trying to be a lifelong learner.
-
 
 ## Episode 150
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -46265,7 +46115,6 @@ Ben Felix: No, like we mentioned in the introduction, we always appreciate the r
 
 Cameron Passmore: Beautiful. All right. Thanks for listening.
 
-
 ## Episode 151
 Our listeners are somewhat familiar with the concept of factor investing because we've talked about it, well, quite a few times on the podcast. Can you explain the difference between a stock characteristic and a stock risk factor loading?
 
@@ -46512,7 +46361,6 @@ Yeah. And you'd have to plan. So if I'm running a pension fund, oh, I got 4% ove
 Yeah. Fascinating. Our last question, completely different question. And for someone who has such an incredible career and has built a great body of work, I'm curious, how do you define success in your life?
 
 I define it with three criteria. First, you want to do interesting things. You only get to go around once. So do things you're really interested in. And actually got that impart from Fineman, he was so interested in what he did. It was really inspiring. Second thing is hopefully you'll make a contribution doing that, but you never can be sure, you just do your best, do interesting things and hope you make a contribution and then raise a good family that you can pass on to the next generation. I've been lucky. Both my sons eventually got interested in this subject and started a business that I can help them with.
-
 
 ## Episode 152
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio manager at PWL capital.
@@ -46923,7 +46771,6 @@ Ben Felix: All right.
 
 Cameron Passmore: Thanks for listening.
 
-
 ## Episode 153
 Are people good at predicting how much money they're going to spend in the future?
 
@@ -47224,7 +47071,6 @@ So if you know that about yourself, right, that you're very emotional, then mayb
 I'm sure Ben and I could ask you questions for hours. But our final question, Johanna, which we love to ask. How do you define success in your life?
 
 I personally think it's all about meaning. So finding something that is meaningful to you, then pursuing it. I think a classical theory of what constitutes happiness in life is always positing the hedonic pleasure with a eudemonic meaning. So the idea that, for example, children, right, you can have children, and you don't sleep, and you're not particularly happy in the sense of feeling good hedonically. It's not physically pleasurable. It's not like lying on the beach having a cocktail. That is physically pleasurable. But it is providing you with a lot of meaning in your life. So having unpleasant jobs, having unpleasant things you have to do in your life, as long as they provide you with meaning, I think that will lead me, at least, to look back on my life and feel like, "Yes, I've lived a good life, experienced meaning in my life."
-
 
 ## Episode 154
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital.
@@ -47607,7 +47453,6 @@ Cameron Passmore: I just think the regret. Have you regretted setting up or savi
 
 Ben Felix: If this becomes big enough and if Fidelity gives up the data, there will be studies for sure showing how teenagers do relative to other retail accounts, because there are studies now showing that mutual funds make their most profitable trades trading with individual investors. There have been US studies on that and I think Taiwanese studies on that to see if teenagers do better or worse than the average retail investor.
 
-
 ## Episode 155
 So, we've been looking forward to this. I know when we spoke ahead of this a couple weeks ago or so, you described to me about how lucky you feel you've been in life, and I would say that luck, and clearly a lot of hard work, transferred into an incredible career where you were heading Russell Investments Global Consulting and working with literally some of the largest pension plans on the planet. So I'm really curious, how did you feel once you retired?
 
@@ -47868,7 +47713,6 @@ Well, let me insert something before that, and that is to thank you because I'm 
 A beautiful answer and it's been a great, great time spent with you. Thanks so much. We're so lucky to have you on the podcast.
 
 My pleasure. Let me know when this is available, I'll tell my kids. They might get a laugh out of this, at all kinds of things you wouldn't know they would laugh at.
-
 
 ## Episode 156
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me Benjamin Felix and Cameron Passmore portfolio managers at PWL Capital.
@@ -48164,7 +48008,6 @@ Cameron Passmore: And if you're one of the number of people that listened to thi
 Ben Felix: That's right. Happy Canada Day. And I'm sorry for not wearing a red shirt. I am very proud to be Canadian.
 
 Cameron Passmore: Indeed, all right. Thanks for listening.
-
 
 ## Episode 157
 Rob, there are tremendous this amounts of assets in cap weighted index funds today. And we talked on this podcast a lot about how they're pretty good investments for a lot of people. Can you talk about some of the drawbacks of cap weighted indexing?
@@ -48486,7 +48329,6 @@ I'm excited to see them when they come out.
 And our last question, Rob as always, how do you define success in your life?
 
 Success to me is enjoying what I do and helping my family and friends enjoy what they do. Now, from a business perspective, I won't enjoy what I'm doing if I'm not helping our clients to do well, so the end customer has to win. In terms of family, I want my family to be happy and comfortable. I want my family to every last one of them be doing something they love and something that makes the world a better place.
-
 
 ## Episode 158
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -48869,7 +48711,6 @@ Ben Felix: That is it.
 
 Cameron Passmore: Thanks for listening.
 
-
 ## Episode 159
 But I must say this conversation has been 23 years in the making and I'm grateful for the part that you had in changing the course of direction for our firm back in 1998, 1999. So it's been an incredible journey that you may not have even been aware of.
 
@@ -49044,7 +48885,6 @@ Oh, gosh, I guess at the top of the list is I hope that I'm kind to people and I
 It's gratifying to be on this podcast with both of you because in many ways you share that mission with the world. You two are absolutely passionate about it. And it's fun to share that energy with both of you. And I want to thank you for the impact that you are having on people's lives because I don't think it... What I have found and I'm sure you see it in your life is that people who have anxiety over money, it just saps the energy of life right out of their bones. And when you can help them to see a better way, I mean, how gratifying is that? So thank you for sharing this mission and this journey with me.
 
 This has been amazing, Bill, and it's almost strange to me to think back like 23 years ago, it was you and Larry Swedroe's books that started me on this path. So I guess you book-ended my entire career in this business. So, for that I'm grateful and also for this amazing hour together, thank you so much.
-
 
 ## Episode 160
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We were hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -49373,7 +49213,6 @@ Ben Felix: Yep. We'll see what happens.
 
 Cameron Passmore: All right. All right. Thank you. As always for listening.
 
-
 ## Episode 161
 So let's jump right into some questions. So part of the book that I love so much was relating to your research on fresh starts. So can you describe for everybody what a fresh start is and how people can apply it to financial goals such as retirement saving?
 
@@ -49616,7 +49455,6 @@ There's few things that I find torturous and there's many ways that I can make a
 What a fantastic answer. And this has been a great time. I'm so happy you agreed to come on, and it's been really great to meet you. Thank you.
 
 Thank you for having me. This was really fun. I really enjoyed it.
-
 
 ## Episode 162
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -50035,7 +49873,6 @@ Ben Felix: No, I think that's all for today.
 
 Cameron Passmore: As always, thanks for listening.
 
-
 ## Episode 163
 So our first question, with interest rates as low as they are, and this is a question we get a lot, has the role of bonds in a portfolio changed, say, to when we first met or even longer, say 20 years ago?
 
@@ -50301,7 +50138,6 @@ Well, it's pretty clear that you love what you do and that's been the experience
 
 Well, thank you. I'm happy to help and call me back anytime.
 
-
 ## Episode 164
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -50406,7 +50242,6 @@ Cameron Passmore: Good point.
 Ben Felix: Yeah. I mean, there's so many things that goes into it. So to summarize, I think as a guideline, like we've mentioned, if using something like this is going to help somebody who doesn't have access to sophisticated financial planning software, make quick decisions or long-term decisions, I think that's great. I'd maybe be using something lower than 4%, though. But anyway, we hope that this consolidation of portions of interviews with experts on this topic has helped define what the 4% rule is, and provide context around when it is maybe useful, when it maybe isn't useful, how it should maybe be adjusted, and maybe even more broadly, how people should be thinking about retirement spending.
 
 Cameron Passmore: Agree. And with that, thanks for listening.
-
 
 ## Episode 165
 So Gordon, you worked at Google prior to Google's IPO and given your clearly data-driven approach that I have started to understand from doing research for this interview, I've got to ask, what did you do with your Google equity after the IPO?
@@ -50624,7 +50459,6 @@ I think for me, I define success as having sufficient resources to be able to wo
 Beautiful answer. This has been a real pleasure to get a chance to meet you and introduce you to our listeners. Gordon, thanks so much.
 
 Thank you.
-
 
 ## Episode 166
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We were hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -51097,7 +50931,6 @@ Ben Felix: ...and embrace it. Yeah.
 
 Cameron Passmore: Excellent. Okay. As always, thanks for listening.
 
-
 ## Episode 167
 Let's kick it off with a question about your 2002 book, Beyond Greed and Fear. The book starts with a key message from behavioural finance. Can you start by describing what that key message is?
 
@@ -51346,7 +51179,6 @@ It's making the world a better place; globally, if possible, locally, if possibl
 Well, you certainly shared a lot of knowledge with us. This has been an amazing, almost hour and a half. Thank you so much for your time. This has been great.
 
 My pleasure, Cameron, thanks so much for inviting me.
-
 
 ## Episode 168
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -51739,7 +51571,6 @@ Ben Rabidoux: All right guys, take care.
 
 Cameron Passmore: And to everyone out there. Thanks for listening, we really appreciate it.
 
-
 ## Episode 169
 Is the volatility and valuation ratios like dividends to price due to changes in discount rates or changes in expected cash flows?
 
@@ -52014,7 +51845,6 @@ Oh, we're here for the pursuit of happiness, right? I define success as well, my
 Great answer and a great way to end. Yep, phenomenal interview John. Thanks for your time so much. You shared lots of great ideas here today and we really appreciate it. Thank you.
 
 Thank you guys.
-
 
 ## Episode 170
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -52397,7 +52227,6 @@ I think probably in aggregate, it's not inexpensive. I was going to say buying m
 
 Cameron Passmore: I don't have a better answer than what I gave. All right. So wrap it up there. We'll come back in a couple of weeks with some bad advice of the week, but again, thanks for listening.
 
-
 ## Episode 171
 Some of the earliest research was done while you were at York University here in Canada. That research was so good that it ended up bringing you to Chicago's PhD program, which I think is just amazing. Can you tell us that story and what the research was?
 
@@ -52740,7 +52569,6 @@ So our final question, Cam, to cap off a pretty incredible conversation. How do 
 That's really easy for me and it's really what I've been talking about. The reason I do my job as an academic, to impact the world in a positive way. Whether it's a better approach to asset allocation and portfolio management, or whether I can play a small role in the transformation of finance in general to bring real financial democracy to the world, that's what energizes me and that's why I'm in this job. It's more about the impact. Impact through my teaching, impact through my writing and I impact through talking to you.
 
 Well, this has been a truly amazing conversation. I mentioned earlier, I finished your book this weekend, it blew me out of the water and I have to go back and learn a lot. But, this has been a great time together. Thank you.
-
 
 ## Episode 172
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making for Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -53241,7 +53069,6 @@ Rob Carrick: I really enjoyed it, guys. Anytime.
 
 Cameron Passmore: Yeah, we should have you back more often. It's been a blast, so thanks for joining us, and everybody, thanks for listening.
 
-
 ## Episode 173
 So Antonio, you run factor investing at Vanguard. We're very excited to be talking to you, because we talk a lot about factor investing, and Vanguard's obviously a huge player in asset management. So the first question I want to ask you is, how would you explain factor investing to an existing Vanguard client who's already sold on the idea of low cost, cap weighted index investing?
 
@@ -53428,7 +53255,6 @@ As a father, as a? No. I mean, the objective as a factor manager. I'm going to a
 That's awesome. Antonio, this has been great. Thanks so much for joining us.
 
 Oh, thank you so much. I loved it.
-
 
 ## Episode 174
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -53805,7 +53631,6 @@ Ben Felix: Neither am I. I've got nothing else. We're good.
 
 Cameron Passmore: All right. Great. Thanks for joining us.
 
-
 ## Episode 175
 Cameron Passmore: So we'll jump right into the questions. So tell us off the top, why is teaching your kids about money, as you call it, the wisest investment?
 
@@ -54171,7 +53996,6 @@ Cameron Passmore: This has been a real treat Robin. Thanks so much for joining u
 
 Robin Taub: My pleasure. Thank you for having me and for asking such thoughtful questions.
 
-
 ## Episode 176
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making for Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -54461,7 +54285,6 @@ Yeah, thank you so much for having me. I also really enjoyed it.
 
 Cameron Passmore: Awesome. Thanks. Mathias.
 
-
 ## Episode 177
 So off the top, can you describe just we're all in the same level playing field, what dopamine actually is?
 
@@ -54708,7 +54531,6 @@ I define success mostly around trying to be the best parent that I can be. And t
 Wow. What a beautiful answer. This has been a great hour. Anna, thanks so much. I'm so happy that you agreed to join us. This has been an incredibly, it's safe to say important conversation. So thank you.
 
 Oh, well thank you. You're you're very welcome. It's been a joy for me. You've had great questions.
-
 
 ## Episode 178
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
@@ -55077,7 +54899,6 @@ Cameron Passmore: It's a good answer. Three good cards. Okay. That's a wrap.
 
 Ben Felix: That's it.
 
-
 ## Episode 179
 Excellent. We're very excited to have you. And this is such a current topic. So let's kick it off with a straightforward question which may not have a straightforward answer, what is cryptocurrency?
 
@@ -55276,7 +55097,6 @@ Thank you so much for having me. This was a lot of fun.
 Oh, Marco, this was great because it's not easy to find qualified economist who can speak in an informed way about cryptocurrency and blockchain, but also whatever you call it, traditional economics. So this is awesome.
 
 Thank you.
-
 
 ## Episode 180
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -55727,7 +55547,6 @@ Ben Felix: That's true. I guess since we're going to be off, I'll do my semi-fre
 
 Cameron Passmore: Don't forget hats in the store. Tuques are available. Got lots of merch here. We're happy to move. Okay. As always thanks for listening.
 
-
 ## Episode 181
 Benjamin Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -56169,7 +55988,6 @@ Benjamin Felix: Yeah, definitely. Thanks again, from the entire rational reminde
 
 Cameron Passmore: Now, we'll see everybody next year.
 
-
 ## Episode 182
 Let's kick it off with a question about earlier in your finance career. And back then, data certainly was not like data is today. Can you bring us back in time doing studied finance and the role that data played?
 
@@ -56312,7 +56130,6 @@ Yeah. All it does is really amplify my curiosity. I mean, of course it creates w
 Well, Mac, this has been an incredible hour. I want to thank you so much. We are very gracious with your time. You've had an incredible career, a huge impact on Ben and I and all of our clients. So thank you very much.
 
 Hey, welcome, Cameron. I enjoyed the conversation. Thank you very much, Ben. Hope you enjoy yourself.
-
 
 ## Episode 183
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers, at PWL Capital.
@@ -56817,7 +56634,6 @@ Ben Felix: No, I think that's good. Hopefully people enjoy the episode.
 
 Cameron Passmore: Excellent. Last week was Mac McQuown, and next week is the perfect bookend to that with Robin Wigglesworth. So as always, thanks for listening.
 
-
 ## Episode 184
 So let's start with the basics. Why are index funds a sensible investment for most people?
 
@@ -57068,7 +56884,6 @@ Well, I do try to get a little bit of some pop cultural reference points. I thin
 Oh, all right. Thanks, Robin.
 
 Thanks having me.
-
 
 ## Episode 185
 Ben Felix: This is the Rational Reminder Podcast a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -57593,7 +57408,6 @@ Wes Gray: Good chatting.
 
 Ben Felix: Thanks. Thanks, Robin.
 
-
 ## Episode 186
 Andrew, because of the content of your book that actually is officially released today, we're going to flip our usual format. We usually ask how you define success in your life as a final question, but I'm going to ask first, in your view, what are the four quadrants of a successful life?
 
@@ -57918,7 +57732,6 @@ Cameron Passmore: Neat question. Andrew, this has been a blast. Congratulations 
 Andrew Hallam: It was my pleasure. Thank you, guys. It was awesome to have this conversation with you guys, and I hope to meet you guys in person.
 
 Ben Felix: That would be great.
-
 
 ## Episode 187
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -58307,7 +58120,6 @@ Heather Reisman: You're so welcome. My pleasure. Thank you for all you're doing 
 
 Cameron Passmore: Thank you. Thanks, everyone for listening this week.
 
-
 ## Episode 188
 As we understand it, people are not really terribly good at predicting what will make them happy in the future. How do you think this can be addressed when you set goals?
 
@@ -58526,7 +58338,6 @@ Learning, I never left school. I feel successful when I learn something new. I f
 Well, we learned a ton today. This was truly an incredible conversation. Ayelet, thanks so much for your time.
 
 Thanks for having me.
-
 
 ## Episode 189
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making, from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -58867,7 +58678,6 @@ Cameron Passmore: Neil. This has been awesome. Thank you so much. Thanks for the
 
 Neil Pasricha: Thank you guys for having me. This is a wonderful podcast and I'm really, really grateful for the work you guys are putting out into the world. Thanks so much. Wonderful being in the podcast solar system with you.
 
-
 ## Episode 190
 It's great to see you again and congratulations on your most recent book. Ben and I both think it's terrific. And I must say it seems rather odd to have a theoretical physicist and a mathematician come on the Rational Reminder to talk about the most recent book, Emotional. So let's start at the basics. What is an emotion?
 
@@ -59052,7 +58862,6 @@ I find success in my life if I'm happy and those around me that I love are also 
 That's a great answer. Well, I can say you've certainly made us happy today with lots of amazing information to help us and our listeners make better decisions. So Leonard, thanks so much.
 
 Well, thank you. It's been and fun, you guys. It's been great questions and I appreciate this conversation.
-
 
 ## Episode 191
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians.
@@ -59339,7 +59148,6 @@ Ben Felix: Thanks, Morgan.
 
 Cameron Passmore: And thanks, everyone, for listening this week.
 
-
 ## Episode 192
 Alex, your book is titled Grow the Pie, can you tell us about the difference between growing the pie and maximizing profits?
 
@@ -59606,7 +59414,6 @@ I remember when I would run the same race, I would not just care about my own ti
 Wow. What a wonderful answer. And, this has been an amazing conversation. So Alex, thanks so much for joining us.
 
 Thanks so much, Cameron and Ben. Really enjoyed the conversation. Thank you so much for inviting me.
-
 
 ## Episode 193
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio managers at PWL Capital.
@@ -60009,7 +59816,6 @@ Larry Swedroe: Twice.
 
 Cameron Passmore: Larry, thanks so much for joining us, and thanks everyone for listening this week.
 
-
 ## Episode 194
 Bill to set the stage, can you describe the three-player game?
 
@@ -60278,7 +60084,6 @@ Our final question Bill, how do you define success in your life?
 In my life, waking up in the morning with the motivation to get to work. Now, it's more academics than entrepreneurial in the classic sense.
 
 This has been great. We really appreciate it.
-
 
 ## Episode 195
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -60789,7 +60594,6 @@ Cameron Passmore: Whole lot of things have to go well to pull this off, like bet
 
 Ben Felix: All right. Well, enjoy. And to all the listeners, we'll see you in week.
 
-
 ## Episode 196
 So let's jump right into it with a great question off the top. So can you talk about the theoretical relationship between labor income and financial asset allocation?
 
@@ -61076,7 +60880,6 @@ Making the most of the opportunities when they come to you. It's taking risks, g
 Great answer. Terrific answer. Sebastien, this has been a real pleasure to meet you and hear your thoughts and all this. So thanks so much for your time.
 
 Thank you for having me. It's been a pleasure interacting with you both, Cameron and Benjamin.
-
 
 ## Episode 197
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -61487,7 +61290,6 @@ Ben Felix: All right. Save the rest for next time?
 
 Cameron Passmore: We'll save the rest for next time. As always, thanks for listening.
 
-
 ## Episode 198
 Right off the top, most investors, I think it's safe to say, are pretty familiar with market-cap-weighted passive strategies. How do you articulate the difference between that and what Dimensional's products represent?
 
@@ -61814,7 +61616,6 @@ There are more than just that some. All right. Well, this has been great, Gerard
 Well, Cameron, Ben, appreciate all what you do. Have great respect for your podcast, but also everything that you've done up there with Brad and so on in Canada. So thank you for having me on and hope to see you again in person sometime soon.
 
 You bet looking forward to it. Thanks, Gerard.
-
 
 ## Episode 199
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -62297,7 +62098,6 @@ Aydin Mirzaee: Always fun chatting. You know I love the show and thanks for all 
 
 Cameron Passmore: Awesome. Well, thank you. And thanks everybody for listening this week.
 
-
 ## Episode 200
 Gene, what does it mean for a market to be efficient?
 
@@ -62693,7 +62493,6 @@ Terrific. Well, Gene, this has been a real pleasure to see you and for you to pa
 
 Sure. My pleasure.
 
-
 ## Episode 201
 Ben Felix: This is The Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -63039,7 +62838,6 @@ Ben Felix: Yeah, I think that's it, it was great.
 
 Cameron Passmore: Great. All right. Thanks everybody for listening.
 
-
 ## Episode 202
 All right. So to kick it off with the first question, Antti, does long-term historical data contain information about expected returns?
 
@@ -63370,7 +63168,6 @@ Good. Thanks guys. Great show. I'm a real regular on it. And so, on the audience
 Thank you very much.
 
 Extra: When I'm in Chicago, when I went to the school, in the first class that I had... The first year's big class is the Fama class. And I go there, I'm a little older. Cliff is a teaching assistant there, and he's five years younger than me, which is awkward. But he's also super smart, and so also this is... But, sort of for my future, it is important. I got sort of best both from the whatever exams and some paper, I did very well. It was good for my reputation then with Fama. And I think it was good for French, who had sort of helped me in. But also, I think Cliff has since then, sort of thought that, oh, he's a somewhat smart guy. So he got good impression of me. And when I think of the career implications of that one, it has been something. So anyway, that part I left out now, so.
-
 
 ## Episode 203
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore portfolio managers at PWL Capital.
@@ -63829,7 +63626,6 @@ Katy Milkman: Thank you so much. Thanks for having me.
 
 Cameron Passmore: Our pleasure and everybody out there. Thanks for listening this week.
 
-
 ## Episode 204
 So off the top, I want to congratulate you on your most recent book, The Voltage Effect. I thought it was terrific and we'll get more into the book after. But first, wanted to kick it over the question about your specialty, which is conducting field work in behavioral economics. So why are field experiments important to the study of economics?
 
@@ -64204,7 +64000,6 @@ Wow. That was a fantastic answer and this has been a great time together. And ce
 Look, guys, thanks so much for having me and I really appreciate all the time you spent on my work and thanks for giving me this platform.
 
 Thanks, John.
-
 
 ## Episode 205
 Ben Felix: This is The Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -64629,7 +64424,6 @@ Ben Felix: No. We covered a lot of ground. I think that's it.
 
 Cameron Passmore: All right. Again, thanks to everybody for listening.
 
-
 ## Episode 206
 So let's jump right into it. So how much impact do people generally have on other people?
 
@@ -65007,7 +64801,6 @@ It's not just (censored), right?
 
 Yeah.
 
-
 ## Episode 207
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -65353,7 +65146,6 @@ Dan Solin: Great pleasure to be with the two of you as always.
 
 Cameron Passmore: Thanks everyone out there for listening this week.
 
-
 ## Episode 208
 So off the top, what does money represent to you?
 
@@ -65490,7 +65282,6 @@ And I think another aspect of feeling successful for me is knowing that my work 
 Such a wonderful answer and a wonderful conversation. Rebecca, great to meet you. And thank you for joining us.
 
 Thank you so much for having me. It was a great interview. I love talking to you guys and I wish you the best and all you guys out there listening, I believe in you and I support you. Go do the right thing, help us save this struggling planet.
-
 
 ## Episode 209
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -65799,7 +65590,6 @@ Ben Felix: No, I think we covered off everything that we wanted to cover off.
 
 Cameron Passmore: Cool. All right. Well, have a good vacation. Everybody, thanks for listening.
 
-
 ## Episode 210
 I'm very excited to be talking to you. To start, can you tell us what asset classes are included in the broad term 'private equity'?
 
@@ -66052,7 +65842,6 @@ Yeah.
 Awesome. Ludo, this has been fantastic. We really appreciate you coming on and your stuff on private equity is just... it's so good. It's fantastic.
 
 Thank you. Thank you for having me.
-
 
 ## Episode 211
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making. From two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -66438,7 +66227,6 @@ Cameron Passmore: Solid advice right there. So thanks for joining us. Good luck.
 Mark Sutcliffe: Thank you both. This has been great.
 
 Cameron Passmore: It's been great. So thanks again, Mark. And thanks everybody for listening this week.
-
 
 ## Episode 212
 Ralph, what is demand system asset pricing?
@@ -66849,8 +66637,7 @@ Then our next steps are going to be to connect that to the macro economy and glo
 
 Awesome, great answer. Ralph, this has been fantastic. I learned a ton going through your research and even more talking to you today. Really appreciate it.
 
-Thank you so much for having me. 
-
+Thank you so much for having me.
 
 ## Episode 213
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -67197,7 +66984,6 @@ Ben Felix: No, I think that's good. That's it for the episode.
 
 Cameron Passmore: Awesome. Well, thanks everybody for listening as always.
 
-
 ## Episode 214
 So right off the top, what is group identity?
 
@@ -67488,7 +67274,6 @@ Wow, you sure connected with us. This was amazing. Jay, thanks, been a blast. So
 Yeah, thanks for having me. As you can tell, I enjoy these conversations. I love these topics.
 
 That was great. Thanks Jay.
-
 
 ## Episode 215
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -67895,7 +67680,6 @@ Ben Felix: Oh, thanks, Harley. That means a lot.
 
 Cameron Passmore: Yeah. Thank you, Harley, and thanks everyone out there for listening. We do appreciate it!
 
-
 ## Episode 216
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -68290,7 +68074,6 @@ Well, they don't. They don't get favorable tax treatment in the US that's market
 We still hear that pitch today.
 
 It drove me crazy for 15 years. I had to retire.
-
 
 ## Episode 217
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -68719,7 +68502,6 @@ Ben Felix: Nope. That's it.
 
 Cameron Passmore: All right. Thanks to the three people who are still here listening.
 
-
 ## Episode 218
 Ben Felix: This is The Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
 
@@ -68984,7 +68766,6 @@ Thank you for having me.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 219
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -69453,7 +69234,6 @@ Cameron Passmore: Great advice. David, this has been fantastic. Thanks so much f
 
 David Senra: Yeah, of course. Thanks for the invite.
 
-
 ## Episode 220
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
 
@@ -69792,7 +69572,6 @@ Jonathan Berk: Thank you guys for inviting us. I really enjoyed this. I've got t
 Cameron Passmore: Thank you for your time. Bye.
 
 Ben Felix: All right. See ya. Thanks a lot guys. Thanks so much.
-
 
 ## Episode 221
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -70227,7 +70006,6 @@ Ben Felix: I know. We do a lot more. We're speaking at something in November, ri
 
 Cameron Passmore: I'm speaking at two things in November. One thing on October. A lot of travel, a lot of gigs coming up, which is awesome. All right, everybody. Thanks for listening.
 
-
 ## Episode 222
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -70517,7 +70295,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 223
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We’re hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -70654,9 +70431,6 @@ Cameron Passmore: That's a mandatory takeaway for everybody. Absolutely. When th
 Ben Felix: Yeah. That was a neat exercise to go through. I say it in the episode, but like, thank you, again, to people spent that hour of their time, at least, because they probably thought about it outside of actually having the browser window open to fill out the answers to respond to that. 310 people, that's a lot of people's time. 
 
 Cameron Passmore: All right. With that, let's get to the episode.
-
- 
-
 
 ## Episode 224
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -71020,7 +70794,6 @@ Really saving the tough questions for last. Yeah, I guess as I'm reflecting, it 
 Great answer. Great to meet you, Scott. Thanks for joining us.
 
 Yeah. It was great to meet you as well. Thanks a lot for having me.
-
 
 ## Episode 225
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -71531,7 +71304,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 226
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -71776,7 +71548,6 @@ Cameron Passmore: All right, as always, thanks everybody for listening.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 227
 Ben Felix: This is the Rational Reminder Podcast. a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -72227,7 +71998,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 228
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial-decision making from two Canadians. We’re hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -72608,7 +72378,6 @@ It's a pleasure. It's really a pleasure. Thank you, guys.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 229
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We’re hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -73000,7 +72769,6 @@ Cameron Passmore: Beautiful. All right. Well, happy December and thanks, everybo
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 230
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -73427,7 +73195,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 231
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -73807,7 +73574,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 232
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -74080,7 +73846,6 @@ Thank you.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 233
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -74537,7 +74302,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 234
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -74979,7 +74743,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 235
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -75397,7 +75160,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 236
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -75620,7 +75382,6 @@ Well, I'd like to thank you for your investor education. Just focus on that, alt
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 237
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -76029,7 +75790,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 238
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -76328,7 +76088,6 @@ All right. Well, Ralph, that's the end of the questions that we had for you. We 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 239
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -76775,7 +76534,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 240
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -77066,7 +76824,6 @@ Thank you so much. It's been a real pleasure. You guys have really a great show 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 241
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. Episode 241. Welcome, everybody. 
@@ -77599,7 +77356,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 242
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital.
 
@@ -77858,7 +77614,6 @@ Thanks. Bye, guys.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 243
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -78253,7 +78008,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 244
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -78542,7 +78296,6 @@ Unreal.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 245
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio Managers at PWL Capital. 
@@ -79089,7 +78842,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 246
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
 
@@ -79294,7 +79046,6 @@ All right. Thanks, Dan.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 247
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -79661,7 +79412,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 248
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -79990,7 +79740,6 @@ William Goetzmann: Yeah, I appreciate your interest in it and this has been an i
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 249
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from/to Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -80428,7 +80177,6 @@ Ben Felix: No, that's it. All right, everybody. Thanks for listening.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 250
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -80993,7 +80741,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 251
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -81354,7 +81101,6 @@ Cameron Passmore: Beautiful. Thanks, everybody, for listening, and we'll see you
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 252
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -81740,7 +81486,6 @@ Thank you very much. I really appreciate it.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 253
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -82403,7 +82148,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 254
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -82786,7 +82530,6 @@ Sure. Thanks for having me.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 255
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL.
@@ -83347,7 +83090,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 256
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -83634,7 +83376,6 @@ All right, guys. Thank you.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 257
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -83929,7 +83670,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 258
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -84174,7 +83914,6 @@ Thanks, Meir.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 259
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -84563,7 +84302,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 260
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -84918,7 +84656,6 @@ Yeah. Thanks, James. Incredible.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 261
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -85531,7 +85268,6 @@ Ben Felix: Yeah. No, it's cool. I mean it's cool to the extent that our lives sh
 
 Cameron Passmore: Yeah, to the extent. All right, so here's the song from our recording of The Most Hated F-Word with Shaun Maslyk, and this was written by RootHub. Everybody, thanks for listening. Have a great week.
 
-
 ## Episode 262
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital. 
 
@@ -85971,7 +85707,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 263
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -86353,7 +86088,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 264
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital. 
 
@@ -86720,7 +86454,6 @@ It was my pleasure. Thanks.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 265
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -87259,7 +86992,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 266
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -87506,7 +87238,6 @@ Great pleasure. Thanks to you.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 267
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -87904,7 +87635,6 @@ Cameron Passmore:  All right. Thanks everybody for listening this week.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 268
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -88307,7 +88037,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 269
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -88324,7 +88053,6 @@ For the last webinar that we mentioned on the podcast, the one on employee equit
 It's also just neat to see that a lot of new clients that have come on board to PWL in the recent past since we've started doing these webinars are coming to the firm already being familiar with the team outside of Cameron and I, because they've been attending these webinars. I think the webinars are great. Next one, September 27th on finding and funding a good life.
 
 Cameron Passmore: Great setup. With that, let's go to our episode.
-
 
 ## Episode 270
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio managers at PWL Capital. 
@@ -88359,8 +88087,7 @@ Ben Felix:Yep. Definitely. I mean – I don't know. Do we want to give any more 
 
 Cameron Passmore:I think we've covered. I mean, Victor's been in the industry for over 40 years. Started at Solomon Brothers in '84. '93, joined Long-Term Capital Management. Had an incredible career in research since then. Co-founded Elm Wealth. James pretty much went through it. He's had positions in research trading, executive roles at Citadel and Bank of America. James is in Philly. Victor's in Wyoming. If you watch the video, you'll see Victor's got the quintessential Wyoming background in the video. But they're really good, interesting, really smart guys. It was a fun conversation. 
 
-Ben Felix: Yeah, fun conversation. I think it's a worthwhile listen. And we hope people enjoy it. I think with that, we can go ahead to the episode with Victor Haghani and James White. 
-
+Ben Felix: Yeah, fun conversation. I think it's a worthwhile listen. And we hope people enjoy it. I think with that, we can go ahead to the episode with Victor Haghani and James White.
 
 ## Episode 271
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -88393,7 +88120,6 @@ Ben Felix: Yeah, share it and tell us what you think. I think we said this in a 
 
 Cameron Passmore:  I agree. All right, with that, let's head over to our episode.
 
-
 ## Episode 272
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -88408,7 +88134,6 @@ Ben Felix: He's been doing it for a long time, though. Like he's telling, Camero
 Cameron Passmore: So his personal finance column appears twice weekly in The Globe and Mail. He has a portfolio strategy column that runs on alternating Saturdays also in The Globe. He also has a twice-weekly email newsletter called Carrick on Money that he puts together, that accumulates the best personal finance and investing material that he's found online. He also co-hosts the popular podcast, Stress Test. Ben, anything else to add?
 
 Ben Felix: That's a good introduction. Stress Test is a cool podcast, though. They talk to people, kind of like the survey thing that I mentioned. They talk to people about what's really going on in their lives, just regular Canadians. Yeah, it's a nice podcast. Anyway, I think that's a good introduction, so we'll go ahead to our conversation on the state of Canadian personal finance with Rob Carrick.
-
 
 ## Episode 273
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -88429,9 +88154,6 @@ Cameron Passmore:Sam holds a Ph.D. from the Marshall School of Business at the U
 
 Ben Felix: No. I think it's a really, really cool episode. I hope people enjoy it. With that as the introduction, I think we can go ahead to our conversation with Professor Sam Hartzmark.
 
- 
-
-
 ## Episode 274
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -88443,8 +88165,7 @@ Anything else you want to tea up, Ben?
 
 Ben Felix: I think that's a pretty good introduction. It's definitely a unique episode. I mean, we'll talk more about it when we get into introducing the segment, but it was a unique experience for us. We recorded this thing live. And it was a little bit about what we've learned in the podcast and then a little bit about what we've learned about podcasting from doing the podcast. Anyway, we'll talk more about it in the episode.
 
-Cameron Passmore:  All right. Let's go. 
-
+Cameron Passmore:  All right. Let's go.
 
 ## Episode 275
 Ben Felix:  This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -88470,7 +88191,6 @@ Ben Felix: Yes. Hal is a Professor of Marketing Behavioural Decision Making and 
 Hal Hershfield: Yes. It was really just the authors and you guys, at this point.
 
 Ben Felix: Yes. So, we've got some very fresh research that we're going to talk about with Hal today on consumer financial decision-making. So, with that, I think we can go ahead and start talking about this research.
-
 
 ## Episode 276
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -88742,7 +88462,6 @@ Darin Soat: Thanks, Cameron. Thanks, Ben.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 277
 Ben Felix:  This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -89042,7 +88761,6 @@ Cameron Passmore: That's good. All right, as always, everybody, thanks for liste
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 278
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -89442,7 +89160,6 @@ Juhani Linnainmaa: Oh, thank you. This was great. Thanks so much for having me.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 279
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -89997,7 +89714,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 280
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -90246,7 +89962,6 @@ Cameron Passmore: Great answer. The book is Clear Thinking: Turning Ordinary Mom
 Shane Parrish: Thanks, Cameron. Thanks, Ben.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 281
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -90647,7 +90362,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 282
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -90942,7 +90656,6 @@ Cameron Passmore: What a wonderful answer and a perfect cap to just an incredibl
 Jim Grubman: Well, thank you for having me. Great questions, and again, you're speaking and asking from a position where you know a lot about what I'm talking about, and you try and live it in the firm. It's great when we can have that conversation in a deep way like this. Thank you for having me.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 283
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We’re hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -91280,7 +90993,6 @@ Cameron Passmore: Thanks, everybody, for listening. We appreciate your support. 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 284
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -91652,7 +91364,6 @@ Scott Cederburg: Awesome. Yeah, thank you, guys, so much. It was great talking t
 Cameron Passmore: Yeah, great to see you, Scott.  Thanks again.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 285
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -92267,7 +91978,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 286
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -92536,7 +92246,6 @@ Errol Morris: Thank you. It's a pleasure to meet both of you. It's nice to actua
 Ben Felix: Thanks, Errol.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 287
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio Managers at PWL Capital. 
@@ -93169,7 +92878,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 288
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -93529,7 +93237,6 @@ Scott Rick: Oh, my gosh. Thank you both so much. This was a lot of fun.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 290
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -93868,7 +93575,6 @@ Morgan Housel: Likewise. Thanks so much for having me, guys.
 Ben Felix: Thanks, Morgan.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 291
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -94335,7 +94041,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 292
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio Managers at PWL Capital.
 
@@ -94643,7 +94348,6 @@ Cameron Passmore: Well, the book is incredible. It's called The Fund: Ray Dalio
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 293
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -94925,7 +94629,6 @@ Eric Balchunas: Likewise.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 294
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -95182,7 +94885,6 @@ Cameron Passmore: Love it. Well, I'm an avid listener of your podcast. It is won
 Dan Harris: It has for me, too. Thank you very much for having me. I appreciate it.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 295
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -95819,7 +95521,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 296
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
 
@@ -96098,7 +95799,6 @@ Cameron Passmore: That's a beautiful answer. Adam, this has been an incredible h
 Adam Alter: Thanks so much for having me. Well, thank you. I appreciate it. It's been fun. 
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 297
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -96627,7 +96327,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 298
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
 
@@ -97010,7 +96709,6 @@ Randall Stutman: Oh, pleasure. Thank you for having me. Anything I can ever do f
 Ben Felix: Thanks, Randall. 
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 299
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -97563,7 +97261,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 300
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -97850,7 +97547,6 @@ Cameron Passmore: Awesome. 
 Ben Felix: Thanks, Abby.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 301
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, portfolio managers at PWL Capital.
@@ -98265,7 +97961,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 302
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -98608,7 +98303,6 @@ Mike Green: Ben, thank you very much. Cameron. It was a pleasure. I appreciate y
 Cameron Passmore: Yes. Great to meet you. Thanks, Mike.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 303
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio Managers at PWL Capital.
@@ -98996,7 +98690,6 @@ Ben Felix: Yeah. Thanks, Scott. 
 Scott Galloway: Thanks, guys.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 304
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio Managers at PWL Capital. 
@@ -99463,7 +99156,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 305
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -99812,7 +99504,6 @@ Cameron Passmore: Okay. As always, everybody, thanks for listening.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 306
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
@@ -100294,7 +99985,6 @@ Cameron Passmore: Wei, that was great. Thank you so much for joining us. We lear
 Wei Dai: Yeah. Thank you.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 307
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -100897,7 +100587,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 308
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -101178,7 +100867,6 @@ Dan Bortolotti: Thank you guys.
 Ben Felix: Thanks, Dan.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 309
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -101717,7 +101405,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 310
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
 
@@ -102067,7 +101754,6 @@ Antoinette Schoar: Thank you. Take care.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 311
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
 
@@ -102264,7 +101950,6 @@ Cameron Passmore: All right. Be good to have Mark back in a couple of weeks. Nex
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 312
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore. Portfolio Managers at PWL Capital. 
@@ -102637,7 +102322,6 @@ Cameron Passmore: Indeed. Thanks, John.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 313
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
 
@@ -102996,7 +102680,6 @@ Cameron Passmore: Okay. As always, everybody, thanks for listening. We'll see yo
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 314
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital. 
@@ -103358,7 +103041,6 @@ Valentin Haddad: Oh, thank you for having me. This was really fun.
 Ben Felix: Awesome. Thanks, Valentin.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 315
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, portfolio managers at PWL Capital.
@@ -103795,7 +103477,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 316
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
 
@@ -104086,7 +103767,6 @@ Ben Felix: All right, Andrew. This has been a fantastic conversation. We really 
 Andrew Chen: Thanks. It's a pleasure to be here. I think you guys have a great program, and I love how you get research out to the public. So happy to contribute.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 317
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. And Mark McGrath, Associate Portfolio Manager at PWL Capital. 
@@ -104629,7 +104309,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 318
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
 
@@ -104906,7 +104585,6 @@ Mark McGrath: Thank you.
 Assia Billig: Thanks. Bye.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 319
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital and Mark McGrath, Associate Portfolio Manager at PWL Capital.
@@ -105367,7 +105045,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 320
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
 
@@ -105784,7 +105461,6 @@ Cameron Passmore: Yeah. Treat to meet you. Thanks.
 Mark McGrath: Thanks.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 321
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital and Mark McGrath, Associate Portfolio Manager at PWL Capital.
@@ -106471,7 +106147,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 322
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
 
@@ -106965,7 +106640,6 @@ Ben Felix: Awesome. Thanks, Marco.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 323
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, and Dan Bortolotti, Portfolio Managers at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
 
@@ -107439,7 +107113,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 324
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
 
@@ -107755,7 +107428,6 @@ Bryan Taylor: Thank you very much.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
 
-
 ## Episode 325
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Dan Bortolotti, Portfolio Managers at PWL Capital. 
 
@@ -108010,7 +107682,6 @@ Ben Felix: All right. Well, thanks for listening everyone and we'll be back next
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 326
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix and Cameron Passmore, Portfolio Managers at PWL Capital.
@@ -108432,7 +108103,6 @@ Ben Felix: Very cool. Well, having you join us has made today a good day. So, Su
 Sunil Wahal: Thank you so much, it was fun. 
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 327
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix and Dan Bortolotti, Portfolio Managers at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. Welcome to episode 327.
@@ -108881,7 +108551,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 328
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital.
 
@@ -109238,7 +108907,6 @@ Stephen Foerster: Appreciate it. It's been my pleasure. Really enjoyed chatting 
 Ben Felix: Great. Thanks, Stephen.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 329
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, and Dan Bortolotti, Portfolio Managers at PWL Capital. And Mark McGrath, Associate Portfolio Manager at PWL Capital. 
@@ -109877,7 +109545,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 330
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me Benjamin Felix, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
 
@@ -110192,7 +109859,6 @@ Ben Felix: All right. Well, this has been great, Davidson. Thanks a lot for join
 Davidson Heath: Thank you, guys, very much. It's my pleasure.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 331
 Cameron Passmore: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. This week, we're hosted by me, Cameron Passmore, portfolio managers and Mark McGrath, associate portfolio manager at PWL Capital. 
@@ -110640,7 +110306,6 @@ Cameron Passmore: Great to see, as always, everybody. Thanks for listening. Have
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 332
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, and Cameron Passmore, Portfolio Managers at PWL Capital. 
@@ -111333,7 +110998,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 333
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
 
@@ -111751,7 +111415,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 334
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Cameron Passmore, Portfolio Manager at PWL Capital. 
 
@@ -111928,7 +111591,6 @@ Magnus Reitan: Thank you very much.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 335
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bortolotti, Portfolio Manager at PWL. Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
@@ -112358,7 +112020,6 @@ Dan Bortolotti: Thanks.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 336
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
@@ -112894,7 +112555,6 @@ Steve Utkus: Thanks for having me.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 337
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bortolotti, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
@@ -113529,7 +113189,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 338
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL capital. 
 
@@ -113868,7 +113527,6 @@ Ben Felix: Thanks, Peter.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 339
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL capital, Dan Bortolotti, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
@@ -114403,7 +114061,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 340
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
 
@@ -114845,7 +114502,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 341
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL capital, and Cameron Passmore, Portfolio Manager at PWL Capital.
 
@@ -115215,7 +114871,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 342
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
 
@@ -115552,7 +115207,6 @@ Mark McGrath: Thanks.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 343
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, and Dan Bortolotti, Portfolio Managers at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
@@ -115901,7 +115555,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 344
 Cameron Passmore: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making. This week, we're hosted by one Canadian, just me, Cameron Passmore, CEO and Portfolio Manager at PWL Capital. Yes, I am flying solo this week. It's actually my second solo, I think, in five years. 
 
@@ -116234,7 +115887,6 @@ Michael Mauboussin: Thank you, Cam. It’s my pleasure.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 345
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bortolotti, Portfolio Manager at PWL. Capital, and Mark McGrath, Associate Portfolio Manager at PWL. Capital.
@@ -116733,7 +116385,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 346
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
 
@@ -117158,7 +116809,6 @@ Hendrik Bessembinder: All right. Well, thanks, gentlemen.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 347
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bortolotti, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital.
@@ -117635,7 +117285,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 348
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital and Mark McGrath, Associate Portfolio Manager at PWL Capital.
 
@@ -117982,7 +117631,6 @@ Andrew Barclay: My pleasure. Keep up the good work. Again, thank you so much for
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 349
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bortolotti, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
@@ -118573,7 +118221,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 350
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
 
@@ -118945,7 +118592,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 351
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bortolotti, Portfolio Managers at PWL Capital.
 
@@ -119208,7 +118854,6 @@ Dan Bortolotti: Thanks. See you next time.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 352
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix and Dan Bortolotti, portfolio managers at PWL Capital.
@@ -119576,7 +119221,6 @@ Jessica Moorhouse: Thanks so much for having me. I'm a big fan of both of you, s
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 353
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, Dan Bartolotti, Portfolio Manager at PWL Capital, and Mark McGrath, Associate Portfolio Manager at PWL Capital. 
@@ -119984,7 +119628,6 @@ Dan Bortolotti: Thanks, Mark. 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 354
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -120465,7 +120108,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 355
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment officer at PWL Capital, and Dan Bortolotti, Portfolio Manager at PWL Capital. 
 
@@ -120827,7 +120469,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 356
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Cameron Passmore, CEO at PWL Capital.
 
@@ -121128,7 +120769,6 @@ Ben Felix: Thanks, Abby.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 357
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -121533,7 +121173,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 358
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital, and Dan Bortolotti, Portfolio Manager at PWL Capital.
 
@@ -121840,7 +121479,6 @@ Dan Bortolotti: Thanks.
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 359
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me; Benjamin Felix, Chief Investment Officer; Cameron Passmore, CEO; and Dan Bortolotti, Portfolio Manager at PWL Capital. 
@@ -122966,7 +122604,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 361
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from one Canadian. We are hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital. All right, this is my first time doing an intro and hosting a guest by myself. Cameron's done a couple like that, but this is my first time.
 
@@ -123247,7 +122884,6 @@ Past performance is not indicative of, or a guarantee of future results. All sta
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 362
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital and Dan Bortolotti, Portfolio Manager at PWL Capital. Welcome to episode 362, our seventh AMA episode.
@@ -123858,7 +123494,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 363
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer at PWL Capital and Cameron Passmore, CEO at PWL Capital.
 
@@ -124307,7 +123942,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 364
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, CEO at PWL Capital.
@@ -124819,7 +124453,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 365
 Cameron Passmore: Welcome to episode 365. Well done, Ben. This week, it's a special episode actually. We welcome back for a third time to celebrate his retirement. It was just announced last week in The Globe and Mail, Rob Carrick, who has been an amazing voice for financial planning and the consumer in Canada and is such a connected journalist to the industry. It was just super to have him back to look back on his career and his top eight pieces of advice that were featured in the Globe article last week. 
@@ -126085,7 +125718,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 367
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, CIO, Cameron Passmore, CEO, and today, Louai Bibi, Financial Planner at PWL Capital.
 
@@ -126721,7 +126353,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 368
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, CIO at PWL Capital and Dan Bortolotti, Portfolio Manager at PWL Capital. Welcome to episode 368.
 
@@ -127316,7 +126947,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 369
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Dan Bortolotti, Portfolio Manager at PWL Capital.
@@ -127990,7 +127620,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 370
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager and Cameron Passmore, CEO, all of PWL Capital.
@@ -129077,7 +128706,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 371
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -129681,7 +129309,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 372
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -130272,7 +129899,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 373
 EPISODE 373
@@ -130943,7 +130569,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 374
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -131516,7 +131141,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 375
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Dan Bortolotti, Portfolio Manager at PWL Capital. Welcome to episode 375.
@@ -132131,7 +131755,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 376
 EPISODE 376
 
@@ -132456,7 +132079,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 377
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer, and Ben Wilson, Portfolio Manager and Head of M&A at PWL Capital. Welcome to episode 377. Ben Wilson, welcome back to the podcast, and welcome to your first episode as a co-host.
@@ -132817,7 +132439,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 378
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital. 
 
@@ -133128,7 +132749,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 379
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Dan Bortolotti, Portfolio Manager at PWL Capital.
@@ -133813,7 +133433,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 380
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -134443,7 +134062,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 381
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager, and Ben Wilson, Head of M&A and Portfolio Manager at PWL Capital.
 
@@ -135055,7 +134673,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 382
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, CIO, Cameron Passmore, CEO, and Dan Bortolotti, Portfolio Manager at PWL Capital.
 
@@ -135640,7 +135257,6 @@ Disclosure:
 Portfolio management and brokerage services in Canada are offered exclusively by PWL Capital, Inc. (“PWL Capital”) which is regulated by the Canadian Investment Regulatory Organization (CIRO) and is a member of the Canadian Investor Protection Fund (CIPF).  Investment advisory services in the United States of America are offered exclusively by OneDigital Investment Advisors LLC (“OneDigital”). OneDigital and PWL Capital are affiliated entities, however, each company has financial responsibility for only its own products and services.  Nothing herein constitutes an offer or solicitation to buy or sell any security. This communication is distributed for informational purposes only; the information contained herein has been derived from sources believed to be accurate, but no guarantee as to its accuracy or completeness can be made. Furthermore, nothing herein should be construed as investment, tax or legal advice and/or used to make any investment decisions. Different types of investments and investment strategies have varying degrees of risk and are not suitable for all investors. You should consult with a professional adviser to see how the information contained herein may apply to your individual circumstances. All market indices discussed are unmanaged, do not incur management fees, and cannot be invested in directly. All investing involves risk of loss and nothing herein should be construed as a guarantee of any specific outcome or profit. Past performance is not indicative of or a guarantee of future results. All statements and opinions presented herein are those of the individual hosts and/or guests, are current only as of this communication’s original publication date and are subject to change without notice. Neither OneDigital nor PWL Capital has any obligation to provide revised statements and/or opinions in the event of changed circumstances.
 
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. Be sure to add the episode number for reference.
-
 
 ## Episode 383
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Cameron Passmore, Chief Executive Officer, and Ben Wilson, Head of M&A at PWL Capital.
@@ -136367,7 +135983,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 384
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital. 
 
@@ -137001,7 +136616,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 385
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Ben Wilson, Head of M&A at PWL Capital.
 
@@ -137408,7 +137022,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 386
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -138058,7 +137671,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 387
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bertolotti, Portfolio Manager, and Ben Wilson, Head of M&A at PWL Capital.
@@ -138780,7 +138392,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 388
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from four Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Ben Wilson, Head of M&A, Cameron Passmore, Chief Executive Officer and Dan Bortolotti, Portfolio Manager at PWL Capital.
@@ -139566,7 +139177,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 389
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -140573,7 +140183,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 391
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer and Braden Warwick, Financial Planning Product Architect at PWL Capital. Welcome to episode 391, kicking off early on in 2026 here. 
 
@@ -141158,7 +140767,6 @@ Portfolio management and brokerage services in Canada are offered exclusively by
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 392
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager, and Ben Wilson, Head of M&A and Portfolio Manager at PWL Capital.
@@ -141759,7 +141367,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 393
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Braden Warwick, Financial Planning Product Architect at PWL Capital. Welcome to episode 393 and Braden, welcome back onto the podcast.
 
@@ -142316,7 +141923,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 394
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager, and Ben Wilson, Head of M&A at PWL Capital.
@@ -142938,7 +142544,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 395
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer, and Braden Warwick Financial Planning Product Architect at PWL Capital. Welcome to episode 395. 
@@ -143635,7 +143240,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 396
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Dan Bortolotti, Portfolio Manager at PWL Capital.
 
@@ -144152,7 +143756,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference
-
 
 ## Episode 397
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -144783,7 +144386,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 398
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -145381,7 +144983,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 399
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -145978,7 +145579,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 400
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -146783,7 +146383,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 401
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -147381,7 +146980,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference
 
-
 ## Episode 402
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.Ben Wilson: Good to be back. This is episode 402, where we're talking about the private markets or the problems with private markets, which is a pretty interesting topic and has been a hot topic in news headlines recently.
 
@@ -147869,7 +147467,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 403
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -148284,7 +147881,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 404
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -148773,7 +148369,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 405
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -149250,7 +148845,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 406
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -149834,7 +149428,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 407
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Braden Warwick, Financial Planning Product Architect at PWL Capital. Welcome to episode 407.
@@ -150631,7 +150224,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 408
 Ben Felix: This is the Rational Reminder podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Braden Warwick, Financial Planning Product Architect at PWL Capital. Welcome to episode 408.
 
@@ -151124,7 +150716,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 409
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Dan Borotolotti, Portfolio Manager at PWL Capital.
@@ -151747,7 +151338,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 410
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Dan Bortolotti, Portfolio Manager at PWL Capital.
 
@@ -152216,7 +151806,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 412
 Ben Felix:  This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Dan Bortolotti, Portfolio Manager at PWL Capital.
@@ -152873,7 +152462,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 413
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -153398,7 +152986,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 414
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Portfolio Manager, and Ben Wilson, Head of M&A at PWL Capital.
@@ -154103,7 +153690,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 415
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -154372,7 +153958,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 416
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager, and Ben Wilson, Head of M&A at PWL Capital.
@@ -154808,7 +154393,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 417
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -155292,7 +154876,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 418
 Benjamin Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager, and Ben Wilson, Head of M&A at PWL Capital.
@@ -155893,7 +155476,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 419
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -156464,7 +156046,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 420
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from three Canadians. We are hosted by me, Benjamin Felix, Chief Investment Officer, Ben Wilson, the head of M&A, and today, Louai Bibi, Wealth Advisor and Associate Portfolio Manager at PWL Capital.
@@ -157218,7 +156799,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 421
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief Executive Officer at PWL Capital.
@@ -158003,7 +157583,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 422
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Cameron Passmore, Chief Executive Officer at PWL Capital.
 
@@ -158504,7 +158083,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 423
 Ben Felix: This is the Rational Reminder Podcast, a weekly reality check on sensible investing and financial decision-making from two Canadians. We're hosted by me, Benjamin Felix, Chief Investment Officer and Dan Bortolotti, Portfolio Manager at PWL Capital.
@@ -159126,7 +158704,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 424
 Ben Felix: Welcome to episode 424 of the Rational Reminder Podcast. I'm Ben Felix, Chief Investment Officer at PWL Capital.
@@ -159796,7 +159373,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 425
 Ben Felix: Welcome to episode 425 of the Rational Reminder Podcast. Today, we're joined by Philippa Hann and Dr. Moira Somers, who are co-authors of a new book, The Fault Lines of Finance: Understanding and Preventing Financial Misconduct.
@@ -160481,7 +160057,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 426
 Ben Felix: Welcome to episode 426 of the Rational Reminder Podcast. We are hosted by me, Benjamin Felix, Dan Bortolotti, and Ben Wilson, all of PWL Capital.
 
@@ -161078,7 +160653,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 427
 Ben Felix: Welcome to episode 427 of the Rational Reminder Podcast. I'm Ben Felix, Chief Investment Officer at PWL Capital.
@@ -161695,7 +161269,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 428
 Ben Felix: Welcome to episode 428 of the Rational Reminder Podcast. I'm Ben Felix, Chief Investment Officer at PWL Capital.
 
@@ -162295,7 +161868,6 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
-
 ## Episode 429
 Ben Felix: Welcome to episode 429 of the Rational Reminder Podcast. I'm Ben Felix, Chief Investment Officer at PWL Capital.
 
@@ -162876,7 +162448,6 @@ All statements and opinions presented herein are those of the individual hosts a
 Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
 
 Be sure to add the episode number for reference.
-
 
 ## Episode 430
 Ben Felix: Welcome to episode 430 of the Rational Reminder Podcast. We're hosted by me, Benjamin Felix, Chief Investment Officer, Dan Bortolotti, Portfolio Manager, and today joined by Kelly Thomas, Associate Wealth Advisor at PWL Capital. Good to have you, Kelly.
@@ -163477,4 +163048,558 @@ Is there an error in the transcript? Let us know! Email us at info@rationalremin
 
 Be sure to add the episode number for reference.
 
+## Episode 431
+Ben Felix: Welcome to episode 431 of the Rational Reminder Podcast. I'm Ben Felix, Chief Investment Officer at PWL Capital.
+
+Cameron Passmore: And I'm Cameron Passmore, Chief Executive Officer at PWL Capital.
+
+Ben Felix: Today, we are joined by Alex Edmans, Professor of Finance at London Business School, who has previously appeared on this podcast in episodes 192 and 361.
+
+Cameron Passmore: And in addition to being such a great guest, Alex is also the author of the books, Grow the Pie, May Contain Lies, and his new book, The Madness of Markets, came out last month.
+
+Ben Felix: And in this conversation, we talk about why a football loss can sink a nation's stock market, why identical assets can trade at different prices, and the habits that help investors avoid the common mistakes that many of us make. Stick around to the end to hear our thoughts on the conversation. But for now, let's go ahead to our talk with Alex. Alex Edmans, welcome back to the Rational Reminder Podcast.
+
+Alex Edmans: Thanks so much, Ben. It's great to be back.
+
+Ben Felix: Glad to have you back. You've got a new book out. You write a lot of books. I got to say, that's quite impressive.
+
+Alex Edmans: Well, there's lots of exciting research, not just by me, but by lots of other people. I love to make this accessible to a general audience. So it's a huge pleasure and a lot of fun to write them.
+
+Cameron Passmore: Love it.
+
+Ben Felix: Yeah, and you do. You make the research and the information very accessible, which is really cool to see. Alex, how can a football game's outcome affect a nation's stock market?
+
+Alex Edmans: This is a great question because it should not. So what you learn in any finance class is that the market is affected by fundamentals. So what should affect a stock price is dividends and profits and sales growth.
+
+But what research actually finds is that sentiment and emotions make a difference. And so this is why I chose to look at the effect of football or soccer results is that this is something which affects investor mood. And so what my co-authors and I found is if you study over 1,000 soccer games after a country is knocked out of the World Cup, the market falls by about a half a percent the next day, which is £15 billion when applied to the UK stock market.
+
+And this is because of the effect that it has on your emotions. Now, some listeners might think, yeah, my mood is affected by my emotions, but I'm a professional. So when I go and trade, I will put my game face on.
+
+I will block out my emotions and I will get back to rationality. But what this research suggests is that's not possible. You are human.
+
+And if you're a human, then you are susceptible to your emotions. And something like this does affect how you trade or maybe how you assess a company.
+
+Cameron Passmore: Can you talk about some other unlikely things that seem to move the market?
+
+Alex Edmans: Absolutely. So weather also affects the market. And again, you might think, OK, weather will affect me if I'm on holiday or if I'm a farmer when I'm working outside.
+
+But actually, this was a study which was done not only in the US, but around the world, is that if it was sunnier than expected for that time of the year, then the market was more positive. And when it was cloudier, the market went down. So a lot of these external factors, why I call them external, is there should not really be any effect on profits and dividends unless weather becomes extreme, such as a fluke or really sunny conditions.
+
+This shouldn't have any effect on productivity, but it does have an effect on your emotions.
+
+Ben Felix: I've got a statistical question. When this stuff is studied, how do we know that it's an actual effect versus just a statistical anomaly?
+
+Alex Edmans: This is really important. You might worry that this is spurious correlation or even worse, data mining. So what is spurious correlation?
+
+It's something which just happens to be a chance pattern in the data. Data mining is if researchers go and fish for spurious correlations because you want to find something significant because then you can publish a paper around it. And you might think, well, maybe the weather people looked at loads of measures of weather.
+
+They could look at temperature and rainfall and snowfall and cloud cover. But what was interesting is that the people who wrote this paper, they started with an existing paper which looked at just the US and they expanded it to 20, 30 countries around the world. So they made sure that it held out of sample.
+
+And similarly for my football paper, we didn't just look at football, we looked at other international sports such as cricket and rugby and basketball. So the robustness of the finding is really important. And this contrasts with some findings in social science where they were not found to be robust.
+
+For example, I think the second most viewed TED talk of all time by Amy Cuddy is on the effect of power poses. If you stand with your arms aloft in a victory salute, then this apparently improves your public speaking and interview performance. But that was not replicated in other settings.
+
+So I think replication is important. Another thing is just basic common sense. So does it make sense for football to affect the stock market?
+
+And this is why I wrote the paper because I saw the weather papers. I thought, yes, weather does affect your emotions. But an issue with weather is it's not correlated across a country.
+
+So maybe it's sunny in Boston and it's cloudy in New York and it's not clear who's making the trades. But when England lose, the whole of England is upset. So one thing which matters is also just economic logic.
+
+A lot of the spurious correlations that you see such as which team wins the Super Bowl affects the stock market. That is not something where there is a logical argument.
+
+Ben Felix: Interesting. I remember we had Professor Robert Novy-Marx on years ago now. He has that paper on global warming sunspots in the stars with respect to the stock market performance. And he's kind of cautioning about over-interpreting, I guess, statistics.
+
+Alex Edmans: That was a great paper where he deliberately satirized, and I don't mean satirizing in a negative way. I think it was a very useful contribution by looking at things that should not matter for the stock market and it should not even matter for emotions. And he showed that it was correlated.
+
+And so this is why you have to be very careful about data mining. And that was the motivation for the football paper. There were psychological studies that showed that actually football causes deaths.
+
+People have heart attacks when their team loses. In Canada, suicides go up when the Montreal Canadiens are eliminated from the Stanley Cup. So given that prior evidence had found that sports results do affect life and death, I thought it was plausible to look at the effect on the stock market.
+
+Ben Felix: Yeah, that's super interesting. Can you talk about what the wisdom of crowds logic suggests about market prices?
+
+Alex Edmans: The main book that mine goes against is a famous one called The Wisdom of Crowds by James Surowiecki. What he argued is that crowds actually do get to the right price. Why?
+
+Because while people might make mistakes, it argued that these mistakes might go in opposite directions. So let's say I was an Elon Musk fanboy. I'm going to be buying too much Tesla and maybe you don't like his politics and so you're going to be selling too much.
+
+We'll cancel each other out and Tesla will be fairly priced. However, when you look at the stock market, often people will be reacting in the same direction. Why?
+
+Because human emotion goes in the same way. So lots of people might get really excited right now in artificial intelligence, fear of missing out. Maybe when crypto came on the scene, people got overly excited about that.
+
+Before that, we have the tech bubble. And so what we have is herd behavior and that I think leads to the madness of crowds rather than the wisdom of crowds. When you have something where there is some psychological sentiment which might be driving it, then often the crowd will all react in one way rather than canceling each other out.
+
+Ben Felix: So interesting. So we've done experiments with groups of people in the past to test the wisdom of crowds idea. We've given them a big jar of jelly beans in a room and we have, I don't know, maybe 50 to 100 people.
+
+Everyone casts a guess at how many jelly beans are in the jar and it's been remarkably consistent how close the average guess is. Why do you think wisdom of crowds works with jelly beans but not in financial markets?
+
+Alex Edmans: Really good point. It's because nobody really gets emotionally attached to the number of jelly beans in a jar. So some people will guess too high and some people will guess too low and this will even out.
+
+But when we think about the stock market, these are things which are affected by emotion. So lots of people will get excited by AI. There will be fear of missing out in cryptocurrency and non-fungible tokens.
+
+And so when you have something where there will be sentiment, often that sentiment will be acting in the same way. Also, when you guess about jelly beans, you will often guess in secret. Whereas with trading, you know what other people are doing.
+
+Maybe your friends are telling you they've got into crypto. Maybe you log on to Reddit, the WallStreetBets sub-forum. You see lots of other people getting into crypto and therefore you think if I'm missing out, then I'm going to be looking foolish for not being into this new asset.
+
+And so I think that is really key. There's experiments by Solomon Asch on conformity where he takes a standard line and gives you three lines and asks which of those three lines is similar in length to this standard line. And what he did is he put some fake people in the audience to clearly give the wrong answer and people would follow that answer even though it should have been clear to their own eyes what the right answer is.
+
+And so this is why listening to other people, conformity, can be very powerful. And this is what you might get on a Reddit sub-forum.
+
+Ben Felix: Interesting. We have made the guesses private when we've done that experiment.
+
+Cameron Passmore: So what types of errors do investors make?
+
+Alex Edmans: Unfortunately, too many. But let me just go with a couple. So one of them will be overreaction.
+
+That is the example that I gave with football. You react to something which should not really have any effect on stock prices. Now, not only can you react to something which is irrelevant, it could be that there is something which is relevant but you still respond to it too much.
+
+For example, in the pandemic, Zoom went up by 700% and clearly the pandemic was good for Zoom. But to go up 700%, well, people did not realise that maybe Microsoft Teams and Google Meet would catch up, maybe the world would open up in a couple of years' time and people would realize that they like human interaction and they don't want to have any more online conferences. But because people are just sitting in their lockdowned offices, they might not have been able to see the world going back to normal and so they overreacted in those cases.
+
+Sometimes what you might have is overreaction to something which is pure spin and no substance. So back in April, Allbirds, the sneaker company, rebranded themselves as NewBird AI by claiming that they're going to pivot into AI. And this is crazy because they have no expertise in moving into AI, yet the stock price went up by 582% because anything which has an AI label attached to it was heavily lauded.
+
+And so here was again another example where people react to something which is flashy and attention-grabbing, not really seeing does the company have the ability to actually execute this new strategy. And why I think overreaction is so pervasive and why I think this is the headline example I'm going to give, even though there's lots of errors that investors make, is we see this in so many other areas of life. So if you go to any football stadium at the weekend, if the manager's lost three games in a row, people will call for him to be fired.
+
+Even if he's had four great seasons. Maybe at work, if you get missed off an email or excluded from a meeting, you think let me try and quit this company. Or if you go on a date, your date doesn't show up, you might think dating is pointless.
+
+So in all of these situations, we might react to small bits of information and that's why it's very difficult to shake when you get to the stock market.
+
+Ben Felix: You give examples of sort of overreaction to positive information where people are getting really excited. What about the other direction?
+
+Alex Edmans: So people could overreact to negative information as well. So you have overreaction both the upside and the downside, just like I gave the example of not being included on an email or being excluded from a meeting. In both directions, we will have overreaction.
+
+And so this is why then this gives rise to a contrarian investment strategy, is that if we were to sort all stocks by how they did over the last three years, look at the ones that did really well and call them winners, look at the ones that did really badly and call them losers. If we buy the past losers and sell the past winners and hold them for another three years, then what we see is that there is a reversal. Past losers become winners and past winners become losers. So we see the overreaction in both directions.
+
+Ben Felix: What about underreaction? Do investors ever underreact?
+
+Alex Edmans: They do. So they underreact to different types of information. So we see overreaction to some salient, flashy news such as an AI rebrand or the fact that we're in a lockdown.
+
+Underreaction might be to some quieter things that really affect long-term value, but which the market might not realise. So one of my own studies looks at corporate culture. Many people think it's quite logical that corporate culture matters because human capital is your most important asset.
+
+However, there is no big announcement saying, oh my employees are really engaged, you just can't have a press release like this. So what I looked at was the list of the 100 best companies to work for in America. Those are companies that go above and beyond in how they treat their employees.
+
+And over a 28-year period, these companies beat their peers by 2.3% to 3.8% per year. That's 89% to 184% compounded. Now this is public information, so it should be that as soon as you get added to the list, the stock price should jump. But the market didn't. It ignored information hiding in plain sight. Why?
+
+Number one is that there's not a big, huge public announcement like there is with earnings. And number two, it may be that some people believe that if a company is employee-friendly, it is woke or tree hugger, and it's not focused on the bottom line which is generating profits and dividends. The third reason is even if you knew that employees are happy and you know that that is a good thing, you might not know what to do with that information.
+
+So with quantitative information, you know what to do about it. If indeed earnings are 5% higher than previously, maybe you can increase every cell in your spreadsheet by 5%. But if you know that your employees are happy, it's hard to know how to change cell C23 in your spreadsheet. So maybe people might just actually not do anything about it.
+
+Ben Felix: They overreact sometimes, they underreact sometimes. Do investors ever just react incorrectly to information?
+
+Alex Edmans: Yeah, so also investors will misreact. So they will make mistakes which have no direction attached to them. So one example is they will anchor too much on the purchase price even though that's not relevant.
+
+So what determines how you should trade now is the current price of the stock versus what you think the current value is, but instead people think about what they bought it at and that will be an anchor. So it may be that if you bought the stock at 100 and it's at 120 now, then you're on profit. People want to take profit so they're more likely to sell.
+
+In contrast, if they bought at 100 and it went down to 80, then they're sitting on a loss and they don't want to sell because it's really difficult to take a loss. And so what you find is this problem where people are willing to take right to cash in their winners but hold on to and ride their losers. Even though you should actually do the opposite because in the short term what you typically see is underreaction and so a stock which has done well recently continues to do well.
+
+A stock that has done badly recently continues to do badly. But if we anchor too much on the purchase price and focus too much on how has it done since we bought it, then we're actually anchoring on something which is not relevant.
+
+Cameron Passmore: What drives investors' swings from exuberance to panic?
+
+Alex Edmans: So again, this will be overreaction. So it will be that if you have a lot of, say, excitement about tech and then you see, oh, well actually we believe that tech is problematic now or there could be some issue with people overspending, then it maybe will be that people overreact. So just as we discussed overreaction and many other areas, overreaction will cause people to latch on to small bits of information and make much more of this than they actually should.
+
+Ben Felix: How does value investing exploit the same overreaction?
+
+Alex Edmans: This is interesting because this is another way into exploiting overreaction. So what I discussed earlier is looking at the past three year stock price performance, buying the losers and selling the winners. But the other thing that you can do is you can look at a valuation multiple and that is what value investing is about.
+
+So what is a valuation multiple? Let's think about how you value a house. You might compare the price of a house to the size.
+
+So you look at the price per square meter and you might compare that to other houses in the same neighbourhood and if one house is a much higher price per square meter than the others, then it may well be overpriced unless it happens to be in a much better condition. And so this is what you do with stocks. So rather than price per square meter, what you might look at is the price to earnings ratio.
+
+So this is the price of a stock compared to the earnings per share. That is the fundamental value of a company. And if you have firms in the same industry or at the same stage of maturity but one has a much higher P ratio than the other, then you may well think it's overpriced.
+
+Let's give an example. In 2000, Cisco had a price earnings multiple of 190 and this was three times what Microsoft was and four times what Intel was. So yes, that was a great year for tech, but even so, it shouldn't be that Cisco is way higher than its peers.
+
+And so the idea of value investing is to look at the price earnings ratio or other types of valuation multiples, buy what is cheap and sell what is expensive and hold this for another few years, and that has been systematically shown to work. Now, in the last couple of years, actually value investing has been problematic. Actually, growth has outperformed value.
+
+For example, the Magnificent Seven has soared. However, value has been resurrected because if you look at the value of a company as not just its earnings but also its intangible assets, company with strong brands or strong corporate culture, then actually some of the Magnificent Seven would be seen as value companies. Why?
+
+Because they have such great brands and such great products. And if you were to redefine value based on some of those intangibles, actually the value strategy would work even in recent years when people have been proclaiming that value is dead.
+
+Ben Felix: On that, we talked years ago, the first time you were on this podcast, about a value fund that I think was doing some of those things. Has it continued to perform well?
+
+Alex Edmans: So this may be the Parnassus Endeavor Fund. So that was initially the Parnassus Workplace Fund, which was based on corporate cultures. And I think when we discussed this many years ago, this was the best performing fund in the past one, three, five and 10 years.
+
+This was the biggest position in my personal portfolio when I was in the US. Now, for some reason, it changed its strategy. So rather than being just a workplace fund, it is now the Parnassus, I think, Core Equity Fund.
+
+So it's now just a general core equity company. And I've actually sold out of it. I don't hold it anymore because I wondered why it moved away from such a strong strategy.
+
+I have not seen much media about it. So I don't think it's retained its number one position as it had in the past. And I think in general, value investing has not been successful in recent years, in part because some people have been using the old valuation multiples, where you look at price just compared to earnings or tangible assets, not realizing that intangibles is what really is driving performance.
+
+Ben Felix: Yeah, the US has struggled for sure. In Canada, value's been crazy in a good way for whatever reason. I don't know.
+
+Maybe there's fewer intangible assets in Canada. I don't know. But it's been a very different experience for value investors over here.
+
+Alex Edmans: I wonder if it's because you have the same in terms of big tech. So like in the UK, I don't think you've had values dying as much because what has carried the US is just big tech, which means that growth has been heavily outperforming. So it may well be that people who claim that value is dead, they have a very US lens on them.
+
+And unfortunately, what you see is that many people make statements based on US data and claim that this applies to everywhere around the world. But actually, that's reassuring to know that in Canada, value is still going strong.
+
+Cameron Passmore: Why do reversal and value work better together?
+
+Alex Edmans: Because what you're using is two different types of indicators. So what reversal looks at is it looks at whether a stock has good value by seeing what it's done over the past three years. And in general, if a stock has done badly over the past three years, then it might seem to be too cheap.
+
+But just looking at that one thing is a bit narrow because it could be the stock has done badly over the last three years just because it's been underperforming. And so that's why to use another benchmark such as intangible assets or earnings is useful to look at has the fall been justified or is this an over-exaggeration?
+
+Ben Felix: The answer to this question is probably the stuff we talked about earlier, but I want to ask it anyway. Why don't strategies like this that we're talking about value and reversal and some other ones we'll talk about later, why don't they stop working once they're published?
+
+Alex Edmans: This is really important because what I seem to have described is such an easy strategy for investors. You just bypass losers or you buy stocks with low price earnings ratios and you magically sit back and then wait for the money to roll in. So if this was so easy, why don't smart investors do it?
+
+And the reason is that there can be problems in the real world. So let's illustrate an example. So in late 1999, many people thought there was a tech bubble based on the multiples like 190 for Cisco, this seems crazy.
+
+And so Julian Robertson was a very smart investor. He ran Tiger Asset Management and he thought, well, let's short this tech bubble. And so he did.
+
+But then whatever craziness led to it being overvalued to begin with, that craziness got even worse. And so the bubble kept inflating. And so his fund was bleeding losses.
+
+And then his rivals were doing well because his rival was still heavily in tech. Now, he would have tried to plead to his investors and said, stick with me. I will come out good in the long term.
+
+But his investors just didn't believe him because they thought, well, maybe this guy's lost it. He's just losing when everybody else is gaining. So they withdrew money from him and liquidated him in March 2000.
+
+And then almost right on cue, the tech bubble collapsed. But Robertson was not around to enjoy the victory because his fund had already been liquidated. And so this is one of the problems, is that if you're a professional money manager with flighty capital, which could be withdrawn at any point in time, then even if a trade is going to do well in the long term, maybe your horizon might be short term.
+
+And so you might not be able to exploit this. But what is interesting is if you're a household investor who's investing your own family's money for the next 30 years until you retire, you might actually have an edge over the professionals. So often people think, well, investing is a rigged game.
+
+Me as an individual investor, I don't have inside information that professionals do. But sometimes you don't need unique information. All you need is patience and a longer horizon.
+
+You might be somebody who could exploit reversal and value investing, even though a professional might not be able to.
+
+Ben Felix: Is it a limits of arbitrage argument?
+
+Alex Edmans: Exactly. Yes. So what is arbitrage? That's the idea that if something is mispriced, there should be a clear trading strategy. But that arbitrage will only work in the long term. In the short term, your ability to profit on it may be limited.
+
+Why? Because whatever mispricing you see could get even worse in the short term before it gets better.
+
+Ben Felix: Professional investors are constrained to basically benchmark relative to performance, but individuals who can stick with it, which is, I mean, that's a whole other question. They may be in a position to benefit from what the larger institutional investors cannot do.
+
+Alex Edmans: Yeah. And this is something that I actually did in early 2009. So I sent an email to my students, which probably today would have got me fired.
+
+But what I sent back then was some investment advice. So I said, look, in class, we've learned about the limits to arbitrage. Now we've seen a terrible 2008 where markets have just gone through the floor.
+
+I am increasing my equity rating by 20 percentage points. Why? Because my investment horizon is 40 years.
+
+Now, I have no idea that we've hit bottom. It could get even worse before it gets better, but I don't mind this. And I'm going to be applying the principles of my class and deciding to go into equities.
+
+And it wasn't just me. There was Clare College, Cambridge University, which invested in what they called the 2048 Fund. They were investing on a 40-year horizon.
+
+They put £15 million into equity markets because they knew that even if bottom hadn't been reached, stocks were still cheap. And so now was the time to go in.
+
+Ben Felix: What do you think about, there's a recent paper, I don't know if you've seen it yet, from Dmitry Muravyev on post-publication. He basically replicates a bunch of papers and finds that premiums, even if they replicate, premiums reduce out of sample. So if we have the limits of arbitrage going on, why do you think out-of-sample performance of published premiums still declines?
+
+Alex Edmans: I'm not familiar with this paper, but this seems consistent with a paper by McLean and Pontiff, which won the Journal of Finance Best Paper Award in 2016. And so what they found is that exactly as you're saying, after a paper is published, the returns go down, but they only go down by a third. So if markets were efficient, they should completely disappear because people will see this free money on the table.
+
+I do think this is where, because limits to arbitrage are important, is that people are just scared about, let's say right now, exiting from tech and AI, because if they end up being right but early, then they end up being wrong. And also there's a second behavioral reason, is what do you want to invest in if you are a fund manager? Do you want to invest in genomics and artificial intelligence and green hydrogen?
+
+That is exciting. Or do you want to invest in alkyd resins and surfactants? So when I was an investment banker, I was put into the chemicals department.
+
+I remember my training where we were given the assignments and then my colleagues were just all making fun of me because they would just put on my desk before I started, like Financial Times articles about the chemicals industry. It was just boring. So you were learning about boring stuff and where everybody wanted to be in tech and telecoms back then.
+
+And this is your career. So do you want your career to be just looking at resins or to be on the next frontier, be this genomics or gene editing? I do think these behavioral psychological factors matter because for you to really believe in reversal, you're going to have to be investing in what seems to be yesterday's stocks and yesterday's industries.
+
+Cameron Passmore: Why do markets react to old news?
+
+Alex Edmans: This is important. And this is a phenomenon known as the illusory truth effect, where if you hear something enough times, you start to believe it, even if you've heard it before. So there's many urban myths such as you lose 90% of your temperature through your head.
+
+We only use 10% of our brains. But if we hear this repeated enough times, we start to believe it. And this is also the same with reaction to information.
+
+So there were cases in which the market responded to news that it already knew before, but just because repetition makes it salient. Maybe the most stark example of this is a company called EntreMed, which made a drug called angiostatin. You might think, who and what?
+
+So let me explain. So angiostatin was a drug which was found to reduce tumors in mice. People thought, well that could then be a cure for cancer if it works in humans.
+
+And so there was a New York Times article in May 1998 which announced this, and it sent the stock price of EntreMed up seven times. Now you might think, well this is not an overreaction. That is actually fair, because if the drug successfully works in humans, then this will be a game changer.
+
+But what was interesting was that that story had been reported in the same newspapers six months ago, the very same New York Times. But just because back then it was on page, I think, 23, and this time it was on the front page, it became more salient and people just noticed it. So whenever something is more prominent, then even if we already know it, then we're more likely to be latching onto this.
+
+And this is the whole point of advertising. So sometimes just to see the name of a company blazoned on a football shirt or on the side of a billboard, even if it doesn't tell you anything, we know the name of the company previously, repetition does mean it's going to be more sticky and might mean we react to it, even though there's no new information content, because we already knew the company existed.
+
+Ben Felix: Is salience it, or are there other reasons that markets are slow to react to news?
+
+Alex Edmans: In addition to salience, it could be confirmation bias, which I think is the last conversation we had a couple of years ago about my prior book. So what is confirmation bias? We have a view of the world, and even if we see the news, because it's salient and it's front page news, if that view contradicts our existing perspectives, then we might ignore it.
+
+So let's give an example. So when Amazon first released, I think it was S3 and EC2 in 2006, which were the precursors to Amazon Web Services, the market just did not care. Why? The market viewed Amazon as an online seller of books and CDs. They had no idea what cloud computing was or that Amazon would be successful in it.
+
+And so it wasn't until nine years later in 2015 that these line items got separately reported in Amazon's accounts that the market started pricing this in. But back then, people just ignored it because they thought, well, this is not something which Amazon will be able to do. So if it contradicts your view of a company, it may well be that there's not much reaction to this.
+
+And similarly, on the flip side, if there is bad news about a legendary company, people might not be willing to listen to this. In a similar way to, say, Silicon Valley Bank, when they saw some models suggesting that their company was going to go under, they ignored it because they thought, oh, we've been successful for many decades. We're not going to be affected by a small rise in treasury yields.
+
+Ben Felix: Just to come back to what we were talking about a minute ago with the boring companies performing well, Hank Bessembinder had a paper that we talked to him about a while ago. I just pulled it up. Some of the best performing stocks in the US market, Altria, Philip Morris, like tobacco company, Vulcan Materials, Kansas City Southern Railway, General Dynamics Corp, and Boeing, not the most exciting companies.
+
+Alex Edmans: That's really important. And this is actually linked to a very important paper by Hank, which I also cover. So his paper was whether stocks beat treasury bills.
+
+And you might think, well, that's a bizarre question. Don't we know finance 101 that stocks do better over any horizon? But what he looked at was rather than the aggregate stock market, is he looked at individual stocks.
+
+And what he found was that fewer than three stocks in seven beat treasuries. So let me repeat this again. The median stock does worse than treasuries.
+
+And if you rounded the return of a stock to the nearest 5%, the most frequent return is minus 100. It's basically going bankrupt. That is the most frequent outcome for a stock if you round it to the nearest 5%.
+
+So how, therefore, can it be that the market as a whole outperforms when individual stocks are more likely to underperform? It is because of skewness. It's that the stocks that outperform will do really, really well.
+
+Magnificent Seven being an example. So in 2023, the other 493 companies in the S&P 500 went up by 12.5%. But the Mag Seven went up by over 100%. So when you added them together, you got to 26%.
+
+So by not being in the Mag Seven, your returns would have been half as much. And so this is linked to the point that you just made, is that you don't know what the really good performance will be in any given year. So in some years, it's the Mag Seven.
+
+But in other years, it will be Altria. And if you're just out of particular stocks, sometimes the really boring companies, you might be really underperforming the market.
+
+Ben Felix: One of the other effects or anomalies, I guess, in the market is momentum. Can you talk about how momentum at the individual stock level compares to momentum at the sector or market level?
+
+Alex Edmans: Absolutely. So what is momentum? This is linked to the idea of underreaction that we discussed earlier.
+
+So in the long term, the market tends to overreact, which is why we have the reversal strategy. But in the short term, the market tends to underreact. Why?
+
+A company might have some good news, but either it's not salient, so there's underreaction, or it is salient, but if it goes against people's beliefs, like EC2 and S3 for Amazon Web Services, then people will just not fully cotton onto it. And so what this means is that if we were to sort stocks on the basis of the past six-month performance, not the past three years, you now actually want to buy the winners and sell the losers, because short-term winners keep rising and short-term losers continue to sink. And so what this means is that the individual stock level, you want to buy recent winners.
+
+Now, where does momentum also exist? It's at the sector level. So if you just do momentum on a sector level, just buy the industries that did well over the past six months and sell the industries that did poorly, you would get most of the momentum profits at the individual company level.
+
+And so that is quite powerful, because what that suggests is that you don't need to analyze each individual stock, you can just play this at the level of industries. And as you're suggesting in your question, you could play this at the country level. So to buy countries that have done well recently and sell countries that have done poorly recently, that simple strategy has been found to earn returns over a long time horizon.
+
+And so the fact that we see this at the stock level, at the country level, and at the sector level, suggests there is some common psychological factors behind it, which may well be salience or inattention, and also stubborn, strong beliefs. So maybe when India started to do well, many people might think, oh no, India is not a place to put your money. You want to put it in the US where there's all of this great tech.
+
+And so if people have this view, then they might not be responding fully to information that the Indian stock market is now being reformed, and therefore they may be missing the future profits on this.
+
+Cameron Passmore: So Alex, where is the momentum effect strongest?
+
+Alex Edmans: So it will be strongest in cases in which you think there's most likely to be underreaction. And so where is that? So that will be typically small stocks, and stocks with little analyst coverage.
+
+So why is this? Well, if a stock is small, then you might not be seeing the news. So every second week, I think it is in November, there is a week in which all the big tech companies are announcing their earnings.
+
+And so if you're a small logistics company, even if your earnings numbers are knockout, you're going to be missed by the market because they're just focusing on what is Amazon and Meta and Tesla doing. If you're focusing on small companies or companies which are less covered, then there's more likely to be underreaction. Also, if you're willing to look internationally, outside the US, momentum will typically be stronger, again, because we have less news about many of these companies.
+
+Ben Felix: When does momentum fail as an investment strategy?
+
+Alex Edmans: This is a very important question because all of the strategies that I described in the book, they make money on average, but they're not going to make money in every particular circumstance. So momentum does do well in most times, but when it fails, it fails really badly.
+
+What is nice about this is that you can actually predict when momentum is going to fail, and it typically does badly in times of market stress. And you can measure market stress by, number one, just a big fall in the overall S&P 500, or number two, by the VIX being high. And the VIX is the volatility index.
+
+When stocks are really, really volatile, then momentum typically fails. Why is this? So in times of market stress, then a lot of things are going down.
+
+And after things have gone down, it's going to be likely that there'll be a rebound. So who will do well in a rebound? It will be very cyclical companies.
+
+But a cyclical company is one that did badly in the downturn, and if momentum avoids the companies that have done badly recently, then you're not going to be in the companies that are also poised to do well in the upswing. And so this is why you want to get out of momentum strategy in a time where the market is stressed, or it has gone down significantly recently.
+
+Ben Felix: Sounds kind of stressful.
+
+Alex Edmans: Well, it's stressful, but because you can predict it, it's less stressful than if there were just some random shocks to momentum.
+
+Ben Felix: Super interesting. Are there any products or strategies you know that are doing that, that are timing momentum exposure based on the VIX?
+
+Alex Edmans: I don't know of a strategy. I know of a paper, I think it was called Momentum Crashes by Kent Daniel, who was at Goldman Sachs Asset Management. He's now a professor at Columbia, but was in the private sector.
+
+And Toby Moskovitz, who's a professor at Yale, who also spent time at, he's I think still a partner at AQR. So I don't know whether they've developed products at Goldman Sachs or AQR, but certainly this research suggests that you can have this enhanced momentum strategy where you're in it, but you tilt out of it when market is in a decline.
+
+Cameron Passmore: When does the law of one price break down?
+
+Alex Edmans: What is the law of one price to begin with? This will suggest that the whole is the sum of its part, that if there are two assets which are identical, then they should be trading at the same price. And this seems to be really basic.
+
+This is what you might learn in chapter one of a finance textbook, but even this simple statistic may actually not hold. So one example was 3Com and Palm. So what is Palm?
+
+So Palm made the Palm Pilot. When I was a junior investment banker a long, long time ago, Palm Pilots were the next big thing. You had them on your desk and that was a status symbol.
+
+And because Palm Pilots were so in vogue, when 3Com, the conglomerate that made them, floated Palm, the division that made them, the price of Palm went up so much that the value of Palm was bigger than the value of 3Com as a whole, so this actually made no sense. Why? Because one part of 3Com was worth greater than the whole. If you wanted to buy Palm, the best way of doing this is not to buy Palm itself, but to buy 3Com, which owned Palm, and then you're getting all of the other businesses for free. And that is one case where we have basically a stub, which is some subsidiary being worth more than the parent.
+
+So another example where the law of one price will break down is the off-the-run, on-the-run treasury phenomenon. So if I was to issue a new 10-year treasury bill right now, then that's going to be something which is going to be in huge demand because it's a new shiny issue. However, a 30-year treasury bill issued 20 years ago today would also be 10 years till maturity, it's got 10 years left to run.
+
+But because that was not a new one that was issued 20 years ago, that is just not seen as fashionable, it is not as liquid. And so people will pay more for something which is liquid, which we know that other people are trading, which people are excited about. So even though the cash flows on those two treasury bills are exactly the same, the one which has been recently issued is going to be the one which is going to be more expensive than the one that was issued 20 years ago.
+
+Ben Felix: There's a paper too from James Choi, I remember reading about how you can even have index mutual funds with materially different fees and people won't necessarily choose the lowest fee fund. Is that another example of the law of one price breaking down?
+
+Alex Edmans: Yes, exactly. Also, you might say, well, there's just different bank accounts with different interest rates and people are not always going to go with the highest yielding bank account, even though in today's world, you've got all of these price comparison sites which should drive you to the cheapest. And actually, also just for regular purchasing, you would be able to say, well, I can buy this book somewhere cheaper.
+
+And it may be people say, I don't want to go to Amazon, even though it's cheaper, I want to support my local independent bookstore. So sometimes it could be for rational reasons, you've got objectives other than financial returns. But sometimes it may well be that you're just not aware of this, or you don't bother doing the search.
+
+Ben Felix: Or the wrong information is salient. I think in that paper, if I remember correctly, people would choose a higher fee fund based on its past performance, but it was just based on a different past performance date, but they're both S&P index funds. But whatever, one showing eight years of returns and one showing six and the eight-year happens to be better, people will allocate to the one with a better historical return without realizing.
+
+Alex Edmans: Good point. That also just means that salience is really important. So whatever return you happen to advertise, people will latch on to that.
+
+And also there's different salience in terms of fees. So often if the fund says no initial charge, then that is attractive, even if the annual management charge is high, in the same way that if you're buying printers, people will go from the sticker price of the printer and not take the toner into account. That's the recurring charge, a bit like the analogy of the annual management fee on a fund.
+
+Ben Felix: So funny to talk about this stuff. It makes you really think that people are just not well equipped to make important financial decisions.
+
+Alex Edmans: This is why I wanted to write the book, even smart people make these mistakes. And it's not because they're just deliberately being foolish, but because it's just human. It's just human to cotton on to whatever we see, which is really, really salient.
+
+And we see this not just in investing. While the book is about investing, that is only the laboratory for studying human behavior in general. We see this in so many other fields, such as buying printers and toners, or as I mentioned earlier, overreacting to being missed off an email at work or being excluded from a meeting.
+
+Ben Felix: Can you talk about the big market delusion?
+
+Alex Edmans: The big market delusion is again, interesting because it's another example of this adding up phenomenon. So what I talked about earlier is that if you were to add up the different divisions in a company, it should sum to the value of the conglomerate as a whole, which was not the case in Palm and 3Com because Palm was worth more than the entire company. The big market delusion is the adding up on an industry level.
+
+So at the start of 2020s, we had the electric vehicle sector was so popular that if you were to add up all the EV companies together, you had a value of the total EV market, which was even higher than the traditional car industry. Now that made no sense because back then the EV industry was in its infancy. It was generating a fraction of the revenues of the traditional car market.
+
+But people often forget this adding up constraint. They might be so excited about EVs that they think, well, I need to buy every company in this sector because I don't know who the eventual winner might be. It might be Tesla. It might be NIO. It might be Xpeng. It might be BYD.
+
+And let me buy this just to ensure that I'm not missing out, the same fear of missing out that we discussed at the start of the conversation. But what people don't realize is that the market cannot end up supporting 10 winners. Not everybody can get a gold medal.
+
+When this industry finally shakes out, it may well be there's one or two dominant players. But the industry was priced as if every company would end up succeeding, which is why the total value of all of these companies led to an implausibly high value for the industry.
+
+Cameron Passmore: How important is diversification to investor outcomes?
+
+Alex Edmans: Diversification is really important, but for different reasons to what people think. So often people think, well, we diversify because we are risk averse. We're chickens.
+
+We want to not put all our eggs into one basket because this company may end up going bust. And so this is what puts people off diversification. They say, no, I want to really get rich.
+
+I don't really care about the downside. I want to go for the upside. If I've identified the next NVIDIA, I want to invest all my money in NVIDIA and not dilute it with some sort of more mediocre companies.
+
+But there's a number of problems with that argument. Number one is you don't know who the next NVIDIA will be, is that identifying future winners is notoriously difficult. As Ben, you said earlier, in the past, some of these big winners have been Altria.
+
+And that's linked to the second problem. The second reason why you want diversification is not so much downside protection, but upside potential. The value of diversification is to make sure that you are invested in whoever the next big winners are.
+
+Yes, in the past few years, it's been the Magnificent Seven, but we have no idea who it's going to be in the future. It could be an old economy company like Altria or Boeing. But unless we are in all of these companies, we might be missing out on the next big winners.
+
+And so I think diversification is really valuable, not only to avoid investing in the next Enron or Tyco, but to make sure that we're investing in the NVIDIAs of the future. And this is actually one way in which my own investing behavior has changed while writing this book and learning from this academic research, is how best of minds' papers, I think, are really important and have changed my way of thinking. I invest significantly more in index funds than I did in the past, particularly in developed markets like the US, where it might be difficult to identify significant mispricings.
+
+I think in frontier markets and emerging markets, there is much more potential for active management to create value, but I think it's more difficult in the US. I don't think I own any active funds in the US. I own a lot of active funds, but I don't think any of them are in the US because I believe the US is the most efficient market that we have.
+
+Ben Felix: There's a quote from Warren Buffett related to, I don't remember exactly what the quote is, but it's related to diversification. It's something along the lines of, "diversification is for the know-nothing investor," and that occasionally gets used by folks who want to justify picking stocks. What do you think that quote gets wrong?
+
+Alex Edmans: So I think, actually, it gets quite a bit right. I know that Charlie Munger said, "diversification is for people who just don't know what they're doing." And actually, I'm going to invoke Socrates here, who said, "I know that I know nothing."
+
+Actually, to recognize that you know nothing is actually a great state of enlightenment. Why? Because when you are trading, you are trading against other professional investors.
+
+So I might think, oh, I'm a finance professor. I should be able to trade individual stocks. But I know that I'd be trading against both of you, and you do this for a job.
+
+It's that maybe my day job is research and teaching and writing books, but I do not have all the contact with CEOs that you have or a team of analysts looking at the competitors of a company and what's in the pipeline. So yes, given some numbers, I could probably put them into a valuation model and come up with some competent valuation. But I don't have the inputs to put into my model because I don't have the access to information.
+
+So to realize by saying I know nothing, it's more a relative statement. If I know nothing compared to the average professional who's trading the stock, then actually it's very sensible for you to put your money into an index fund or to put it with an active fund manager who you trust in the same way that I'm reasonably smart and I could probably use AI to try to diagnose whatever illness I have, but it's better for me to go to a doctor and for me to recognize that actually I want professional advice of a doctor. Nobody would be ashamed of doing this and the same for investing to say no, I want to put this with a professional money manager who does this for a living. There should be no shame in that either.
+
+Cameron Passmore: How do round numbers affect stock prices?
+
+Alex Edmans: Much more than they should. So we love round numbers. It may well be that I bought the stock at 72 and it's now at 96, but I won't sell until it gets to 100.
+
+And this is an issue because if everybody else wants to sell at 100, then maybe it might not already ever reach there because there could be selling pressure when it starts to approach 100. So when I now put in my limit orders, I might put them in at 99.9 or 99.8 to make sure that I am not beholden to this round number fallacy. So if indeed the stock is trading for 99 right now and I think it's a sell, it's a good sell now.
+
+There's no sort of magic line which is crossed when it goes to 100 rather than just waiting for a round number to be crossed before taking a profit, which you might never do. Then just if you think that the stock is good value, then just to sell it.
+
+Ben Felix: I said earlier that it sounds like people are just not well-suited to making important financial decisions. What tools or how can people address all of the issues we've talked about to avoid making some of these investment mistakes or just decision-making mistakes in general?
+
+Alex Edmans: I think what we just touched on is really important, which is to know your edge. If I am going to be investing in anything other than an index fund, I need to have better information than the professional investors out there. So I don't trade individual stocks.
+
+Why? Because I don't think I have an edge on any company, even if it's an industry that I used to work in. So the chemicals industry where I started my career at Morgan Stanley, I do not have the team of analysts to look at what's the latest trends in surfactants and alkyd resins, so this is not something where I think I should be making any individual calls.
+
+What about to invest in actively managed funds? Yes, there are many actively managed funds that do well and beat the market, but actually identifying them is notoriously difficult. As you alluded to earlier, people often look at past performance even though the phrase past performance is not a guide to the future is more than just a regulatory term.
+
+It is something which has been found in the data. It's very difficult to predict future performance of fund managers just through looking at past performance. So if you don't think you can even identify active funds, maybe the best thing to do is just to hold the market portfolio, just to be in the market and stay in it through the peaks and troughs and to use the patience that you have which some professional fund managers don't have.
+
+Now, maybe you think I have more information than that. I am able to identify mutual fund managers, so for me my largest part of my personal portfolio is an active fund where I've known the fund manager for over 15 years now and I know their strategy. It was actually based on Intangibles and my first book Grow the Pie, and so that's why I've entrusted a large part of my portfolio to this company.
+
+But in the absence of knowing the process of the investment, not just the investment outcomes, it might be difficult for you to predict and to identify a great fund manager. So I think before we are going to do anything other than deviating from the market, we need to know what is our competitive advantage to justify us taking a different position.
+
+Ben Felix: That's a really interesting point. What do you think about the John Berk and Green finding about the efficient market for manager skill, where if a skilled manager shows that they're skilled through their returns, capital will flow to them to the point where they can no longer use their skill to benefit their investors, but they themselves collect the rents?
+
+Alex Edmans: I think it's a really important insight, which I cover in the book. It's a beautiful paper and one that's been quite rightly highly influential. Here is the key punchline, is that no persistence in performance does not mean there is no skill.
+
+When people have said, oh, well, you can't predict future performance and past performance, some fund managers have said, well, I object to this because I spend so much of my efforts identifying companies. I do have a unique skill, but the problem is that as soon as a fund manager has a unique skill, then people want to go into his or her fund and this dilutes the fund. Why?
+
+Because you now have such a large fund that you can't put all of your money in your 10 best ideas. You need to spread them over more and more companies and then you're going to have to go into worse ideas because of diminishing returns. So even if skill were really predictable, then if other investors are able to identify that skill, then either the fund becomes so large that it doesn't outperform or the fund manager just increases their fees.
+
+So why am I confident investing in this fund that I've chosen? Because it's just not as known. It invests in emerging markets and frontier markets.
+
+And I happen to know the fund manager, so I was able to get in on a quite good deal. But if I was a regular investor, then maybe I'd have to pay a much, much higher fee here. So I'm quite lucky in being able to invest at preferential terms.
+
+Ben Felix: Yes, super interesting. I think there was another paper that found that fund managers with foreign sounding names or foreign names did have persistent performance for the same kind of reason because the market did not recognize their skill in the same way that they did other managers.
+
+Alex Edmans: This rings a bell. I think there's foreign sounding names and I think there might have also been a paper on minority fund managers be this both gender and ethnicity is that because people just still discounted them even if their performance had been good. And again, this is the general theme of our conversation, which is to go where others don't go.
+
+So to Cameron's earlier question, where is momentum most profitable? It will be in the small stocks, the stocks with little analyst coverage, the stocks outside the US. Where might be their skill in fund managers? It might be in the frontier market funds like the one I invest in or fund managers, which for some irrational reason are discriminated against.
+
+Ben Felix: Yeah, the manager selection, it's so interesting because you have to have a manager with a strategy that you think makes sense. But then on top of that, you have to make sure that the manager themselves has not been flooded with capital. So you've got like two different levels of thinking to identify a strategy and identify a manager that the market has not identified yet.
+
+Alex Edmans: This is the general principle of investing. So if you want to invest in a company, it's a company that is great, but the market doesn't yet know it's great. So the idea of investing in Tesla because electric cars are the future, well, that's probably been priced in.
+
+And it's the same with a fund manager. So while the fund manager you might think doesn't have the equivalent of a stock price, there the response will either be them upping their fees or other investors flooding in and diluting them in the same way I think it's Cathie Wood's ARK fund went up by about 15 times from 4 billion to 60 billion when she had that one really good year. And this diluted all of her good ideas.
+
+So to go where other people don't go, this is again why understanding the psychology of financial markets and the psychology of other investor behavior is so valuable because you want to be some contrarian and go against where other people are getting overly excited.
+
+Ben Felix: Super interesting. And also, I think interested in your thoughts, a pretty good argument for someone who doesn't want to spend too much time thinking about this. You did already say this to just invest in index funds.
+
+Alex Edmans: Yeah. And if you do this, there is no shame at all. Then you're benefiting from two of the most powerful things in finance.
+
+One of them is diversification, as we've discussed. And the second is compounding. So people are really attracted, but I want to be in the next NVIDIA, which earned 3000% over this five year period.
+
+But to earn just 10% per year in the market, diversified, if I did this for 10 years, then that's not 10 times 10 100%. That's 160% because of the power of compounding. And so at the end of the book, we'll have 20 tips on how to put the ideas into practice.
+
+One of them is know your edge, as we've discussed. But the second is just to play the game. And what I mean by this is just by being in the market, you will significantly outperform cash and treasury bills and corporate bonds.
+
+Why? Because of another phenomenon known as the equity premium puzzle, which is the extra return that stocks have over treasury bills or cash is so much higher than what it should be given the level of risk aversion that people have. And this is another reason for diversification, because if I know that I am in a squared out portfolio, and I don't have all my eggs in one basket, then I can actually put more of my portfolio into equity.
+
+So maybe if I just invest in a single stock, I would not put more than 50% of my portfolio in that stock. But if I'm holding a diversified portfolio, maybe I could put 80 or 90% of my portfolio into equities knowing that I'm diversified in the same way that if you were to have good brakes on your car, people shouldn't say, oh, you're a chicken for having good brakes. Instead, good brakes allow you to drive faster, because then you can slam on the brakes if, say, a car crosses in front of you.
+
+And that's the same idea of diversification. By spreading out individual company risk, you're able to take more equity market risk as a whole.
+
+Ben Felix: That last point on just playing the game is so important. Whereas if you're not investing in stocks, you're giving up so much relative to what you might be able to get from an active manager over the equity risk premium. That's a great point and probably a great place to finish on, Alex.
+
+Alex Edmans: Well, thank you so much for having me back. It's been really good to have all three conversations with you. Everyone has been very interesting and also highly practical and relevant. So I really appreciate you bringing your practitioner lens to my academic research.
+
+Ben Felix: Awesome. Thanks, Alex.
+
+Alex Edmans: Bye.
+
+Cameron Passmore: That, Ben, to me, represents what this podcast represents, which is basically holding up what great work has been done by academia to call out the foibles of humans. I think back to something I believe David Booth said when he was on with us. We don't have necessarily investors with investment problems.
+
+We have investments with investor problems. It's just so true. Alex is just so on top of the research, obviously.
+
+It was great to hear you and him riff on a bunch of papers that, many of which we've talked about on the podcast. He's just so good at making it so understandable and so relatable and he brings the energy to it. He's just such a great guy, great guest.
+
+Ben Felix: His recall of academic literature is intimidating. You can say something and he knows the paper. He knows when it was published.
+
+He knows exactly what the paper said. It's just like, man, that's very impressive. It makes it a lot of fun to have a conversation with him about this stuff.
+
+Cameron Passmore: I think back to I listened to David Chilton's podcast, Wealthy Barber. He talks about his dad being one of the greatest investors that he's ever known. He said his dad, I believe he says, knows nothing, has done nothing, never looks at it.
+
+As David says, he's probably had the best performance of anybody that he knows. This is the great irony of all this. You can do all this work and understand and learn all this stuff, but the know nothing investor has just as good a chance of having a great outcome as someone who studies this.
+
+It's just such an interesting paradox about this whole subject matter. Then you mix into it like the fact that being human is hard. Being human and making financial decisions is really hard.
+
+Ben Felix: We're not built for that. I love the nuance in the conversation where it's like these anomalies exist. Here's why they exist.
+
+There are active managers that may be able to exploit them. You may be able to exploit them, but there are obviously problems with doing that. It arrives back to the same place where it's like, yeah, maybe you could try to do this.
+
+Alex, as he said, himself does try, at least in some markets, to outperform the market. The message that just being an index fund investor, being a know nothing investor, which has a lot of power to it, as Alex explained, invoking Socrates, is itself a very powerful position to take. It is also interesting that there are evidence-based strategies and approaches to try and outperform the market.
+
+Some of them might work. We technically are using actively managed funds with clients through Dimensional, which are index fund adjacent, but they are explicitly not index funds. They are trying to exploit some of the stuff that Alex talked about in the episode.
+
+It's just such a nuanced conversation. It comes back to even what is active management. At what point have we violated the benefits of indexing?
+
+I think, as Alex talked about, if you have diversification, if you're pursuing some of this stuff in the right way, with the right product, with the right manager, and you don't think that they've reached their capacity, which those are a lot of ifs, it can make sense. To try and outperform, but there's a lot of power to just indexing, is what I was going to say. But I think, I mean, talk in our book for a second here, I think Dimensional sits kind of in between that, where it's like they're doing a little bit of stuff to try and be different, and they do think that it's going to be beneficial in the long run.
+
+It's not crazy. They're not so different from the market that if what they believe is going to do well doesn't, you're not going to lose a huge amount relative to the market. It's just going to be a slight performance difference.
+
+Cameron Passmore: It's so much of what we say here daily inside the team. Three very simple statements, markets work, diversification is your buddy, and costs matter. We say that here all the time, and that's the common thread through this conversation. Even Alex talked about the cost advantage he has in one of his strategies, right?
+
+Ben Felix: Yeah. Talked about the fund that he's in. We looked it up afterwards. It's capped. They won't take any more money. Alex talked about that when we were talking about Berk and Green or Berk and van Binsbergen, where a fund can either cap the assets and raise the prices, or they can keep taking money. It does speak to, again, I don't know if you'd call that a market inefficiency or just a structural advantage, but the only reason Alex is able to benefit from that strategy is that he has basically preferential pricing for a fund.
+
+If those managers truly are skilled and there is true benefit from that skill to go to investors, Alex is able to benefit because he's got a lower fee than everybody else in the bucket. Applies to private equity too. If you look at private equity returns, gross of fees have been incredible, but very few people get gross of fee private equity returns. You've got to pay whatever it is, five or 6%, and net of that, there's no performance.
+
+Cameron Passmore: All that chatter a few years ago around Renaissance Technologies. Great, good, if you can get into it, you can't get in.
+
+Ben Felix: That's what Cliff jokes about. We asked Cliff about that when he was on this podcast. He was like, yeah, they're incredible, but they won't take your money. We will.
+
+Cameron Passmore: Great conversation. Loved having him on. Third time on, which is pretty cool.
+
+Ben Felix: Yeah, he's brilliant. Alex is, for people who don't know, he's a professor of finance at the London Business School, as we said in the intro. He's a fellow of the British Academy.
+
+He's got his PhD from MIT as a Fulbright Scholar. He was previously a tenured professor at Wharton and an investment banker at Morgan Stanley. He's spoken at the World Economic Forum in Davos, testified in the UK Parliament, which we talked to him about in one of our episodes, and given the TED Talk, What to Trust in a Post-Truth World, and the TEDx Talk, The Social Responsibility of Business with combined millions of views.
+
+As you mentioned earlier, Cameron, he's the author of three books now, Grow the Pie, May Contain Lies, and the book that we talked about today, Madness of Markets. We've talked about all three of his books, and I think each conversation has been really interesting. I love how he's an academic, so he's drawing on his own research, but his command of all the other research is just so impressive, which I think makes for a really good conversation.
+
+Cameron Passmore: I agree. As always, everybody, thanks for listening and watching. We'll see you next week.
+
+Ben Felix: Yep. Thanks, everyone. Hope you enjoyed the conversation.
+
+Disclaimer:
+
+Portfolio management and brokerage services in Canada are offered exclusively by PWL Capital, Inc. (“PWL Capital”) which is regulated by the Canadian Investment Regulatory Organization (CIRO) and is a member of the Canadian Investor Protection Fund (CIPF).  Investment advisory services in the United States of America are offered exclusively by OneDigital Investment Advisors LLC (“OneDigital”). OneDigital and PWL Capital are affiliated entities, and they mostly get on really well with each other. However, each company has financial responsibility for only its own products and services.
+
+Nothing herein constitutes an offer or solicitation to buy or sell any security. Occasionally we tell you not to buy crappy investments in the first place, but that’s not the same thing as telling you to sell them.
+
+This communication is distributed for informational purposes only; the information contained herein has been derived from sources believed to be “truthy,” but not necessarily accurate. We really do try, but we can’t make any guarantees. Even if nothing we say is fundamentally wrong, it might not be the whole story.
+
+Furthermore, nothing herein should be construed as investment, tax or legal advice. Even though we call the podcast “your weekly reality check on sensible investing and financial decision making,” you should not rely on us when making actual decisions, only hypothetical ones.
+
+Different types of investments and investment strategies have varying degrees of risk and are not suitable for all investors. You should consult with a professional adviser to see how the information contained herein may apply to your individual circumstances. It might not apply at all. Honestly, you can probably ignore most of it.
+
+All market indices discussed are unmanaged, do not incur management fees, and cannot be invested in directly. Which is a shame, because it would be awesome if you could.
+
+All investing involves risk of loss: including loss of money, loss of sleep, loss of hair, and loss of reputation. Nothing herein should be construed as a guarantee of any specific outcome or profit.
+
+Past performance is not indicative of or a guarantee of future results. If it were, it would be much easier to be a Leafs fan.
+
+All statements and opinions presented herein are those of the individual hosts and/or guests, are current only as of this communication’s original publication date. No one should be surprised if they have all since recanted. Neither OneDigital nor PWL Capital has any obligation to provide revised statements and/or opinions in the event of changed circumstances.
+
+Is there an error in the transcript? Let us know! Email us at info@rationalreminder.ca. 
+
+Be sure to add the episode number for reference.
 
